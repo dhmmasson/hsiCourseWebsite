@@ -1,5 +1,10 @@
 project:
   type: website
+  preview: 
+    port: 8199 
+    watch-inputs: true
+    browser: false
+  
 
 website:
   title: "HSI Course"
@@ -8,6 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  
 
 format:
   html:
@@ -16,6 +22,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    email-obfuscation: javascript
 
 
 
