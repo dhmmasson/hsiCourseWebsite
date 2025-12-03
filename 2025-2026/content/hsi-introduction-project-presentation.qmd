@@ -1,0 +1,22 @@
+---
+title: "HSI Introduction & Project Presentation"
+description: "Introductory session to Human-System Integration (HSI) and presentation of the course project."
+authors: ["D. Masson", "A. Disdier"]
+date: 2025-12-05
+duration: "2h"
+type: class
+---
+
+# HSI Introduction & Project Presentation
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

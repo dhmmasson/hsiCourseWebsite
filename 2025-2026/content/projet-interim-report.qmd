@@ -1,0 +1,20 @@
+---
+title: "Projet (Interim Report)"
+description: "Project working session focused on the interim report."
+authors: []
+date: 2026-01-12
+duration: "2h"
+type: project-session
+---
+
+# Projet (Interim Report)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes

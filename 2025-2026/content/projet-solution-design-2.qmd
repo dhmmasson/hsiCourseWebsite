@@ -1,0 +1,19 @@
+---
+title: "Projet (Solution Design - 2)"
+description: "Second project working session focused on solution design."
+authors: []
+duration: "4h"
+type: project-session
+---
+
+# Projet (Solution Design - 2)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes

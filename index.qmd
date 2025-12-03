@@ -1,0 +1,17 @@
+---
+title: "HSI Course Website"
+description: "Main welcome page for the ESTIA HSI Course, across all academic year"
+author: 
+  - name: Masson Dimitri
+    orcid: 0000-0002-7072-3146
+    email: d.masson@estia.fr
+    affiliation: ESTIA
+listing: 
+  contents: ./**/index.qmd
+  type: grid
+---
+
+This is the website for the module HSI at ESTIA.
+
+## Academic Years
+

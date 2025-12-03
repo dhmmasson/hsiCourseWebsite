@@ -1,0 +1,18 @@
+---
+title: "Resources"
+description: "Key references, readings, and tools for the HSI course (2025-2026)."
+---
+
+# Resources
+
+## Core Readings
+
+<!-- Add references to books, articles, and standards here. -->
+
+## Tools and Platforms
+
+<!-- Add links to software tools (e.g., SCC, PRODEC, modeling tools) and platforms used in the course. -->
+
+## Additional References
+
+<!-- Add optional readings, videos, and external resources here. -->

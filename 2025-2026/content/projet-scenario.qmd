@@ -1,0 +1,20 @@
+---
+title: "Projet (Scenario)"
+description: "Project working session focused on scenario definition and refinement."
+authors: []
+date: 2026-01-09
+duration: "2h"
+type: project-session
+---
+
+# Projet (Scenario)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes

@@ -1,0 +1,22 @@
+---
+title: "Sociotechnical Systems"
+description: "Class on sociotechnical systems and their properties."
+authors: ["G.A. Boy"]
+date: 2026-01-06
+duration: "2h"
+type: class
+---
+
+# Sociotechnical Systems
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

@@ -1,0 +1,19 @@
+---
+title: "Projet (Solution Design)"
+description: "Project working session focused on solution design."
+authors: []
+duration: "4h"
+type: project-session
+---
+
+# Projet (Solution Design)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes

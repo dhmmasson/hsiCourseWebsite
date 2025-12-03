@@ -1,0 +1,17 @@
+---
+title: "Final Review (Soutenance 2)"
+description: "Final project review (Soutenance 2)."
+authors: []
+duration: "2h"
+type: review
+---
+
+# Final Review (Soutenance 2)
+
+## Objectives
+
+## Agenda
+
+## Evaluation Criteria
+
+## Feedback & Next Steps

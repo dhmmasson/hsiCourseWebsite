@@ -1,0 +1,22 @@
+---
+title: "System Context and Air Traffic Control"
+description: "Class on system context and air traffic control."
+authors: ["A. Disdier"]
+date: 2026-01-09
+duration: "2h"
+type: class
+---
+
+# System Context and Air Traffic Control
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

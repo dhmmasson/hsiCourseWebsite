@@ -1,0 +1,15 @@
+---
+title: "QCM"
+description: "Multiple-choice questionnaire (QCM) for the HSI course."
+authors: []
+duration: "2h"
+type: assessment
+---
+
+# QCM
+
+## Instructions
+
+## Topics Covered
+
+## Notes

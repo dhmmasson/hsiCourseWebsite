@@ -1,0 +1,36 @@
+---
+title: "Course Project: Distributed Control and Command Center (CCC)"
+description: "Project brief for the design of a distributed Control and Command Center for a nano-satellite."
+type: project
+---
+
+# Course Project: Distributed Control and Command Center (CCC)
+
+## Project Overview
+
+<!-- Short summary of the project goals and scope. -->
+
+## Context
+
+<!-- Paste or summarize the CCC and NAASC30 context from CourseStructure.md as needed. -->
+
+## Problem Statement
+
+<!-- Outline the complex sociotechnical nature of the CCC and key challenges. -->
+
+## Key HSI Challenges
+
+1. Knowledge continuity under high turnover
+2. Support for shift transitions and training
+3. Distributed control and governance
+
+## Deliverables
+
+- HSI Plan
+- Concept of Operations (CONOPS)
+- Scenario-driven designs
+- Final report and presentation
+
+## Evaluation
+
+<!-- Describe how the project will be evaluated (alignment with HSI principles, quality of scenarios, etc.). -->

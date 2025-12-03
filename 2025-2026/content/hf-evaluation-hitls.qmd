@@ -1,0 +1,22 @@
+---
+title: "HF Evaluation & HITLS"
+description: "Class on human factors evaluation and Human-In-The-Loop simulations (HITLS)."
+authors: ["C. Morel", "D. Masson"]
+date: 2026-01-12
+duration: "2h"
+type: class
+---
+
+# HF Evaluation & HITLS
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

@@ -1,0 +1,25 @@
+---
+title: "Schedule"
+description: "Schedule of all sessions for the HSI course (2025-2026)."
+listing:
+  contents: content/*.qmd
+  type: table
+  fields: [date, sequence, title, type, duration, evaluation]
+  field-display-names:
+    date: "date" 
+    sequence: "#"
+    title: "Title"
+    type: "Type"
+    duration: "Duration"
+    evaluation: "Evaluation"
+  sort: 
+    - date
+---
+
+# Schedule
+
+The schedule below lists all course sessions. Each item links to a dedicated class or project page in the content folder.
+
+```{=html}
+<!-- Optionally, replace this static list with a generated table later. -->
+```

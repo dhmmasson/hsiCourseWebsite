@@ -1,0 +1,22 @@
+---
+title: "Introduction of Projects"
+description: "Session introducing the HSI course projects."
+authors: ["D. Masson", "A. Disdier"]
+date: 2026-01-06
+duration: "2h"
+type: class
+---
+
+# Introduction of Projects
+
+## Session Objectives
+
+## Agenda
+
+## Project Overview
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

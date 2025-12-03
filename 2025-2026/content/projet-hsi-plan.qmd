@@ -1,0 +1,20 @@
+---
+title: "Projet (HSI Plan)"
+description: "Project working session focused on the HSI Plan."
+authors: []
+date: 2026-01-07
+duration: "2h"
+type: project-session
+---
+
+# Projet (HSI Plan)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes

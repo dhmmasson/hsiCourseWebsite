@@ -1,0 +1,19 @@
+---
+title: "Human-System Integration (HSI) Course 2025-2026"
+description: "Overview page for the ESTIA HSI course (academic year 2025-2026)."
+---
+
+# Human-System Integration (HSI) Course 2025-2026
+
+Welcome to the HSI course for the academic year 2025-2026.
+
+## Course Overview
+
+<!-- Brief high-level description of the course for this year. -->
+
+## Navigation
+
+- See the syllabus for learning outcomes and evaluation criteria.
+- See the schedule for the list of classes and sessions.
+- See the project page for the nano-satellite Control and Command Center project description.
+- Use the sidebar to access individual class pages.

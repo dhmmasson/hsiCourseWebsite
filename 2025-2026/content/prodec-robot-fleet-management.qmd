@@ -1,0 +1,22 @@
+---
+title: "PRODEC & Robot Fleet Management"
+description: "Class on PRODEC platform and robot fleet management."
+authors: ["C. Morel", "D. Masson"]
+date: 2026-01-08
+duration: "2h"
+type: class
+---
+
+# PRODEC & Robot Fleet Management
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

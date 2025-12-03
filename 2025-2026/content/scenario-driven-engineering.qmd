@@ -1,0 +1,22 @@
+---
+title: "Scenario-Driven Engineering"
+description: "Class on scenario-driven engineering methods."
+authors: ["D. Masson"]
+date: 2026-01-07
+duration: "2h"
+type: class
+---
+
+# Scenario-Driven Engineering
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

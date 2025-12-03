@@ -1,0 +1,70 @@
+website:
+  sidebar:
+    - id: course-2025-2026
+      title: "HSI 2025-2026"
+      style: "docked"
+      contents:
+        - text: "Home"
+          href: 2025-2026/index.qmd
+        - text: "Syllabus"
+          href: 2025-2026/syllabus.qmd
+        - text: "Schedule"
+          href: 2025-2026/schedule.qmd
+        - text: "Resources"
+          href: 2025-2026/resources.qmd
+        - text: "Project"
+          href: 2025-2026/project.qmd
+        - section: "Classes & Sessions"
+          contents:
+            - href: 2025-2026/content/hsi-introduction-project-presentation.qmd
+              text: "HSI Introduction & Project Presentation"
+            - href: 2025-2026/content/system-thinking-complexity.qmd
+              text: "System Thinking & Complexity"
+            - href: 2025-2026/content/hsi-handbook-hsip.qmd
+              text: "HSI Handbook & HSIP"
+            - href: 2025-2026/content/systemic-cognitive-engineering.qmd
+              text: "Systemic Cognitive Engineering"
+            - href: 2025-2026/content/functional-cognitive-engineering.qmd
+              text: "Functional Cognitive Engineering"
+            - href: 2025-2026/content/sociotechnical-systems.qmd
+              text: "Sociotechnical Systems"
+            - href: 2025-2026/content/introduction-of-projects.qmd
+              text: "Introduction of projects"
+            - href: 2025-2026/content/concept-of-operations-conops.qmd
+              text: "Concept of Operations (CONOPS)"
+            - href: 2025-2026/content/projet-hsi-plan.qmd
+              text: "Projet (HSI Plan)"
+            - href: 2025-2026/content/ethnographic-tools.qmd
+              text: "Ethnographic tools"
+            - href: 2025-2026/content/scenario-driven-engineering.qmd
+              text: "Scenario-Driven Engineering"
+            - href: 2025-2026/content/prodec-robot-fleet-management.qmd
+              text: "PRODEC & Robot Fleet Management"
+            - href: 2025-2026/content/projet-conops.qmd
+              text: "Projet (CONOPS)"
+            - href: 2025-2026/content/system-context-air-traffic-control.qmd
+              text: "System Context and Air Traffic Control"
+            - href: 2025-2026/content/projet-scenario.qmd
+              text: "Projet (Scenario)"
+            - href: 2025-2026/content/modeling-mbhsi.qmd
+              text: "Modeling & MBHSI"
+            - href: 2025-2026/content/hf-evaluation-hitls.qmd
+              text: "HF Evaluation & HITLS"
+            - href: 2025-2026/content/projet-interim-report.qmd
+              text: "Projet (Interim Report)"
+            - href: 2025-2026/content/training-in-hsi.qmd
+              text: "Training in HSI"
+            - href: 2025-2026/content/preliminary-review-soutenance-1.qmd
+              text: "Preliminary Review (Soutenance 1)"
+            - href: 2025-2026/content/qcm.qmd
+              text: "QCM"
+            - href: 2025-2026/content/projet-solution-design.qmd
+              text: "Projet (Solution Design)"
+            - href: 2025-2026/content/projet-solution-design-2.qmd
+              text: "Projet (Solution Design - 2)"
+            - href: 2025-2026/content/risk-taking-prevention-design.qmd
+              text: "Risk-Taking Prevention & Design"
+            - href: 2025-2026/content/projet-final-design-report.qmd
+              text: "Projet (Final Design and Report)"
+            - href: 2025-2026/content/final-review-soutenance-2.qmd
+              text: "Final Review (Soutenance 2)"

@@ -1,0 +1,22 @@
+---
+title: "Functional Cognitive Engineering"
+description: "Class on functional cognitive engineering methods."
+authors: ["G.A. Boy"]
+date: 2026-01-06
+duration: "2h"
+type: class
+---
+
+# Functional Cognitive Engineering
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

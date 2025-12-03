@@ -1,0 +1,21 @@
+---
+title: "Training in HSI"
+description: "Class on training considerations in Human-System Integration."
+authors: ["P. Palanque"]
+duration: "2h"
+type: class
+---
+
+# Training in HSI
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

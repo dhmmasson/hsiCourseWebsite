@@ -1,0 +1,21 @@
+---
+title: "Concept of Operations (CONOPS)"
+description: "Class on developing a Concept of Operations (CONOPS)."
+authors: ["D. Masson"]
+duration: "2h"
+type: class
+---
+
+# Concept of Operations (CONOPS)
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

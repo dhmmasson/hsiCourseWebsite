@@ -1,0 +1,22 @@
+---
+title: "Modeling & MBHSI"
+description: "Class on modeling techniques and Model-Based HSI (MBHSI)."
+authors: ["S. Vales"]
+date: 2026-01-09
+duration: "2h"
+type: class
+---
+
+# Modeling & MBHSI
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

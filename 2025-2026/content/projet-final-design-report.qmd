@@ -1,0 +1,19 @@
+---
+title: "Projet (Final Design and Report)"
+description: "Project working session focused on final design and report."
+authors: []
+duration: "2h"
+type: project-session
+---
+
+# Projet (Final Design and Report)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes

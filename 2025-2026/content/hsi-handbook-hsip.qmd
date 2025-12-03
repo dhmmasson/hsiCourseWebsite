@@ -1,0 +1,22 @@
+---
+title: "HSI Handbook & HSIP"
+description: "Class on the HSI Handbook and Human Systems Integration Plans (HSIP)."
+authors: ["D. Masson", "A. Disdier"]
+date: 2026-01-05
+duration: "2h"
+type: class
+---
+
+# HSI Handbook & HSIP
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

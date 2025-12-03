@@ -1,0 +1,20 @@
+---
+title: "Projet (CONOPS)"
+description: "Project working session focused on the CONOPS."
+authors: []
+date: 2026-01-08
+duration: "2h"
+type: project-session
+---
+
+# Projet (CONOPS)
+
+## Session Objectives
+
+## Agenda
+
+## Team Activities
+
+## Deliverables / Milestones
+
+## Notes
