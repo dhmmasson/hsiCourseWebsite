@@ -14,6 +14,8 @@ type: project-session
 ## Agenda
 
 ## Team Activities
+- Each group downloads the [HSI Plan Template (student-friendly version)](assets/hsi-plan.docx) and fill in the first page with **group member names** and assigned **roles** (HFE SME, Safety SME, etc.)
+
 
 ## Deliverables / Milestones
 

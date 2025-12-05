@@ -14,9 +14,26 @@ type: class
 ## Agenda
 
 ## Key Concepts
+<style>
+.slide-deck {
+    border: 3px solid #dee2e6;
+    width: 100%;
+    height: 475px;
+}
+</style>
+
+<div>
+```{=html}
+<iframe class="slide-deck" src="hsi-handbook-hsip-slides.html"></iframe>
+```
+</div>
 
 ## In-Class Activities
 
 ## Preparation & Readings
+**Before project session on Wednesday**:
+- Fetch the PDF file of the Handbook at [https://ntrs.nasa.gov/citations/20210010952](https://ntrs.nasa.gov/citations/20210010952) and **read Sections 2.1 and 2.3** (you can skim Section 2.2 about HSI Domains for now and refer to it later)
+- Take a look at [the HSI Plan (student-friendly version)](assets/hsi-plan.docx) that you will need to fill in for the evaluation
+
 
 ## Notes
