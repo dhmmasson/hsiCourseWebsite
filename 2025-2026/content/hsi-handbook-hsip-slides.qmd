@@ -80,13 +80,12 @@ HSI Resources at NASA \
 [HSI in the Project Life Cycle]{style="color: red;"} \
 HSI in Safety \
 [HSI Case Studies]{style="color: red;"} \
-[HSI Tools]{style="color: red;"} \
+HSI Tools \
 HSI Data Requirements \
 HSI (more) Resources
 :::
 
 ::::
-
 
 # HSI Fundamentals
 ## HSI Fundamentals - HSI Goal
@@ -140,6 +139,42 @@ The goals of HSI is:
 ## HSI Fundamentals - HSI Domains
 ![The six HSI Domains (for NASA)](assets/hsi_domains.png)
 
+## HSI Fundamentals - Human Factors Engineering
+- TODO
+
+## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- D.8 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- D.8 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d8.png){width="100%"}
+:::
+
+::::
+
+
+## HSI Fundamentals - Operations
+- TODO
+
+## HSI Fundamentals - Maintainability and Supportability
+- TODO
+
 ## Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing {background-color="#3c405c"}
 :::: {.columns}
 
@@ -154,12 +189,73 @@ The goals of HSI is:
 ::::
 
 ## Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing {background-color="#3c405c"}
-- D.1
+:::: {.columns}
 
-## HSI Fundamentals - Domain trade-offs
+::: {.column width="85%"}
+- D.1 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d1.png){width="100%"}
+:::
+
+::::
+
+## HSI Fundamentals - Habitability and Environment
+- TODO
+
+## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- D.3 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- D.3 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d3.png){width="100%"}
+:::
+
+::::
+
+## HSI Fundamentals - Safety
+- TODO
+
+## HSI Fundamentals - Training
 - TODO
 
 # HSI Impacts
+
+## HSI Impacts - Overall Effects
+### Successful HSI application results in:
+- Improves safety and health, including fewer accidents and less lost time
+- User satisfaction, trust, and loyalty, which increase the probability of mission success
+- Ease of use, resulting in reduced incidence of user errors and higher resilience (error recovery)
+- Ease of learning, together with reduced training time
+- Higher productivity and work effectiveness
+
+## HSI Impacts - Overall Effects
+### Failure to apply HSI results in greater potential for:
+- Risk to human life, which could terminate the current mission and threaten future missions 
+- Risk of major accidents that threaten missions and significantly increase cost
+- Mishaps, injuries, and illnesses that reduce mission effectiveness and threaten success
+- Higher error rates
+- Greater training burden—time and personnel
+- Increased development costs
+- Costly redesigns and operational workarounds
+- Higher maintenance support and service costs
 
 ## HSI Impacts - Life-Cycle Cost Effect of HSI
 :::: {.columns}
@@ -176,20 +272,99 @@ The goals of HSI is:
 ::::
 
 ## HSI Impacts - Return on Investment
-- Bonjour
+- Short-term focus can lead on-shedule and on-budget performances, *but* system may be suboptimal that cannot be deployed safely and effectively without costly corrections and rework
+- The *earlier* an HSI investment can be made, the *greater* its return
 
 ## Example: Implications of Instrument Design Choice {background-color="#3c405c"}
-- PAGE 24
+:::: {.columns}
 
-## HSI Impacts - Investment in HSI
+::: {.column width="22%"}
+![](assets/curiosity.jpg)
+:::
 
-## HSI Impacts - Affordability
+::: {.column width="63%"}
+- Curiosity Rover runs a full Martian day of commands without real-time monitoring
+- Instruments can be damaged by direct sun exposure
+- Rover's protective cover was removed due to risk of actuator failure that could disable the instrument
+- Without the cover, teams must analyze every planned observation for sun safety, adding time and workload
+- Initially a manual process; later improved with ground-software tools and on-board protections
+- Design change increased operating costs and risks of damage
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: Implications of Instrument Design Choice {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="22%"}
+![](assets/curiosity.jpg)
+:::
+
+::: {.column width="63%"}
+- Curiosity Rover runs a full Martian day of commands without real-time monitoring
+- Instruments can be damaged by direct sun exposure
+- Rover's protective cover was removed due to risk of actuator failure that could disable the instrument
+- Without the cover, teams must analyze every planned observation for sun safety, adding time and workload
+- Initially a manual process; later improved with ground-software tools and on-board protections
+- Design change increased operating costs and risks of damage
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_curiosity.png){width="100%"}
+:::
+
+::::
 
 ## HSI Impacts - HSI in Trade Studies
+- In HSI, HSI Domains for a system satisfied within the constraints of performance, LCC, and development/delivery schedule
+- Systems in HSI are complex, and may require a variety of context specific HSI trade-offs
+- Decision‐makers use trade studies throughout the project life cycle to select the most acceptable solution from a set of proposed solutions
+- A trade-off study is not done just once at the beginning of a project.
+- Trade-offs are made continually throughout a project, when creating team communication methods, selecting components, choosing implementation techniques, designing test programs, and maintaining schedules
+
+## Example: Reliable and Maintainable F-119 Engine {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- USAF ATF program emphasized RM&S to curb rising logistics costs (>50% of USAF budget)
+- Pratt & Whitney (against GE) centered its F-119 engine design on RM&S and maintainer needs, conducting ~200 formal trade studies
+- This approach led to: only 11 tool ends total, all replaceable units independent, and 20-minute replacement max
+- Engineers directly observed USAF maintenance facilities to enhance design, documentation, diagnostics and tooling
+- Full-scale mock-ups validated human–system interaction and maintainability goals (costly, but worth it)
+
+![](assets/f119.jpg){width="35%"}
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: Reliable and Maintainable F-119 Engine {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- USAF ATF program emphasized RM&S to curb rising logistics costs (>50% of USAF budget)
+- Pratt & Whitney (against GE) centered its F-119 engine design on RM&S and maintainer needs, conducting ~200 formal trade studies
+- This approach led to: only 11 tool ends total, all replaceable units independent, and 20-minute replacement max
+- Engineers directly observed USAF maintenance facilities to enhance design, documentation, diagnostics and tooling
+- Full-scale mock-ups validated human–system interaction and maintainability goals (costly, but worth it)
+
+![](assets/f119.jpg){width="35%"}
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d6.png){width="100%"}
+:::
+
+::::
 
 # HSI Implementation
-## HSI Implementation
-- TODO
 
 ## HSI Implementation - HSI Practitioners
 ![HSI Roles](assets/hsi_team_overview.png){width=80%}
@@ -198,6 +373,46 @@ The goals of HSI is:
 - **HSI Practitioner (or SME = Subject Matter Expert)**: Person trained and experienced in HSI domains, integrating the domains capable of identification of interrelationships across domains and multiple technical discipline areas throughout the project / product lifecycle, who participates in execution of HSI Plan/Program
 - **HSI Lead**: HSI practitioner highly experienced in HCD execution, system design as integrator participating in project management leading HSI effort, defining HSI scope, mission, budget, schedule as part of the rest of the project throughout its lifecycle (research, design, development and system implementation) as per of SE
 - **HSI POC**: Contractor’s HSI representative who is capable of leading HSI efforts within the contractor’s team
+
+## HSI Implementation - Concept of Operations (ConOps)
+- TODO
+
+## Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- D.5 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- D.5 blablablablablablablablablablablablablablablablablablablablabla
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d5.png){width="100%"}
+:::
+
+::::
+
+
+## HSI Implementation - Function Allocation
+- TODO
+
+## HSI Implementation - Task Analyses
+- TODO
+
+# HSI in the Project Life Cycle
+## HSI in the Project Life Cycle
+- See Ondrej from 44 through 50
 
 # HSI Plan
 ## HSI Plan - What is it?
@@ -209,6 +424,7 @@ The goals of HSI is:
   - The description of the organizational structure and stakeholders regarding HSI implementation (i.e., who does what)
   - The description of which HSI methods will be used
 - The HSI Plan stays at a relatively high level (we don't describe low-level design choices for instance)
+- HSI Planning starts **before Pre-A Phase**. HSI team develops HSIP draft **during Pre-A Phase**
 
 ## HSI Plan - Where do I find one?
 - You will find the HSI Plan template proposed by NASA in Appendix A of the Handbook
@@ -217,34 +433,6 @@ The goals of HSI is:
 ## HSI Plan - Outline
 ![HSI Plan Outline](assets/hsip_outline.png)
 
-# HSI in the Project Life Cycle
-## HSI in the Project Life Cycle
-- 
-
-# HSI Case Studies
-## HSI Case Studies
-- TODO: a dispatcher dans le reste
-
-# Hsi Tools
-## HSI Tools
+## HSI Plan - Student-friendly version
 - TODO
 
-# TO DISPATCH
-
-## Example: Implications of Instrument Design Choice {background-color="#3c405c"}
-- PAGE 24
-
-## Example: Implications of Instrument Design Choice {background-color="#3c405c"}
-- PAGE 24
-
-## Example: Implications of Instrument Design Choice {background-color="#3c405c"}
-- PAGE 24
-
-## Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap {background-color="#3c405c"}
-- D.5 
-
-## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
-- D.3
-
-## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
-- D.8
