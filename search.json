@@ -67,27 +67,27 @@
     ]
   },
   {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html",
-    "href": "2025-2026/content/hsi-handbook-hsip.html",
-    "title": "HSI Handbook & HSIP",
+    "objectID": "2025-2026/content/projet-hsi-plan.html",
+    "href": "2025-2026/content/projet-hsi-plan.html",
+    "title": "Projet (HSI Plan)",
     "section": "",
-    "text": "Before project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
+    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "HSI Handbook & HSIP"
+      "Projet (HSI Plan)"
     ]
   },
   {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
-    "href": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
-    "title": "HSI Handbook & HSIP",
+    "objectID": "2025-2026/content/projet-hsi-plan.html#team-activities",
+    "href": "2025-2026/content/projet-hsi-plan.html#team-activities",
+    "title": "Projet (HSI Plan)",
     "section": "",
-    "text": "Before project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
+    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "HSI Handbook & HSIP"
+      "Projet (HSI Plan)"
     ]
   },
   {
@@ -110,6 +110,30 @@
     "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
     "section": "",
     "text": "The course project involves the development of a comprehensive Human-System Integration (HSI) Design for a specified system. Students will work in teams to create an HSI plan, Concept of Operations (CONOPS), and scenario-driven designs.\nThe project will culminate in a final report and presentation, demonstrating the application of course concepts to real-world challenges in HSI.\nThe subject is the design of a Distributed Control and Command Center for a nano-satellite.\nThe New Aquitaine Academic Space Center (NAASC30) is engaging students in the design, launch, and operation of CubeSat-class nanosatellites as part of an inter-institutional program. A cornerstone of this program is the development of a Control and Command Center (CCC) distributed across four engineering schools. This sociotechnical system aims to enable students from multiple campuses to collaboratively operate real nanosatellite missions. The FlexTech Chair at ESTIA provides the research context, with a mission to integrate Human-System Integration (HSI) into modern systems engineering through new methodologies, demonstrators, and educational initiatives (notably via the PRODEC platform). HSI is defined as an essential transdisciplinary approach within systems engineering that ensures human, technical, and organizational elements are appropriately addressed across the system lifecycle and within its operational context. In practice, this means designing systems like the CCC with human users in mind from the outset, rather than merely adding a user interface onto an existing design. The FlexTech Chair promotes scenario-based design and human-in-the-loop experimentation as key strategies for HSI in complex domains such as rail, aviation, and now space systems.\nThe CCC under development serves as a real-world demonstrator for these HSI approaches in the space domain. It will use existing ground segment technology provided by partners: for example, the company U-Space (in collaboration with CNES) has developed a “Simple Control Center” (SCC) software tool that provides a user-friendly interface to command and control small satellites. Figure 1 below shows an example of this SCC interface, which connects to ground stations and offers dashboards for telemetry and telecommand. This tool provides a starting point for the academic CCC’s capabilities, ensuring students have a functional system for satellite operations from day one.\nFigure 1: The U-Space “Simple Control Center” (SCC) interface for satellite operations, which will be leveraged in the Academic Space Center’s distributed CCC.\nDespite this technical head-start, the distributed nature of the CCC and its educational context pose unique HSI challenges that motivate this research. High student turnover and a transient, voluntary workforce mean the system must accommodate continually changing operator populations. Knowledge and expertise cannot be assumed to accumulate in any one individual over time – instead, the CCC itself must be designed to be resilient to these human resource dynamics. Additionally, with the CCC spread across four locations, we anticipate scenarios where control authority and situational awareness might shift between sites. Effective governance models and coordination mechanisms are needed to ensure “seamless” control transitions across the distributed center. These challenges go beyond pure technical design; they require a socio-technical approach addressing human roles, training, procedures, and supporting tools – all underpinned by scenario-driven design to capture the richness of real operations.\nProblem Statement Complex Sociotechnical System: The academic CCC is a prime example of a complex sociotechnical system. It involves multiple human operators (students, supervisors) distributed geographically, interacting with software tools (like the SCC) and hardware (ground stations, satellite subsystems) to carry out mission operations. Such systems are characterized by emergent behaviors and strong coupling between technical and human elements. In the CCC, emergent situations could arise from unpredictable combinations of human actions (or inactions), environmental events, and system states – especially given the operators’ varied experience levels. A major cause of unexpected outcomes in sociotechnical systems is sensitivity to operational context, i.e. the changing conditions and situations in which the system operates. A guiding premise is that to design effectively for the CCC, we must model and understand it in context – capturing how different scenarios (nominal missions, anomalies, handovers between operators, etc.) play out and what resources (human or technical) are needed. We need to anticipate emergent properties by “maximizing description of emergent properties in scenarios and mission definitions”, echoing complexity management advice from INCOSE. In short, the problem is how to design a resilient, user-centered CCC that functions robustly despite high operator turnover and distributed operations.\nKey HSI Challenges: Three intertwined HSI challenges define our problem space:\n\nKnowledge Continuity under High Turnover: Students may participate for limited durations (a semester or a year), after which new students take over. Without special design measures, important operational knowledge can be lost at each handover. The CCC must somehow “embed” memory of past operations and lessons, or provide mechanisms to transfer knowledge between outgoing and incoming operators. This includes shift-to-shift handovers (daily or weekly shifts) and generation-to-generation handovers (yearly student cohorts). The open question is how to achieve resilience to turnover – ensuring continuity of mission situational awareness, safety, and efficiency as people rotate.\nSupport for Shift Transitions and Training: Linked to the above is the need for effective knowledge transfer during shifts. In professional settings, this might be handled with standardized shift briefings or long overlap times, but in a student context the process must be intuitive and reliable even for novices. We envision an “AI butler” concept – an intelligent assistant that could, for example, observe and log key events during an operator’s session and then brief the next operator on what happened and what to watch for. This could also serve as a training aid, prompting users with relevant information or checklists. The research must determine what form such an AI assistant should take (chatbot, smart dashboard, etc.), and how it can integrate into operations without causing distraction or complacency.\nDistributed Control and Governance: In a distributed control center, responsibilities might shift between sites (e.g., one school handles communication passes in the morning, another in the afternoon), or different sites might oversee different subsystems concurrently. We must explore governance models that define how decisions are made and authority is delegated across the four locations. For instance, do we designate a “lead site” at any given time, or do all sites operate peer-to-peer with a consensus protocol? What procedures ensure that all operators maintain a coherent picture of the mission? This aspect involves organizational design as much as technical design – clarifying roles, communication protocols, and fallback plans (for example, if one node drops offline unexpectedly). The goal is to avoid confusion or conflicts in control that could jeopardize the mission, while leveraging the distributed nature for greater resilience (e.g., another site can take over if one site’s hardware fails or if their students are unavailable). In summary, the research problem centers on designing the CCC to be a flexible, scenario-resilient system that gracefully handles the dynamic context of student-led operations. It is insufficient to treat this as a standard engineering project; instead, it requires an HSI-driven approach that explicitly factors in human operators, their learning curves and turnover, and the complex interactions between multiple human teams and technical systems."
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html",
+    "href": "2025-2026/content/hsi-handbook-hsip.html",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "Before project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
+    "href": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "Before project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#what-does-the-nasa-hsi-handbook-look-like",
@@ -192,15 +216,15 @@
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-cost-of-untested-assumptions-about-human-performance-the-case-of-the-b737max",
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-cost-of-untested-assumptions-about-human-performance-the-case-of-the-b737max",
     "title": "NASA HSI Handbook & HSI Plan",
-    "section": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX",
-    "text": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX\n\n\n\nD.8 blablablablablablablablablablablablablablablablablablablablabla"
+    "section": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️",
+    "text": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️\n\n\n\nTwo fatal B737MAX crashes (2018–2019) killed 346 people; both involved erroneous MCAS activation triggered by faulty AoA sensors\nGrounding was unprecedented in scale and duration, driven not by mechanical failure but by pilot–automation interaction\nGlobal grounding caused massive financial, industrial, and reputational damage\nExperts’ review found Boeing and FAA relied on unvalidated assumptions about pilot recognition and reaction times (e.g., 1-sec recognition, 3-sec reaction)\nReal-world studies show pilots often need significantly longer times (sometimes minutes) to detect and respond to abnormal events\nAutomation complexity, subtle failures, and masked cues further reduce pilots’ ability to recognize malfunctions promptly"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-cost-of-untested-assumptions-about-human-performance-the-case-of-the-b737max-1",
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-cost-of-untested-assumptions-about-human-performance-the-case-of-the-b737max-1",
     "title": "NASA HSI Handbook & HSI Plan",
-    "section": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX",
-    "text": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX\n\n\n\nD.8 blablablablablablablablablablablablablablablablablablablablabla"
+    "section": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️",
+    "text": "Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️\n\n\n\nTwo fatal B737MAX crashes (2018–2019) killed 346 people; both involved erroneous MCAS activation triggered by faulty AoA sensors\nGrounding was unprecedented in scale and duration, driven not by mechanical failure but by pilot–automation interaction\nGlobal grounding caused massive financial, industrial, and reputational damage\nExperts’ review found Boeing and FAA relied on unvalidated assumptions about pilot recognition and reaction times (e.g., 1-sec recognition, 3-sec reaction)\nReal-world studies show pilots often need significantly longer times (sometimes minutes) to detect and respond to abnormal events\nAutomation complexity, subtle failures, and masked cues further reduce pilots’ ability to recognize malfunctions promptly"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-fundamentals---operations",
@@ -221,14 +245,14 @@
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-inadequate-consideration-of-operations-during-design-shuttle-ground-processing",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing",
-    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nD.1 blablablablablablablablablablablablablablablablablablablablabla"
+    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-inadequate-consideration-of-operations-during-design-shuttle-ground-processing-1",
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-inadequate-consideration-of-operations-during-design-shuttle-ground-processing-1",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing",
-    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nD.1 blablablablablablablablablablablablablablablablablablablablabla"
+    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-fundamentals---habitability-and-environment",
@@ -378,18 +402,74 @@
     "text": "HSI Implementation - Task Analyses\n\nTODO"
   },
   {
-    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle-1",
-    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle-1",
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---life-cycle",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---life-cycle",
     "title": "NASA HSI Handbook & HSI Plan",
-    "section": "HSI in the Project Life Cycle",
-    "text": "HSI in the Project Life Cycle\n\nSee Ondrej from 44 through 50"
+    "section": "HSI in the Project Life Cycle - Life Cycle",
+    "text": "HSI in the Project Life Cycle - Life Cycle\n\nProject Life Cycle (from INCOSE HB)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---hsi-activities",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---hsi-activities",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - HSI Activities",
+    "text": "HSI in the Project Life Cycle - HSI Activities\n\nHSI Activities across Life Cycle"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPre-Phase A Activities (adapted from Ondrej Doule)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-1",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-1",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPhase A Activities (adapted from Ondrej Doule)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-2",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-2",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPhase B Activities (adapted from Ondrej Doule)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-3",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-3",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPhase C Activities (adapted from Ondrej Doule)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-4",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-4",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPhase D Activities (adapted from Ondrej Doule)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-5",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-5",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPhase E Activities (adapted from Ondrej Doule)"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-6",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---pre-phase-a-activities-6",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "HSI in the Project Life Cycle - Pre-Phase A Activities",
+    "text": "HSI in the Project Life Cycle - Pre-Phase A Activities\n\nPhase F Activities (adapted from Ondrej Doule)"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-plan---what-is-it",
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-plan---what-is-it",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "HSI Plan - What is it?",
-    "text": "HSI Plan - What is it?\n\nAn HSI Plan is written at the beginning of a project or program, and describes how HSI will be conducted in the project or program\nThe HSI Plan contains:\n\nSteps to HSI implementation\nMetrics to control HSI implementation\nThe definition of the HSI Domains (may differ from the six we have seen at NASA)\nThe description of the organizational structure and stakeholders regarding HSI implementation (i.e., who does what)\nThe description of which HSI methods will be used\n\nThe HSI Plan stays at a relatively high level (we don’t describe low-level design choices for instance)\nHSI Planning starts before Pre-A Phase. HSI team develops HSIP draft during Pre-A Phase"
+    "text": "HSI Plan - What is it?\n\nAn HSI Plan is written at the beginning of a project or program, and describes how HSI will be conducted in the project or program\nThe HSI Plan contains:\n\nSteps to HSI implementation\nMetrics to control HSI implementation\nThe definition of the HSI Domains (may differ from the six at NASA)\nThe description of the organizational structure and stakeholders regarding HSI implementation (i.e., who does what)\nThe description of which HSI methods will be used\n\nThe HSI Plan stays at a relatively high level (we don’t describe low-level design choices for instance)\nHSI Planning starts before Pre-A Phase. HSI team develops HSIP draft during Pre-A Phase"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-plan---where-do-i-find-one",
@@ -411,30 +491,6 @@
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "HSI Plan - Student-friendly version",
     "text": "HSI Plan - Student-friendly version\n\nTODO"
-  },
-  {
-    "objectID": "2025-2026/content/projet-hsi-plan.html",
-    "href": "2025-2026/content/projet-hsi-plan.html",
-    "title": "Projet (HSI Plan)",
-    "section": "",
-    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Projet (HSI Plan)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/projet-hsi-plan.html#team-activities",
-    "href": "2025-2026/content/projet-hsi-plan.html#team-activities",
-    "title": "Projet (HSI Plan)",
-    "section": "",
-    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Projet (HSI Plan)"
-    ]
   },
   {
     "objectID": "2025-2026/project.html",
