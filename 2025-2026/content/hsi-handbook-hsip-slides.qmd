@@ -142,11 +142,16 @@ The goals of HSI is:
 ## HSI Fundamentals - Human Factors Engineering
 - TODO
 
-## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
+## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️ {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.8 blablablablablablablablablablablablablablablablablablablablabla
+- Two fatal B737MAX crashes (2018–2019) killed 346 people; both involved erroneous MCAS activation triggered by faulty AoA sensors
+- Grounding was unprecedented in scale and duration, driven not by mechanical failure but by pilot–automation interaction
+- Global grounding caused massive financial, industrial, and reputational damage
+- Experts' review found Boeing and FAA relied on unvalidated assumptions about pilot recognition and reaction times (e.g., 1-sec recognition, 3-sec reaction)
+- Real-world studies show pilots often need significantly longer times (sometimes minutes) to detect and respond to abnormal events
+- Automation complexity, subtle failures, and masked cues further reduce pilots’ ability to recognize malfunctions promptly
 :::
 
 ::: {.column width="15%"}
@@ -155,11 +160,16 @@ The goals of HSI is:
 
 ::::
 
-## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
+## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️ {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.8 blablablablablablablablablablablablablablablablablablablablabla
+- Two fatal B737MAX crashes (2018–2019) killed 346 people; both involved erroneous MCAS activation triggered by faulty AoA sensors
+- Grounding was unprecedented in scale and duration, driven not by mechanical failure but by pilot–automation interaction
+- Global grounding caused massive financial, industrial, and reputational damage
+- Experts' review found Boeing and FAA relied on unvalidated assumptions about pilot recognition and reaction times (e.g., 1-sec recognition, 3-sec reaction)
+- Real-world studies show pilots often need significantly longer times (sometimes minutes) to detect and respond to abnormal events
+- Automation complexity, subtle failures, and masked cues further reduce pilots’ ability to recognize malfunctions promptly
 :::
 
 ::: {.column width="15%"}
@@ -179,7 +189,13 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.1 blablablablablablablablablablablablablablablablablablablablabla
+- Shuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)
+- Later studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems
+- Tight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage
+- Space Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)
+- Many Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment
+- Contamination-control needs grew over time, but facilities not suited
+- Documentation systems burdened workers and slowed processing
 :::
 
 ::: {.column width="15%"}
@@ -192,7 +208,13 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.1 blablablablablablablablablablablablablablablablablablablablabla
+- Shuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)
+- Later studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems
+- Tight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage
+- Space Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)
+- Many Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment
+- Contamination-control needs grew over time, but facilities not suited
+- Documentation systems burdened workers and slowed processing
 :::
 
 ::: {.column width="15%"}
@@ -403,7 +425,6 @@ The goals of HSI is:
 
 ::::
 
-
 ## HSI Implementation - Function Allocation
 - TODO
 
@@ -411,8 +432,32 @@ The goals of HSI is:
 - TODO
 
 # HSI in the Project Life Cycle
-## HSI in the Project Life Cycle
-- See Ondrej from 44 through 50
+## HSI in the Project Life Cycle - Life Cycle
+![Project Life Cycle (from INCOSE HB)](assets/project_lifecycle.png)
+    
+## HSI in the Project Life Cycle - HSI Activities 
+![HSI Activities across Life Cycle](assets/hsi_activities_crosscut.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Pre-Phase A Activities (adapted from Ondrej Doule)](assets/pre_a_activities.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Phase A Activities (adapted from Ondrej Doule)](assets/a_activities.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Phase B Activities (adapted from Ondrej Doule)](assets/b_activities.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Phase C Activities (adapted from Ondrej Doule)](assets/c_activities.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Phase D Activities (adapted from Ondrej Doule)](assets/d_activities.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Phase E Activities (adapted from Ondrej Doule)](assets/e_activities.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Phase F Activities (adapted from Ondrej Doule)](assets/f_activities.png)
 
 # HSI Plan
 ## HSI Plan - What is it?
@@ -420,7 +465,7 @@ The goals of HSI is:
 - The HSI Plan contains:
   - Steps to HSI implementation
   - Metrics to control HSI implementation
-  - The definition of the HSI Domains (may differ from the six we have seen at NASA)
+  - The definition of the HSI Domains (may differ from the six at NASA)
   - The description of the organizational structure and stakeholders regarding HSI implementation (i.e., who does what)
   - The description of which HSI methods will be used
 - The HSI Plan stays at a relatively high level (we don't describe low-level design choices for instance)
