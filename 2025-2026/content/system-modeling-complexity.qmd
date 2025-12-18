@@ -1,0 +1,22 @@
+---
+title: "Complexity and systemic modeling for Human-Centered Design"
+description: "Class on systems modeling and complexity in sociotechnical systems."
+authors: ["D. Masson", "A. Disdier"]
+date: 2026-01-05
+duration: "2h"
+type: class
+---
+
+# Complexity and systemic modeling for Human-Centered Design
+
+## Session Objectives
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

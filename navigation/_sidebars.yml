@@ -18,10 +18,10 @@ website:
           contents:
             - href: 2025-2026/content/hsi-introduction-project-presentation.qmd
               text: "HSI Introduction & Project Presentation"
-            - href: 2025-2026/content/system-thinking-complexity.qmd
-              text: "System Thinking & Complexity"
             - href: 2025-2026/content/hsi-handbook-hsip.qmd
               text: "HSI Handbook & HSIP"
+            - href: 2025-2026/content/system-modeling-complexity.qmd
+              text: "System Modeling & Complexity"
             - href: 2025-2026/content/systemic-cognitive-engineering.qmd
               text: "Systemic Cognitive Engineering"
             - href: 2025-2026/content/functional-cognitive-engineering.qmd

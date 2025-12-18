@@ -139,9 +139,6 @@ The goals of HSI is:
 ## HSI Fundamentals - HSI Domains
 ![The six HSI Domains (for NASA)](assets/hsi_domains.png)
 
-## HSI Fundamentals - Human Factors Engineering
-- TODO
-
 ## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️ {background-color="#3c405c"}
 :::: {.columns}
 
@@ -177,13 +174,6 @@ The goals of HSI is:
 :::
 
 ::::
-
-
-## HSI Fundamentals - Operations
-- TODO
-
-## HSI Fundamentals - Maintainability and Supportability
-- TODO
 
 ## Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing {background-color="#3c405c"}
 :::: {.columns}
@@ -223,9 +213,6 @@ The goals of HSI is:
 
 ::::
 
-## HSI Fundamentals - Habitability and Environment
-- TODO
-
 ## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
 :::: {.columns}
 
@@ -251,12 +238,6 @@ The goals of HSI is:
 :::
 
 ::::
-
-## HSI Fundamentals - Safety
-- TODO
-
-## HSI Fundamentals - Training
-- TODO
 
 # HSI Impacts
 
@@ -403,7 +384,13 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.5 blablablablablablablablablablablablablablablablablablablablabla
+- In 2014, VSS Enterprise SS2 suborbital rocket broke up during tests
+- Pilot were seriously injured, copilot received fatal injuries
+- Copilot unlocked feather at 0.8 Mach (required 1.4 Mach)
+- Outcome: Uncommanded feather deployment → in-flight breakup
+- Causes: High workload and unexpected vibration + No design or procedural safeguards against early unlock
+
+![VSS Enterprise (from Steve Jurvetson)](assets/ss2.jpg){width="50%"}
 :::
 
 ::: {.column width="15%"}
@@ -416,7 +403,13 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.5 blablablablablablablablablablablablablablablablablablablablabla
+- In 2014, VSS Enterprise SS2 suborbital rocket broke up during tests
+- Pilot were seriously injured, copilot received fatal injuries
+- Copilot unlocked feather at 0.8 Mach (required 1.4 Mach)
+- Outcome: Uncommanded feather deployment → in-flight breakup
+- Causes: High workload and unexpected vibration + No design or procedural safeguards against early unlock
+
+![VSS Enterprise (from Steve Jurvetson)](assets/ss2.jpg){width="50%"}
 :::
 
 ::: {.column width="15%"}
@@ -441,22 +434,22 @@ The goals of HSI is:
 ## HSI in the Project Life Cycle - Pre-Phase A Activities
 ![Pre-Phase A Activities (adapted from Ondrej Doule)](assets/pre_a_activities.png)
 
-## HSI in the Project Life Cycle - Pre-Phase A Activities
+## HSI in the Project Life Cycle - Phase A Activities
 ![Phase A Activities (adapted from Ondrej Doule)](assets/a_activities.png)
 
-## HSI in the Project Life Cycle - Pre-Phase A Activities
+## HSI in the Project Life Cycle - Phase B Activities
 ![Phase B Activities (adapted from Ondrej Doule)](assets/b_activities.png)
 
-## HSI in the Project Life Cycle - Pre-Phase A Activities
+## HSI in the Project Life Cycle - Phase C Activities
 ![Phase C Activities (adapted from Ondrej Doule)](assets/c_activities.png)
 
-## HSI in the Project Life Cycle - Pre-Phase A Activities
+## HSI in the Project Life Cycle - Phase D Activities
 ![Phase D Activities (adapted from Ondrej Doule)](assets/d_activities.png)
 
-## HSI in the Project Life Cycle - Pre-Phase A Activities
+## HSI in the Project Life Cycle - Phase E Activities
 ![Phase E Activities (adapted from Ondrej Doule)](assets/e_activities.png)
 
-## HSI in the Project Life Cycle - Pre-Phase A Activities
+## HSI in the Project Life Cycle - Phase F Activities
 ![Phase F Activities (adapted from Ondrej Doule)](assets/f_activities.png)
 
 # HSI Plan
