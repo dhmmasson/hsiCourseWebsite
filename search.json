@@ -189,18 +189,18 @@
     "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
   },
   {
-    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-expert-knowledge-of-human-performance-resulted-in-effective-countermeasure-for-launch-vehicle-display-vibration",
-    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-expert-knowledge-of-human-performance-resulted-in-effective-countermeasure-for-launch-vehicle-display-vibration",
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-effective-countermeasure-for-launch-vehicle-display-vibration",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-effective-countermeasure-for-launch-vehicle-display-vibration",
     "title": "NASA HSI Handbook & HSI Plan",
-    "section": "Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration",
-    "text": "Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration\n\n\n\nD.3 blablablablablablablablablablablablablablablablablablablablabla"
+    "section": "Example: Effective Countermeasure for Launch Vehicle Display Vibration",
+    "text": "Example: Effective Countermeasure for Launch Vehicle Display Vibration\n\n\n\nIn 2007, Ares-I solid rocket motor produced narrow-band vibration that degraded astronauts’ ability to read displays and placards in Orion\nVibration could impair visual processing and task performance during critical flight operations\nNASA partnered with Human Factors experts to empirically test vibration effects on crew performance\nKnowledge of human visual perception and stroboscopic effects suggested a potential mitigation\nCountermeasure: Modified display backlight to strobe in sync with dominant seat vibration frequency = better response times"
   },
   {
-    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-expert-knowledge-of-human-performance-resulted-in-effective-countermeasure-for-launch-vehicle-display-vibration-1",
-    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-expert-knowledge-of-human-performance-resulted-in-effective-countermeasure-for-launch-vehicle-display-vibration-1",
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-effective-countermeasure-for-launch-vehicle-display-vibration-1",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-effective-countermeasure-for-launch-vehicle-display-vibration-1",
     "title": "NASA HSI Handbook & HSI Plan",
-    "section": "Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration",
-    "text": "Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration\n\n\n\nD.3 blablablablablablablablablablablablablablablablablablablablabla"
+    "section": "Example: Effective Countermeasure for Launch Vehicle Display Vibration",
+    "text": "Example: Effective Countermeasure for Launch Vehicle Display Vibration\n\n\n\nIn 2007, Ares-I solid rocket motor produced narrow-band vibration that degraded astronauts’ ability to read displays and placards in Orion\nVibration could impair visual processing and task performance during critical flight operations\nNASA partnered with Human Factors experts to empirically test vibration effects on crew performance\nKnowledge of human visual perception and stroboscopic effects suggested a potential mitigation\nCountermeasure: Modified display backlight to strobe in sync with dominant seat vibration frequency = better response times"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-impacts---overall-effects",
@@ -284,7 +284,7 @@
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-implementation---concept-of-operations-conops",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "HSI Implementation - Concept of Operations (ConOps)",
-    "text": "HSI Implementation - Concept of Operations (ConOps)\n\nTODO"
+    "text": "HSI Implementation - Concept of Operations (ConOps)\n\nConOps typically developed early in Pre-Phase A to describe the system concept from an operational perspective\nHelps clarify system goals, mission objectives, and guides development of requirements, interfaces, and architecture\nIncludes minimal design solution details to avoid limiting creative approaches\nSE leads ConOps development, defining roles of humans, hardware, and software in mission objectives\nHSI Lead ensures all operational aspects considered: nominal, off-nominal, contingency, and emergency scenarios\nCovers personnel needs, human interactions, skill sets, and training requirements throughout all operational phases\nInputs gathered from diverse sources and SMEs, with reviews and comments incorporated from stakeholders"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-training-simulation-design-and-human-error-the-virgin-galactic-spaceship-two-mishap",
@@ -299,20 +299,6 @@
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap",
     "text": "Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap\n\n\n\nIn 2014, VSS Enterprise SS2 suborbital rocket broke up during tests\nPilot were seriously injured, copilot received fatal injuries\nCopilot unlocked feather at 0.8 Mach (required 1.4 Mach)\nOutcome: Uncommanded feather deployment → in-flight breakup\nCauses: High workload and unexpected vibration + No design or procedural safeguards against early unlock\n\n\n\n\nVSS Enterprise (from Steve Jurvetson)"
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-implementation---function-allocation",
-    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-implementation---function-allocation",
-    "title": "NASA HSI Handbook & HSI Plan",
-    "section": "HSI Implementation - Function Allocation",
-    "text": "HSI Implementation - Function Allocation\n\nTODO"
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-implementation---task-analyses",
-    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-implementation---task-analyses",
-    "title": "NASA HSI Handbook & HSI Plan",
-    "section": "HSI Implementation - Task Analyses",
-    "text": "HSI Implementation - Task Analyses\n\nTODO"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-in-the-project-life-cycle---life-cycle",
@@ -378,6 +364,20 @@
     "text": "HSI in the Project Life Cycle - Phase F Activities\n\nPhase F Activities (adapted from Ondrej Doule)"
   },
   {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-genesis-probe-mishap",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-genesis-probe-mishap",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "Example: The Genesis Probe Mishap",
+    "text": "Example: The Genesis Probe Mishap\n\n\n\nGenesis Probe selected for FBC policy in the 90s\nHeritage assumptions masked growing design divergence as Genesis requirements exceeded Stardust capabilities\nDisagreement existed over whether heritage had been violated\nG-switch sensor orientation sensitivity was undocumented and misunderstood by the design team\nFBC-driven cost and schedule pressure reduced testing and reviews\nElectrical layout placed the G-switch sensor in an inverted, nonfunctional orientation, leading to crash\n\n\n\n\nJames T. Reason’s Swiss Cheese Model"
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-genesis-probe-mishap-1",
+    "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-the-genesis-probe-mishap-1",
+    "title": "NASA HSI Handbook & HSI Plan",
+    "section": "Example: The Genesis Probe Mishap",
+    "text": "Example: The Genesis Probe Mishap\n\n\n\nGenesis Probe selected for FBC policy in the 90s\nHeritage assumptions masked growing design divergence as Genesis requirements exceeded Stardust capabilities\nDisagreement existed over whether heritage had been violated\nG-switch sensor orientation sensitivity was undocumented and misunderstood by the design team\nFBC-driven cost and schedule pressure reduced testing and reviews\nElectrical layout placed the G-switch sensor in an inverted, nonfunctional orientation, leading to crash\n\n\n\n\nJames T. Reason’s Swiss Cheese Model"
+  },
+  {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-plan---what-is-it",
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-plan---what-is-it",
     "title": "NASA HSI Handbook & HSI Plan",
@@ -403,7 +403,7 @@
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#hsi-plan---student-friendly-version",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "HSI Plan - Student-friendly version",
-    "text": "HSI Plan - Student-friendly version\n\nTODO"
+    "text": "HSI Plan - Student-friendly version\n\n\nIn this course, we will ask you to work on a lightweight version of the HSI Plan"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip.html",
