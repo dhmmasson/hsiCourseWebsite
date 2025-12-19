@@ -213,11 +213,15 @@ The goals of HSI is:
 
 ::::
 
-## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
+## Example: Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.3 blablablablablablablablablablablablablablablablablablablablabla
+- In 2007, Ares-I solid rocket motor produced narrow-band vibration that degraded astronauts’ ability to read displays and placards in Orion
+- Vibration could impair visual processing and task performance during critical flight operations
+- NASA partnered with Human Factors experts to empirically test vibration effects on crew performance
+- Knowledge of human visual perception and stroboscopic effects suggested a potential mitigation
+- Countermeasure: Modified display backlight to strobe in sync with dominant seat vibration frequency = better response times
 :::
 
 ::: {.column width="15%"}
@@ -226,11 +230,15 @@ The goals of HSI is:
 
 ::::
 
-## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
+## Example:  Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.3 blablablablablablablablablablablablablablablablablablablablabla
+- In 2007, Ares-I solid rocket motor produced narrow-band vibration that degraded astronauts’ ability to read displays and placards in Orion
+- Vibration could impair visual processing and task performance during critical flight operations
+- NASA partnered with Human Factors experts to empirically test vibration effects on crew performance
+- Knowledge of human visual perception and stroboscopic effects suggested a potential mitigation
+- Countermeasure: Modified display backlight to strobe in sync with dominant seat vibration frequency = better response times
 :::
 
 ::: {.column width="15%"}
@@ -378,7 +386,13 @@ The goals of HSI is:
 - **HSI POC**: Contractor’s HSI representative who is capable of leading HSI efforts within the contractor’s team
 
 ## HSI Implementation - Concept of Operations (ConOps)
-- TODO
+- ConOps typically developed early in Pre-Phase A to describe the system concept **from an operational perspective**
+- Helps clarify system goals, mission objectives, and guides development of requirements, interfaces, and architecture
+- Includes **minimal** design solution details to avoid limiting creative approaches
+- SE leads ConOps development, defining roles of humans, hardware, and software in mission objectives
+- HSI Lead ensures all operational aspects considered: nominal, off-nominal, contingency, and emergency scenarios
+- Covers personnel needs, human interactions, skill sets, and training requirements throughout all operational phases
+- Inputs gathered from diverse sources and SMEs, with reviews and comments incorporated from stakeholders
 
 ## Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap {background-color="#3c405c"}
 :::: {.columns}
@@ -418,12 +432,6 @@ The goals of HSI is:
 
 ::::
 
-## HSI Implementation - Function Allocation
-- TODO
-
-## HSI Implementation - Task Analyses
-- TODO
-
 # HSI in the Project Life Cycle
 ## HSI in the Project Life Cycle - Life Cycle
 ![Project Life Cycle (from INCOSE HB)](assets/project_lifecycle.png)
@@ -452,6 +460,46 @@ The goals of HSI is:
 ## HSI in the Project Life Cycle - Phase F Activities
 ![Phase F Activities (adapted from Ondrej Doule)](assets/f_activities.png)
 
+## Example: The Genesis Probe Mishap {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- Genesis Probe selected for FBC policy in the 90s
+- Heritage assumptions masked growing design divergence as Genesis requirements exceeded Stardust capabilities
+- Disagreement existed over whether heritage had been violated
+- G-switch sensor orientation sensitivity was undocumented and misunderstood by the design team
+- FBC-driven cost and schedule pressure reduced testing and reviews
+- Electrical layout placed the G-switch sensor in an inverted, nonfunctional orientation, leading to crash
+
+![James T. Reason's Swiss Cheese Model](assets/swiss_cheese.png){width="40%"}
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: The Genesis Probe Mishap {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- Genesis Probe selected for FBC policy in the 90s
+- Heritage assumptions masked growing design divergence as Genesis requirements exceeded Stardust capabilities
+- Disagreement existed over whether heritage had been violated
+- G-switch sensor orientation sensitivity was undocumented and misunderstood by the design team
+- FBC-driven cost and schedule pressure reduced testing and reviews
+- Electrical layout placed the G-switch sensor in an inverted, nonfunctional orientation, leading to crash
+
+![James T. Reason's Swiss Cheese Model](assets/swiss_cheese.png){width="40%"}
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d4.png){width="100%"}
+:::
+
+::::
+
 # HSI Plan
 ## HSI Plan - What is it?
 - An HSI Plan is written at the beginning of a project or program, and describes how HSI will be conducted in the project or program
@@ -472,5 +520,11 @@ The goals of HSI is:
 ![HSI Plan Outline](assets/hsip_outline.png)
 
 ## HSI Plan - Student-friendly version
-- TODO
+:::: {style="text-align: center;"}
+
+::: {style="padding: 150px"}
+In this course, we will ask you to work [on a lightweight version of the HSI Plan](assets/hsi-plan.docx)
+:::
+
+::::
 
