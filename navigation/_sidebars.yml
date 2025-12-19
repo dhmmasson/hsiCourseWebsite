@@ -22,12 +22,12 @@ website:
               text: "HSI Handbook & HSIP"
             - href: 2025-2026/content/system-modeling-complexity.qmd
               text: "System Modeling & Complexity"
-            - href: 2025-2026/content/systemic-cognitive-engineering.qmd
-              text: "Systemic Cognitive Engineering"
-            - href: 2025-2026/content/functional-cognitive-engineering.qmd
-              text: "Functional Cognitive Engineering"
+            - href: 2025-2026/content/hci-aero-history.qmd
+              text: "History of HCI-Aero toward HSI"
             - href: 2025-2026/content/sociotechnical-systems.qmd
-              text: "Sociotechnical Systems"
+              text: "Sociotechnical Systems: an HSI approach"
+            - href: 2025-2026/content/systemic-cognition.qmd
+              text: "Systemic Cognition"
             - href: 2025-2026/content/introduction-of-projects.qmd
               text: "Introduction of projects"
             - href: 2025-2026/content/concept-of-operations-conops.qmd
