@@ -179,14 +179,14 @@
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-inadequate-consideration-of-operations-during-design-shuttle-ground-processing",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing",
-    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
+    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-inadequate-consideration-of-operations-during-design-shuttle-ground-processing-1",
     "href": "2025-2026/content/hsi-handbook-hsip-slides.html#example-inadequate-consideration-of-operations-during-design-shuttle-ground-processing-1",
     "title": "NASA HSI Handbook & HSI Plan",
     "section": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing",
-    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
+    "text": "Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing\n\n\n\nShuttle designed with minimal supportability/maintainability = far lower flight rates than expected (only 8 by 1985)\nLater studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems\nTight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage\nSpace Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)\nMany Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment\nContamination-control needs grew over time, but facilities not suited\nDocumentation systems burdened workers and slowed processing"
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#example-effective-countermeasure-for-launch-vehicle-display-vibration",
@@ -451,6 +451,30 @@
     "text": "The course project involves the development of a comprehensive Human-System Integration (HSI) Design for a specified system. Students will work in teams to create an HSI plan, Concept of Operations (CONOPS), and scenario-driven designs.\nThe project will culminate in a final report and presentation, demonstrating the application of course concepts to real-world challenges in HSI.\nThe subject is the design of a Distributed Control and Command Center for a nano-satellite.\nThe New Aquitaine Academic Space Center (NAASC30) is engaging students in the design, launch, and operation of CubeSat-class nanosatellites as part of an inter-institutional program. A cornerstone of this program is the development of a Control and Command Center (CCC) distributed across four engineering schools. This sociotechnical system aims to enable students from multiple campuses to collaboratively operate real nanosatellite missions. The FlexTech Chair at ESTIA provides the research context, with a mission to integrate Human-System Integration (HSI) into modern systems engineering through new methodologies, demonstrators, and educational initiatives (notably via the PRODEC platform). HSI is defined as an essential transdisciplinary approach within systems engineering that ensures human, technical, and organizational elements are appropriately addressed across the system lifecycle and within its operational context. In practice, this means designing systems like the CCC with human users in mind from the outset, rather than merely adding a user interface onto an existing design. The FlexTech Chair promotes scenario-based design and human-in-the-loop experimentation as key strategies for HSI in complex domains such as rail, aviation, and now space systems.\nThe CCC under development serves as a real-world demonstrator for these HSI approaches in the space domain. It will use existing ground segment technology provided by partners: for example, the company U-Space (in collaboration with CNES) has developed a “Simple Control Center” (SCC) software tool that provides a user-friendly interface to command and control small satellites. Figure 1 below shows an example of this SCC interface, which connects to ground stations and offers dashboards for telemetry and telecommand. This tool provides a starting point for the academic CCC’s capabilities, ensuring students have a functional system for satellite operations from day one.\nFigure 1: The U-Space “Simple Control Center” (SCC) interface for satellite operations, which will be leveraged in the Academic Space Center’s distributed CCC.\nDespite this technical head-start, the distributed nature of the CCC and its educational context pose unique HSI challenges that motivate this research. High student turnover and a transient, voluntary workforce mean the system must accommodate continually changing operator populations. Knowledge and expertise cannot be assumed to accumulate in any one individual over time – instead, the CCC itself must be designed to be resilient to these human resource dynamics. Additionally, with the CCC spread across four locations, we anticipate scenarios where control authority and situational awareness might shift between sites. Effective governance models and coordination mechanisms are needed to ensure “seamless” control transitions across the distributed center. These challenges go beyond pure technical design; they require a socio-technical approach addressing human roles, training, procedures, and supporting tools – all underpinned by scenario-driven design to capture the richness of real operations.\nProblem Statement Complex Sociotechnical System: The academic CCC is a prime example of a complex sociotechnical system. It involves multiple human operators (students, supervisors) distributed geographically, interacting with software tools (like the SCC) and hardware (ground stations, satellite subsystems) to carry out mission operations. Such systems are characterized by emergent behaviors and strong coupling between technical and human elements. In the CCC, emergent situations could arise from unpredictable combinations of human actions (or inactions), environmental events, and system states – especially given the operators’ varied experience levels. A major cause of unexpected outcomes in sociotechnical systems is sensitivity to operational context, i.e. the changing conditions and situations in which the system operates. A guiding premise is that to design effectively for the CCC, we must model and understand it in context – capturing how different scenarios (nominal missions, anomalies, handovers between operators, etc.) play out and what resources (human or technical) are needed. We need to anticipate emergent properties by “maximizing description of emergent properties in scenarios and mission definitions”, echoing complexity management advice from INCOSE. In short, the problem is how to design a resilient, user-centered CCC that functions robustly despite high operator turnover and distributed operations.\nKey HSI Challenges: Three intertwined HSI challenges define our problem space:\n\nKnowledge Continuity under High Turnover: Students may participate for limited durations (a semester or a year), after which new students take over. Without special design measures, important operational knowledge can be lost at each handover. The CCC must somehow “embed” memory of past operations and lessons, or provide mechanisms to transfer knowledge between outgoing and incoming operators. This includes shift-to-shift handovers (daily or weekly shifts) and generation-to-generation handovers (yearly student cohorts). The open question is how to achieve resilience to turnover – ensuring continuity of mission situational awareness, safety, and efficiency as people rotate.\nSupport for Shift Transitions and Training: Linked to the above is the need for effective knowledge transfer during shifts. In professional settings, this might be handled with standardized shift briefings or long overlap times, but in a student context the process must be intuitive and reliable even for novices. We envision an “AI butler” concept – an intelligent assistant that could, for example, observe and log key events during an operator’s session and then brief the next operator on what happened and what to watch for. This could also serve as a training aid, prompting users with relevant information or checklists. The research must determine what form such an AI assistant should take (chatbot, smart dashboard, etc.), and how it can integrate into operations without causing distraction or complacency.\nDistributed Control and Governance: In a distributed control center, responsibilities might shift between sites (e.g., one school handles communication passes in the morning, another in the afternoon), or different sites might oversee different subsystems concurrently. We must explore governance models that define how decisions are made and authority is delegated across the four locations. For instance, do we designate a “lead site” at any given time, or do all sites operate peer-to-peer with a consensus protocol? What procedures ensure that all operators maintain a coherent picture of the mission? This aspect involves organizational design as much as technical design – clarifying roles, communication protocols, and fallback plans (for example, if one node drops offline unexpectedly). The goal is to avoid confusion or conflicts in control that could jeopardize the mission, while leveraging the distributed nature for greater resilience (e.g., another site can take over if one site’s hardware fails or if their students are unavailable). In summary, the research problem centers on designing the CCC to be a flexible, scenario-resilient system that gracefully handles the dynamic context of student-led operations. It is insufficient to treat this as a standard engineering project; instead, it requires an HSI-driven approach that explicitly factors in human operators, their learning curves and turnover, and the complex interactions between multiple human teams and technical systems."
   },
   {
+    "objectID": "2025-2026/content/modeling-mbhsi.html",
+    "href": "2025-2026/content/modeling-mbhsi.html",
+    "title": "Ingescape, a platform for Human-Systems Integration",
+    "section": "",
+    "text": "Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Modeling & MBHSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/modeling-mbhsi.html#session-objectives",
+    "href": "2025-2026/content/modeling-mbhsi.html#session-objectives",
+    "title": "Ingescape, a platform for Human-Systems Integration",
+    "section": "",
+    "text": "Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Modeling & MBHSI"
+    ]
+  },
+  {
     "objectID": "2025-2026/content/sociotechnical-systems.html",
     "href": "2025-2026/content/sociotechnical-systems.html",
     "title": "Sociotechnical Systems",
@@ -459,7 +483,7 @@
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Sociotechnical Systems: an HSI approach"
+      "Sociotechnical Systems"
     ]
   },
   {
@@ -471,7 +495,7 @@
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Sociotechnical Systems: an HSI approach"
+      "Sociotechnical Systems"
     ]
   },
   {
@@ -483,7 +507,7 @@
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Projet (HSI Plan)"
+      "Project (HSI Plan)"
     ]
   },
   {
@@ -495,7 +519,31 @@
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Projet (HSI Plan)"
+      "Project (HSI Plan)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/system-modeling-complexity.html",
+    "href": "2025-2026/content/system-modeling-complexity.html",
+    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "section": "",
+    "text": "L’ingénierie, science ou science appliquée ? Que veut dire « mettre l’humain au centre » ? Concevoir amène à construire un point de vue opérationnel sur la réalité souhaitée, comment y parvenir ? Le cours introduira 2 principales notions utiles à la conception, la notion de complexité et celle de modélisation systémique. Cela nous demandera d’accorder une attention toute particulière à des mots familiers comme l’intention, le contexte ou le projet. Également, cela nous conduira sûrement à faire un pas de côté pour prendre du recul, (se) questionner et reconsidérer nos attentes au sujet de la « vérité ».",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "System Modeling & Complexity"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/system-modeling-complexity.html#session-objectives",
+    "href": "2025-2026/content/system-modeling-complexity.html#session-objectives",
+    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "section": "",
+    "text": "L’ingénierie, science ou science appliquée ? Que veut dire « mettre l’humain au centre » ? Concevoir amène à construire un point de vue opérationnel sur la réalité souhaitée, comment y parvenir ? Le cours introduira 2 principales notions utiles à la conception, la notion de complexité et celle de modélisation systémique. Cela nous demandera d’accorder une attention toute particulière à des mots familiers comme l’intention, le contexte ou le projet. Également, cela nous conduira sûrement à faire un pas de côté pour prendre du recul, (se) questionner et reconsidérer nos attentes au sujet de la « vérité ».",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "System Modeling & Complexity"
     ]
   },
   {
@@ -560,7 +608,7 @@
     "href": "2025-2026/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Schedule\nThe schedule below lists all course sessions. Each item links to a dedicated class or project page in the content folder.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        date - Oldest\n      \n      \n        date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\ndate\n\n\n\n#\n\n\n\nTitle\n\n\n\nType\n\n\n\nDuration\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\n \n\n\nHSI Introduction & Project Presentation\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHSI Handbook & HSIP\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nComplexity and systemic modeling for Human-Centered Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nHistory of HCI-Aero toward HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nIntroduction of Projects\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSociotechnical Systems\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSystemic Cognition\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nEthnographic Tools\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nProjet (HSI Plan)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nScenario-Driven Engineering\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nPRODEC & Robot Fleet Management\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nProjet (CONOPS)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nModeling & MBHSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nProjet (Scenario)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nSystem Context and Air Traffic Control\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nHF Evaluation & HITLS\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nProjet (Interim Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nConcept of Operations (CONOPS)\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nFinal Review (Soutenance 2)\n\n\nreview\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nNASA HSI Handbook & HSI Plan\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nPreliminary Review (Soutenance 1)\n\n\nreview\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Final Design and Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design - 2)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nQCM\n\n\nassessment\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nRisk-Taking Prevention & Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nTraining in HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nNo matching items",
+    "text": "Schedule\nThe schedule below lists all course sessions. Each item links to a dedicated class or project page in the content folder.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        date - Oldest\n      \n      \n        date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\ndate\n\n\n\n#\n\n\n\nTitle\n\n\n\nType\n\n\n\nDuration\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\n \n\n\nHSI Introduction & Project Presentation\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHistory of HCI-Aero toward HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHSI Handbook & HSIP\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nIntroduction of Projects\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSociotechnical Systems\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nComplexity and systemic modeling for Human-Centered Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSystemic Cognition\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nEthnographic Tools\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nProjet (HSI Plan)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nScenario-Driven Engineering\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nPRODEC & Robot Fleet Management\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nProjet (CONOPS)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nIngescape, a platform for Human-Systems Integration\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nProjet (Scenario)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nSystem Context and Air Traffic Control\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nHF Evaluation & HITLS\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nProjet (Interim Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nConcept of Operations (CONOPS)\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nFinal Review (Soutenance 2)\n\n\nreview\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nNASA HSI Handbook & HSI Plan\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nPreliminary Review (Soutenance 1)\n\n\nreview\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Final Design and Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design - 2)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nQCM\n\n\nassessment\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nRisk-Taking Prevention & Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nTraining in HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "Schedule"
