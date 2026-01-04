@@ -179,7 +179,7 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- Shuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)
+- Shuttle designed with minimal supportability/maintainability = far lower flight rates than expected (only 8 by 1985)
 - Later studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems
 - Tight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage
 - Space Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)
@@ -198,7 +198,7 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- Shuttle designed with minimal supportability/maintainability = to far lower flight rates than expected (only 8 by 1985)
+- Shuttle designed with minimal supportability/maintainability = far lower flight rates than expected (only 8 by 1985)
 - Later studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems
 - Tight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage
 - Space Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)

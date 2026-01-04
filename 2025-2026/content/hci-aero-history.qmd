@@ -2,7 +2,7 @@
 title: "History of HCI-Aero toward HSI"
 description: "Class on History of HCI-Aero toward HSI."
 authors: ["G.A. Boy"]
-date: 2026-01-06
+date: 2026-01-05
 duration: "2h"
 type: class
 ---
