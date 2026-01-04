@@ -12,6 +12,7 @@ type: class
 ## Session Objectives
 
 ## Agenda
+Ce cours propose une introduction aux méthodes de l’ergonomie et à leur utilisation dans des projets de conception de systèmes techniques et organisationnels. Après une présentation rapide de quelques concepts fondamentaux de l’ergonomie, tels que l’activité, les tâches prescrites et réelles, ainsi que la conception centrée utilisateurs, nous aborderons les méthodes d’analyse de l’activité : l’observation, l’entretien semi-directif et les questionnaires. Chaque méthode sera illustrée par des exemples concrets issus de projets de conception. L’objectif est de montrer comment ces méthodes permettent de comprendre l’activité humaine dans un contexte particulier et comment il est possible d’utiliser la connaissance générée pour orienter les choix de conception vers des solutions adaptées aux utilisateurs.
 
 ## Key Concepts
 
