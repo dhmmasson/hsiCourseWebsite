@@ -1,15 +1,16 @@
 ---
-title: "Modeling & MBHSI"
-description: "Class on modeling techniques and Model-Based HSI (MBHSI)."
+title: "Ingescape, a platform for Human-Systems Integration"
+description: "Ingescape, a platform for Human-Systems Integration"
 authors: ["S. Vales"]
 date: 2026-01-09
 duration: "2h"
 type: class
 ---
 
-# Modeling & MBHSI
+# Ingescape, a platform for Human-Systems Integration
 
 ## Session Objectives
+Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.
 
 ## Agenda
 

@@ -1,0 +1,23 @@
+---
+title: "Complexity and systemic modeling for Human-Centered Design"
+description: "Class on systems modeling and complexity in sociotechnical systems."
+authors: ["D. Masson", "A. Disdier"]
+date: 2026-01-06
+duration: "2h"
+type: class
+---
+
+# Complexity and systemic modeling for Human-Centered Design
+
+## Session Objectives
+L’ingénierie, science ou science appliquée ? Que veut dire « mettre l’humain au centre » ? Concevoir amène à construire un point de vue opérationnel sur la réalité souhaitée, comment y parvenir ? Le cours introduira 2 principales notions utiles à la conception, la notion de complexité et celle de modélisation systémique. Cela nous demandera d’accorder une attention toute particulière à des mots familiers comme l’intention, le contexte ou le projet. Également, cela nous conduira sûrement à faire un pas de côté pour prendre du recul, (se) questionner et reconsidérer nos attentes au sujet de la « vérité ».
+
+## Agenda
+
+## Key Concepts
+
+## In-Class Activities
+
+## Preparation & Readings
+
+## Notes

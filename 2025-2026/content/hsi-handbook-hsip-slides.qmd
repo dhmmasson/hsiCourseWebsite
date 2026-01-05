@@ -139,14 +139,16 @@ The goals of HSI is:
 ## HSI Fundamentals - HSI Domains
 ![The six HSI Domains (for NASA)](assets/hsi_domains.png)
 
-## HSI Fundamentals - Human Factors Engineering
-- TODO
-
-## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
+## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️ {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.8 blablablablablablablablablablablablablablablablablablablablabla
+- Two fatal B737MAX crashes (2018–2019) killed 346 people; both involved erroneous MCAS activation triggered by faulty AoA sensors
+- Grounding was unprecedented in scale and duration, driven not by mechanical failure but by pilot–automation interaction
+- Global grounding caused massive financial, industrial, and reputational damage
+- Experts' review found Boeing and FAA relied on unvalidated assumptions about pilot recognition and reaction times (e.g., 1-sec recognition, 3-sec reaction)
+- Real-world studies show pilots often need significantly longer times (sometimes minutes) to detect and respond to abnormal events
+- Automation complexity, subtle failures, and masked cues further reduce pilots’ ability to recognize malfunctions promptly
 :::
 
 ::: {.column width="15%"}
@@ -155,11 +157,16 @@ The goals of HSI is:
 
 ::::
 
-## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX {background-color="#3c405c"}
+## Example: The Cost of Untested Assumptions About Human Performance: The case of the B737MAX ✈️ {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.8 blablablablablablablablablablablablablablablablablablablablabla
+- Two fatal B737MAX crashes (2018–2019) killed 346 people; both involved erroneous MCAS activation triggered by faulty AoA sensors
+- Grounding was unprecedented in scale and duration, driven not by mechanical failure but by pilot–automation interaction
+- Global grounding caused massive financial, industrial, and reputational damage
+- Experts' review found Boeing and FAA relied on unvalidated assumptions about pilot recognition and reaction times (e.g., 1-sec recognition, 3-sec reaction)
+- Real-world studies show pilots often need significantly longer times (sometimes minutes) to detect and respond to abnormal events
+- Automation complexity, subtle failures, and masked cues further reduce pilots’ ability to recognize malfunctions promptly
 :::
 
 ::: {.column width="15%"}
@@ -168,18 +175,17 @@ The goals of HSI is:
 
 ::::
 
-
-## HSI Fundamentals - Operations
-- TODO
-
-## HSI Fundamentals - Maintainability and Supportability
-- TODO
-
 ## Example: Inadequate Consideration of Operations During Design: Shuttle Ground Processing {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.1 blablablablablablablablablablablablablablablablablablablablabla
+- Shuttle designed with minimal supportability/maintainability = far lower flight rates than expected (only 8 by 1985)
+- Later studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems
+- Tight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage
+- Space Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)
+- Many Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment
+- Contamination-control needs grew over time, but facilities not suited
+- Documentation systems burdened workers and slowed processing
 :::
 
 ::: {.column width="15%"}
@@ -192,7 +198,13 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.1 blablablablablablablablablablablablablablablablablablablablabla
+- Shuttle designed with minimal supportability/maintainability = far lower flight rates than expected (only 8 by 1985)
+- Later studies showed widespread design-driven inefficiencies across Orbiter subsystems and ground support systems
+- Tight, congested aft-compartment layout restricted parallel work, caused access issues, and increased risk of connector damage
+- Space Shuttle Main Engines required maintenance far more frequently than planned (none met the 10-flight goal)
+- Many Orbiter systems (e.g., cabin air recirculation) required removing unrelated equipment
+- Contamination-control needs grew over time, but facilities not suited
+- Documentation systems burdened workers and slowed processing
 :::
 
 ::: {.column width="15%"}
@@ -201,14 +213,15 @@ The goals of HSI is:
 
 ::::
 
-## HSI Fundamentals - Habitability and Environment
-- TODO
-
-## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
+## Example: Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.3 blablablablablablablablablablablablablablablablablablablablabla
+- In 2007, Ares-I solid rocket motor produced narrow-band vibration that degraded astronauts’ ability to read displays and placards in Orion
+- Vibration could impair visual processing and task performance during critical flight operations
+- NASA partnered with Human Factors experts to empirically test vibration effects on crew performance
+- Knowledge of human visual perception and stroboscopic effects suggested a potential mitigation
+- Countermeasure: Modified display backlight to strobe in sync with dominant seat vibration frequency = better response times
 :::
 
 ::: {.column width="15%"}
@@ -217,11 +230,15 @@ The goals of HSI is:
 
 ::::
 
-## Example: Expert Knowledge of Human Performance Resulted in Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
+## Example:  Effective Countermeasure for Launch Vehicle Display Vibration {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.3 blablablablablablablablablablablablablablablablablablablablabla
+- In 2007, Ares-I solid rocket motor produced narrow-band vibration that degraded astronauts’ ability to read displays and placards in Orion
+- Vibration could impair visual processing and task performance during critical flight operations
+- NASA partnered with Human Factors experts to empirically test vibration effects on crew performance
+- Knowledge of human visual perception and stroboscopic effects suggested a potential mitigation
+- Countermeasure: Modified display backlight to strobe in sync with dominant seat vibration frequency = better response times
 :::
 
 ::: {.column width="15%"}
@@ -229,12 +246,6 @@ The goals of HSI is:
 :::
 
 ::::
-
-## HSI Fundamentals - Safety
-- TODO
-
-## HSI Fundamentals - Training
-- TODO
 
 # HSI Impacts
 
@@ -375,13 +386,25 @@ The goals of HSI is:
 - **HSI POC**: Contractor’s HSI representative who is capable of leading HSI efforts within the contractor’s team
 
 ## HSI Implementation - Concept of Operations (ConOps)
-- TODO
+- ConOps typically developed early in Pre-Phase A to describe the system concept **from an operational perspective**
+- Helps clarify system goals, mission objectives, and guides development of requirements, interfaces, and architecture
+- Includes **minimal** design solution details to avoid limiting creative approaches
+- SE leads ConOps development, defining roles of humans, hardware, and software in mission objectives
+- HSI Lead ensures all operational aspects considered: nominal, off-nominal, contingency, and emergency scenarios
+- Covers personnel needs, human interactions, skill sets, and training requirements throughout all operational phases
+- Inputs gathered from diverse sources and SMEs, with reviews and comments incorporated from stakeholders
 
 ## Example: Training, Simulation, Design and Human Error: The Virgin Galactic Spaceship Two Mishap {background-color="#3c405c"}
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.5 blablablablablablablablablablablablablablablablablablablablabla
+- In 2014, VSS Enterprise SS2 suborbital rocket broke up during tests
+- Pilot were seriously injured, copilot received fatal injuries
+- Copilot unlocked feather at 0.8 Mach (required 1.4 Mach)
+- Outcome: Uncommanded feather deployment → in-flight breakup
+- Causes: High workload and unexpected vibration + No design or procedural safeguards against early unlock
+
+![VSS Enterprise (from Steve Jurvetson)](assets/ss2.jpg){width="50%"}
 :::
 
 ::: {.column width="15%"}
@@ -394,7 +417,13 @@ The goals of HSI is:
 :::: {.columns}
 
 ::: {.column width="85%"}
-- D.5 blablablablablablablablablablablablablablablablablablablablabla
+- In 2014, VSS Enterprise SS2 suborbital rocket broke up during tests
+- Pilot were seriously injured, copilot received fatal injuries
+- Copilot unlocked feather at 0.8 Mach (required 1.4 Mach)
+- Outcome: Uncommanded feather deployment → in-flight breakup
+- Causes: High workload and unexpected vibration + No design or procedural safeguards against early unlock
+
+![VSS Enterprise (from Steve Jurvetson)](assets/ss2.jpg){width="50%"}
 :::
 
 ::: {.column width="15%"}
@@ -403,16 +432,73 @@ The goals of HSI is:
 
 ::::
 
-
-## HSI Implementation - Function Allocation
-- TODO
-
-## HSI Implementation - Task Analyses
-- TODO
-
 # HSI in the Project Life Cycle
-## HSI in the Project Life Cycle
-- See Ondrej from 44 through 50
+## HSI in the Project Life Cycle - Life Cycle
+![Project Life Cycle (from INCOSE HB)](assets/project_lifecycle.png)
+    
+## HSI in the Project Life Cycle - HSI Activities 
+![HSI Activities across Life Cycle](assets/hsi_activities_crosscut.png)
+
+## HSI in the Project Life Cycle - Pre-Phase A Activities
+![Pre-Phase A Activities (adapted from Ondrej Doule)](assets/pre_a_activities.png)
+
+## HSI in the Project Life Cycle - Phase A Activities
+![Phase A Activities (adapted from Ondrej Doule)](assets/a_activities.png)
+
+## HSI in the Project Life Cycle - Phase B Activities
+![Phase B Activities (adapted from Ondrej Doule)](assets/b_activities.png)
+
+## HSI in the Project Life Cycle - Phase C Activities
+![Phase C Activities (adapted from Ondrej Doule)](assets/c_activities.png)
+
+## HSI in the Project Life Cycle - Phase D Activities
+![Phase D Activities (adapted from Ondrej Doule)](assets/d_activities.png)
+
+## HSI in the Project Life Cycle - Phase E Activities
+![Phase E Activities (adapted from Ondrej Doule)](assets/e_activities.png)
+
+## HSI in the Project Life Cycle - Phase F Activities
+![Phase F Activities (adapted from Ondrej Doule)](assets/f_activities.png)
+
+## Example: The Genesis Probe Mishap {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- Genesis Probe selected for FBC policy in the 90s
+- Heritage assumptions masked growing design divergence as Genesis requirements exceeded Stardust capabilities
+- Disagreement existed over whether heritage had been violated
+- G-switch sensor orientation sensitivity was undocumented and misunderstood by the design team
+- FBC-driven cost and schedule pressure reduced testing and reviews
+- Electrical layout placed the G-switch sensor in an inverted, nonfunctional orientation, leading to crash
+
+![James T. Reason's Swiss Cheese Model](assets/swiss_cheese.png){width="40%"}
+:::
+
+::: {.column width="15%"}
+![](assets/trivial.png){width="100%"}
+:::
+
+::::
+
+## Example: The Genesis Probe Mishap {background-color="#3c405c"}
+:::: {.columns}
+
+::: {.column width="85%"}
+- Genesis Probe selected for FBC policy in the 90s
+- Heritage assumptions masked growing design divergence as Genesis requirements exceeded Stardust capabilities
+- Disagreement existed over whether heritage had been violated
+- G-switch sensor orientation sensitivity was undocumented and misunderstood by the design team
+- FBC-driven cost and schedule pressure reduced testing and reviews
+- Electrical layout placed the G-switch sensor in an inverted, nonfunctional orientation, leading to crash
+
+![James T. Reason's Swiss Cheese Model](assets/swiss_cheese.png){width="40%"}
+:::
+
+::: {.column width="15%"}
+![](assets/trivial_d4.png){width="100%"}
+:::
+
+::::
 
 # HSI Plan
 ## HSI Plan - What is it?
@@ -420,7 +506,7 @@ The goals of HSI is:
 - The HSI Plan contains:
   - Steps to HSI implementation
   - Metrics to control HSI implementation
-  - The definition of the HSI Domains (may differ from the six we have seen at NASA)
+  - The definition of the HSI Domains (may differ from the six at NASA)
   - The description of the organizational structure and stakeholders regarding HSI implementation (i.e., who does what)
   - The description of which HSI methods will be used
 - The HSI Plan stays at a relatively high level (we don't describe low-level design choices for instance)
@@ -434,5 +520,11 @@ The goals of HSI is:
 ![HSI Plan Outline](assets/hsip_outline.png)
 
 ## HSI Plan - Student-friendly version
-- TODO
+:::: {style="text-align: center;"}
+
+::: {style="padding: 150px"}
+In this course, we will ask you to work [on a lightweight version of the HSI Plan](assets/hsi-plan.docx)
+:::
+
+::::
 
