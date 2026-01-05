@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/2025-2026/index.html"
-    ]
-  },
-  {
     "listing": "/2025-2026/schedule.html",
     "items": [
       "/2025-2026/content/hsi-introduction-project-presentation.html",
@@ -28,13 +22,18 @@
       "/2025-2026/content/concept-of-operations-conops.html",
       "/2025-2026/content/final-review-soutenance-2.html",
       "/2025-2026/content/hsi-handbook-hsip-slides.html",
-      "/2025-2026/content/preliminary-review-soutenance-1.html",
       "/2025-2026/content/projet-final-design-report.html",
       "/2025-2026/content/projet-solution-design-2.html",
       "/2025-2026/content/projet-solution-design.html",
       "/2025-2026/content/qcm.html",
       "/2025-2026/content/risk-taking-prevention-design.html",
       "/2025-2026/content/training-in-hsi.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/2025-2026/index.html"
     ]
   }
 ]
