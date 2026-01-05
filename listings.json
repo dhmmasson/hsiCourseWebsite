@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/2025-2026/index.html"
+    ]
+  },
+  {
     "listing": "/2025-2026/schedule.html",
     "items": [
       "/2025-2026/content/hsi-introduction-project-presentation.html",
@@ -28,12 +34,6 @@
       "/2025-2026/content/qcm.html",
       "/2025-2026/content/risk-taking-prevention-design.html",
       "/2025-2026/content/training-in-hsi.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/2025-2026/index.html"
     ]
   }
 ]
