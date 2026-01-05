@@ -9,13 +9,22 @@ type: class
 
 # Introduction of Projects
 
+## Synopsis
+
+In this seance we will create the teams that will address this year [project](../project.qmd), review the delivrables expected and answer questions about the project. 
+
 ## Session Objectives
 
-## Agenda
+- Form teams
+- Understand the assignements
+- Discover the project context and materials. 
 
 ## Project Overview
 
 ## In-Class Activities
+
+- Form Teams 
+- Read materials
 
 ## Preparation & Readings
 

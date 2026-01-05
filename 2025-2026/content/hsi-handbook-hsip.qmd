@@ -9,11 +9,19 @@ type: class
 
 # HSI Handbook & HSIP
 
+## Synopsis
+
+Get an overview of HSI principles from the point of view of NASA.
+
 ## Session Objectives
 
-## Agenda
-
 ## Key Concepts
+
+- HSI Handbook
+- HSI Plan
+
+## In-Class Activities
+
 <style>
 .slide-deck {
     border: 3px solid #dee2e6;
@@ -28,12 +36,9 @@ type: class
 ```
 </div>
 
-## In-Class Activities
-
 ## Preparation & Readings
 **Before project session on Wednesday**:
 - Fetch the PDF file of the Handbook at [https://ntrs.nasa.gov/citations/20210010952](https://ntrs.nasa.gov/citations/20210010952) and **read Sections 2.1 and 2.3** (you can skim Section 2.2 about HSI Domains for now and refer to it later)
 - Take a look at [the HSI Plan (student-friendly version)](assets/hsi-plan.docx) that you will need to fill in for the evaluation
-
 
 ## Notes

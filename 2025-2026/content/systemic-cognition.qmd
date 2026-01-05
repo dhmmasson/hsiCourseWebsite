@@ -9,10 +9,10 @@ type: class
 
 # Systemic Cognition
 
-## Session Objectives
-
-## Agenda
+## Synopsis
 Systemic cognition is the constructivist framework that combines the humanities and social sciences with systems science to support HSI in complex socio-technical systems (STSs). Systemic cognition aims to provide ontological support for discussing this sociotechnical evolution and to develop HSI not only based on a Human-Centered Design (HCD) approach, but also by focusing on society, which is becoming increasingly immersed in a world equipped with artificial resources (particularly with the growing incorporation of artificial intelligence), which separates us from nature. Systemic cognition cross-fertilizes and articulates logical (procedural) and teleological (declarative) representations, capturing domain experience from the bottom up and constructing STSs incrementally from the top down. As a dual procedural-declarative approach, systemic cognition supports the concrete development of the PRODEC method and platform. Four concrete real-world applications have been developed and should be expanded to other business cases to further construct the systemic cognition framework.
+
+## Session Objectives
 
 ## Key Concepts
 

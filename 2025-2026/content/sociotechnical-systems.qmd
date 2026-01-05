@@ -9,10 +9,10 @@ type: class
 
 # Sociotechnical Systems
 
-## Session Objectives
+## Synopsis
+This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.
 
-## Agenda
-This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility. 
+## Session Objectives 
 
 ## Key Concepts
 

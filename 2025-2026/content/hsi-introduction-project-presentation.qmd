@@ -9,14 +9,24 @@ type: class
 
 # HSI Introduction & Project Presentation
 
+## Synopsis 
+
+
 ## Session Objectives
 
-## Agenda
+Present what is HSI 
+Introduce the project. 
 
 ## Key Concepts
 
+- HSI 
+- Control Rooms
+
 ## In-Class Activities
 
+
 ## Preparation & Readings
+
+Gather Materials about Control Rooms
 
 ## Notes

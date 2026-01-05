@@ -9,12 +9,17 @@ type: class
 
 # History of HCI-Aero toward HSI
 
-## Session Objectives
+## Synopsis
 A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented. 
 
-## Agenda
+## Session Objectives
+
+Introduction to HSI in the aerospace domain. 
 
 ## Key Concepts
+
+- HSI 
+- Complex System Engineering
 
 ## In-Class Activities
 
