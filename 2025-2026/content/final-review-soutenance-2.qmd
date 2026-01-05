@@ -10,8 +10,18 @@ type: review
 
 ## Objectives
 
+Present and defend your final project work, demonstrating the application of Human-System Integration principles and methodologies learned throughout the course to your project. This review will assess your ability to integrate theoretical knowledge with practical design solutions, as well as your communication and presentation skills.
+
 ## Agenda
 
 ## Evaluation Criteria
+
+- Concept of Operations (CONOPS) :
+    - Clear and detailed CONOPS that aligns with the HSI plan.
+- HSI Plan Presentation :
+    - Comprehensive and well-structured HSI plan.
+    - HSI Perspective Integration
+- Solution Presentation and Justification :
+    - Ability to justify design decisions with respect to user needs and system requirements.
 
 ## Feedback & Next Steps

@@ -4,16 +4,27 @@ website:
       title: "HSI 2025-2026"
       style: "docked"
       contents:
-        - text: "Home"
-          href: 2025-2026/index.qmd
         - text: "Syllabus"
-          href: 2025-2026/syllabus.qmd
+          href: 2025-2026/index.qmd
         - text: "Schedule"
           href: 2025-2026/schedule.qmd
         - text: "Resources"
           href: 2025-2026/resources.qmd
-        - text: "Project"
-          href: 2025-2026/project.qmd
+        - section: "Project Sessions"
+          contents:
+            - text: "2025-2026 subject"
+              href: 2025-2026/project.qmd
+            - href: 2025-2026/content/projet-hsi-plan.qmd
+              text: "Projet (HSI Plan)"
+            - href: 2025-2026/content/projet-conops.qmd
+              text: "Projet (CONOPS)"
+            - href: 2025-2026/content/projet-scenario.qmd
+              text: "Projet (Scenario)"
+            - href: 2025-2026/content/projet-solution-design.qmd
+              text: "Project (Solution Design)"
+            - href: 2025-2026/content/projet-solution-design-2.qmd
+              text: "Project (Solution Design - 2)"
+        
         - section: "Classes & Sessions"
           contents:
             - text: "---"
@@ -54,36 +65,25 @@ website:
               text: "PRODEC & Robot Fleet Management"
             - href: 2025-2026/content/modeling-mbhsi.qmd
               text: "Modeling & MBHSI"
+            - text: "---"
+            - text: "<b>Jour 7</b>"            
             - href: 2025-2026/content/hf-evaluation-hitls.qmd
               text: "HF Evaluation & HITLS"
-            - href: 2025-2026/content/projet-interim-report.qmd
-              text: "Project (Interim Report)"
+            - text: "---"
+            - text: "<b>Jour 8</b>"            
             - href: 2025-2026/content/training-in-hsi.qmd
               text: "Training in HSI"
-            - href: 2025-2026/content/preliminary-review-soutenance-1.qmd
-              text: "Preliminary Review (Soutenance 1)"
-            - href: 2025-2026/content/qcm.qmd
-              text: "QCM"
-            
+    
             - href: 2025-2026/content/risk-taking-prevention-design.qmd
               text: "Risk-Taking Prevention & Design"
-            - href: 2025-2026/content/projet-final-design-report.qmd
-              text: "Project (Final Design and Report)"
+        - section: "Evaluations"
+          contents:
+            - href: 2025-2026/content/qcm.qmd
+              text: "QCM"             
+            - href: 2025-2026/content/projet-interim-report.qmd            
+              text: "Project (Interim Report)"                
             - href: 2025-2026/content/final-review-soutenance-2.qmd
               text: "Final Review (Soutenance 2)"
-            - text: "---"
-            - text: "<b>Jour 7</b>"  
-            - href: 2025-2026/content/risk-taking-prevention-design.qmd
-              text: "Risk-Taking Prevention & Design"
-        - section: "Project"
-          contents:
-            - href: 2025-2026/content/projet-hsi-plan.qmd
-              text: "Projet (HSI Plan)"
-            - href: 2025-2026/content/projet-conops.qmd
-              text: "Projet (CONOPS)"
-            - href: 2025-2026/content/projet-scenario.qmd
-              text: "Projet (Scenario)"
-            - href: 2025-2026/content/projet-solution-design.qmd
-              text: "Project (Solution Design)"
-            - href: 2025-2026/content/projet-solution-design-2.qmd
-              text: "Project (Solution Design - 2)"
+            - href: 2025-2026/content/projet-final-design-report.qmd
+              text: "Project (Final Design and Report)"              
+            

@@ -9,10 +9,11 @@ type: class
 
 # Ethnographic Tools
 
+## Synopsis
+his course provides an introduction to ergonomic methods and their use in technical and organizational system design projects. After a brief presentation of some fundamental concepts of ergonomics, such as activity, prescribed and actual tasks, and user-centered design, we will discuss methods of activity analysis: observation, semi-structured interviews, and questionnaires. Each method will be illustrated with concrete examples from design projects. The aim is to show how these methods can be used to understand human activity in a particular context and how the knowledge generated can be used to guide design choices towards solutions that are tailored to users.
+
 ## Session Objectives
 
-## Agenda
-Ce cours propose une introduction aux méthodes de l’ergonomie et à leur utilisation dans des projets de conception de systèmes techniques et organisationnels. Après une présentation rapide de quelques concepts fondamentaux de l’ergonomie, tels que l’activité, les tâches prescrites et réelles, ainsi que la conception centrée utilisateurs, nous aborderons les méthodes d’analyse de l’activité : l’observation, l’entretien semi-directif et les questionnaires. Chaque méthode sera illustrée par des exemples concrets issus de projets de conception. L’objectif est de montrer comment ces méthodes permettent de comprendre l’activité humaine dans un contexte particulier et comment il est possible d’utiliser la connaissance générée pour orienter les choix de conception vers des solutions adaptées aux utilisateurs.
 
 ## Key Concepts
 

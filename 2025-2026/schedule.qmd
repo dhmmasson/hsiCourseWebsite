@@ -20,6 +20,4 @@ listing:
 
 The schedule below lists all course sessions. Each item links to a dedicated class or project page in the content folder.
 
-```{=html}
-<!-- Optionally, replace this static list with a generated table later. -->
-```
+![Course Schedule](content/assets/schedule_2025-2026.png){width=100% height=auto}

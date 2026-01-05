@@ -14,19 +14,20 @@ type: class
 
 ## Session Objectives
 
-Present what is HSI 
-Introduce the project. 
+- Present what is Human System Integration. 
+- Introduce the project. 
 
 ## Key Concepts
 
-- HSI 
+- Human System Integration (HSI) 
 - Control Rooms
 
 ## In-Class Activities
 
+![Introduction Slides](assets/HSI-Intro-20251205.pdf){width=100% height=800px}
 
 ## Preparation & Readings
 
-Gather Materials about Control Rooms
+- Gather Materials about Control Rooms
 
 ## Notes

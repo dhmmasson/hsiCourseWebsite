@@ -1,19 +1,27 @@
 ---
 title: "Human-System Integration (HSI) Course 2025-2026"
-description: "Overview page for the ESTIA HSI course (academic year 2025-2026)."
+description: "Syllabus for the Human-System Integration course (2025-2026), including learning outcomes and evaluation criteria."
 ---
 
-# Human-System Integration (HSI) Course 2025-2026
+# Syllabus
 
-Welcome to the HSI course for the academic year 2025-2026.
+## Learning Outcomes
 
-## Course Overview
+- Understand the principles of Human-System Integration (HSI) and its application in complex systems.
+- Analyze and evaluate sociotechnical systems using systemic User Centered Design approaches.
+- Develop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects.
+- Apply scenario-driven engineering techniques in system design.
+- Utilize modeling and MBHSI methodologies to enhance human factors in system design.
 
-<!-- Brief high-level description of the course for this year. -->
+## Evaluation Criteria
 
-## Navigation
+- Participation : 20%
+  - Présence en cours (Présence obligatoire)
+  - Participation aux reviews croisées ([Review 1](content/projet-interim-report.qmd))
+- QCM : 30 %
+- Final Review : 30%
+- Report : 20% 
 
-- See the syllabus for learning outcomes and evaluation criteria.
-- See the schedule for the list of classes and sessions.
-- See the project page for the nano-satellite Control and Command Center project description.
-- Use the sidebar to access individual class pages.
+## Course Logistics
+
+- Academic year: 2025-2026

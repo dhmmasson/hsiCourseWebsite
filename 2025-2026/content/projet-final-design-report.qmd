@@ -10,6 +10,23 @@ type: project-session
 
 ## Session Objectives
 
+
+### Mission definition review (MDR)
+The MDR examines the proposed requirements, the mission architecture, and the flow down to all functional elements of the mission to ensure that the overall concept is complete, feasible, and consistent with available resources
+
+- Architecture organique de la solution (les éléments abstrait ordinateur, serveur, logiciel) 
+- Les scenarios opérationnels 
+
+### Preliminary Design Review (PDR)
+
+- Task analysis ()
+- Les logiciels retenus ou à developper.
+- Le matériel a acheter
+- le plan de la salle 
+- les feuilles de postes
+- L'évaluation
+
+
 ## Agenda
 
 ## Team Activities
