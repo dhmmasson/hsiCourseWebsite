@@ -11,9 +11,11 @@ type: class
 
 ## Synopsis
 
-Get an overview of HSI principles from the point of view of NASA.
+This session introduces the core principles of HSI through the lens of the NASA HSI Handbook (2021). The idea is to provide an overview of the different HSI Domains and motivate through real-life aerospace case studies how HSI can improve system performance while reducing costs and risks.
 
 ## Session Objectives
+
+Get an overview of HSI principles from the point of view of NASA.
 
 ## Key Concepts
 
