@@ -8,14 +8,45 @@ type: class
 
 # Concept of Operations (CONOPS)
 
-## Session Objectives
+## Synopsis
+This session introduces the **Concept of Operations (ConOps)** as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the *user’s perspective*: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.
 
-## Agenda
+## Session Objectives
+By the end of the session, students should be able to:
+- Explain what a ConOps is and why it exists, beyond formal definitions.
+- Identify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination).
+- Situate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement).
+- Compare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them.
+- Critically assess whether a given ConOps format effectively serves its intended users.
 
 ## Key Concepts
+- Concept of Operations vs. Operational Concept (ConOps / OpsCon)
+- User-centered viewpoint and stakeholder diversity
+- Narrative vs. formalized representations
+- Life-cycle evolution of ConOps
+- ConOps as a communication and alignment artifact
+- Relationships between ConOps, requirements, and architecture
+- Standards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)
+- Consistency, congruence, and traceability without over-specification
 
 ## In-Class Activities
+- **Group analysis**: Students examine short excerpts from different ConOps (military, civil, space, information systems) and identify the implied users and decisions supported.
+- **Perspective shift exercise**: Each group rewrites a small portion of a ConOps from a different stakeholder viewpoint (operator, program manager, regulator, maintainer).
+- **Debrief discussion**: Is ConOps a document, a process, or a shared understanding?
 
 ## Preparation & Readings
-
+- [DOD Definition](https://www.dau.edu/acquipedia-article/concept-operations-conops)
+- [SEBOK](https://sebokwiki.org/wiki/Concept_of_Operations_(ConOps)_(glossary))
+- [Joint Publication 5-0: Joint Planning](https://www.airforcespecialtactics.af.mil/Portals/80/prototype/assets/joint-pub-jpub-5-0-joint-planning.pdf)
 ## Notes
+- There is no single “correct” ConOps format; effectiveness depends on context and audience.
+- Early-stage ConOps tend to be exploratory and narrative; later ones often stabilize but may lose accessibility.
+- Treat ConOps as a living artifact that supports reasoning, communication, and learning—not merely compliance.
+- Tension between formalization (for rigor and simulation) and storytelling (for shared understanding) is intentional and productive.
+
+
+
+
+
+
+

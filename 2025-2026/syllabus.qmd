@@ -15,11 +15,13 @@ description: "Syllabus for the Human-System Integration course (2025-2026), incl
 
 ## Evaluation Criteria
 
-<!-- Describe grading components (e.g., project, QCM, participation, exams). -->
+- Participation : 20%
+  - Présence en cours (Présence obligatoire)
+  - Participation aux reviews croisées ([Review 1](content/projet-interim-report.qmd))
+- QCM : 30 %
+- Final Review : 30%
+- Report : 20% 
 
 ## Course Logistics
 
 - Academic year: 2025-2026
-- Institution: ESTIA
-
-<!-- Add detailed policies (attendance, late work, academic integrity, etc.) here. -->

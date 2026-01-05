@@ -11,6 +11,32 @@ type: project-session
 
 ## Session Objectives
 
+Presenter la compréhension du problème. 
+AOn evalue que les étudiants sont capables : 
+
+- d'appréhender un sujet **complexe**
+- proposer des requirements pour système sociotechniques
+- utiliser plusieurs des perspectives HSI
+- Proposer un plan de développement HSI 
+
+cela correspond au passage de porte entre la phase A et la Phase B, ou autrement dit a deux review classique MCR et SRR. 
+
+### Mission concept review (MCR)
+The MCR affirms the **mission need** and examines the proposed mission's objectives and the **concept for meeting those objectives**.
+ 
+- Reformulation du besoin,  partie prenantes, objectifs reformulés
+- CONOPS et scenarios haut niveau 
+
+### System requirements review (SRR)
+The SRR examines the **functional requirements** and **performance requirements** defined for the system and the **preliminary program or project plan** and ensures that the requirements and the selected concept will satisfy the mission.
+
+- HSI Plan
+- Highlevel requirements Functional Requirement and Perfomance : Sysml BDD (Block Diagram Definition) or SADT 
+
+
+
+
+
 ## Agenda
 
 ## Team Activities

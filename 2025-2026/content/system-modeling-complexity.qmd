@@ -9,8 +9,8 @@ type: class
 
 # Complexity and systemic modeling for Human-Centered Design
 
-## Session Objectives
-L’ingénierie, science ou science appliquée ? Que veut dire « mettre l’humain au centre » ? Concevoir amène à construire un point de vue opérationnel sur la réalité souhaitée, comment y parvenir ? Le cours introduira 2 principales notions utiles à la conception, la notion de complexité et celle de modélisation systémique. Cela nous demandera d’accorder une attention toute particulière à des mots familiers comme l’intention, le contexte ou le projet. Également, cela nous conduira sûrement à faire un pas de côté pour prendre du recul, (se) questionner et reconsidérer nos attentes au sujet de la « vérité ».
+## Synopsis
+Is engineering a science or an applied science? What does “putting people first” mean? Designing leads to building an operational perspective on the desired reality, but how can this be achieved? The course will introduce two key concepts that are useful in design: complexity and systemic modeling. This will require us to pay particular attention to familiar words such as intention, context, and project. It will also undoubtedly lead us to take a step back, question ourselves, and reconsider our expectations regarding “truth.”
 
 ## Agenda
 
