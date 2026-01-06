@@ -22,6 +22,7 @@ Introduction to HSI in the aerospace domain.
 - Complex System Engineering
 
 ## In-Class Activities
+- [Slides du cours](assets/hci_aero.pdf)
 
 ## Preparation & Readings
 
