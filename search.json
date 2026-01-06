@@ -114,7 +114,7 @@
     "href": "2025-2026/content/sociotechnical-systems.html",
     "title": "Sociotechnical Systems",
     "section": "",
-    "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.",
+    "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.\n\n\n\n\n\n\n\n\n\n\nSlides du cours",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -127,6 +127,18 @@
     "title": "Sociotechnical Systems",
     "section": "",
     "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Sociotechnical Systems"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/sociotechnical-systems.html#in-class-activities",
+    "href": "2025-2026/content/sociotechnical-systems.html#in-class-activities",
+    "title": "Sociotechnical Systems",
+    "section": "",
+    "text": "Slides du cours",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -561,7 +573,7 @@
     "href": "2025-2026/content/hci-aero-history.html",
     "title": "History of HCI-Aero toward HSI",
     "section": "",
-    "text": "A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented.\n\n\n\nIntroduction to HSI in the aerospace domain.\n\n\n\n\nHSI\nComplex System Engineering",
+    "text": "A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented.\n\n\n\nIntroduction to HSI in the aerospace domain.\n\n\n\n\nHSI\nComplex System Engineering\n\n\n\n\n\nSlides du cours",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -598,6 +610,18 @@
     "title": "History of HCI-Aero toward HSI",
     "section": "",
     "text": "HSI\nComplex System Engineering",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "History of HCI-Aero toward HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hci-aero-history.html#in-class-activities",
+    "href": "2025-2026/content/hci-aero-history.html#in-class-activities",
+    "title": "History of HCI-Aero toward HSI",
+    "section": "",
+    "text": "Slides du cours",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -897,7 +921,7 @@
     "href": "2025-2026/content/systemic-cognition.html",
     "title": "Systemic Cognition",
     "section": "",
-    "text": "Systemic cognition is the constructivist framework that combines the humanities and social sciences with systems science to support HSI in complex socio-technical systems (STSs). Systemic cognition aims to provide ontological support for discussing this sociotechnical evolution and to develop HSI not only based on a Human-Centered Design (HCD) approach, but also by focusing on society, which is becoming increasingly immersed in a world equipped with artificial resources (particularly with the growing incorporation of artificial intelligence), which separates us from nature. Systemic cognition cross-fertilizes and articulates logical (procedural) and teleological (declarative) representations, capturing domain experience from the bottom up and constructing STSs incrementally from the top down. As a dual procedural-declarative approach, systemic cognition supports the concrete development of the PRODEC method and platform. Four concrete real-world applications have been developed and should be expanded to other business cases to further construct the systemic cognition framework.",
+    "text": "Systemic cognition is the constructivist framework that combines the humanities and social sciences with systems science to support HSI in complex socio-technical systems (STSs). Systemic cognition aims to provide ontological support for discussing this sociotechnical evolution and to develop HSI not only based on a Human-Centered Design (HCD) approach, but also by focusing on society, which is becoming increasingly immersed in a world equipped with artificial resources (particularly with the growing incorporation of artificial intelligence), which separates us from nature. Systemic cognition cross-fertilizes and articulates logical (procedural) and teleological (declarative) representations, capturing domain experience from the bottom up and constructing STSs incrementally from the top down. As a dual procedural-declarative approach, systemic cognition supports the concrete development of the PRODEC method and platform. Four concrete real-world applications have been developed and should be expanded to other business cases to further construct the systemic cognition framework.\n\n\n\n\n\n\n\n\n\n\nSlides du cours\nLien vers le papier de Guy Boy sur Systemic Cognition",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -910,6 +934,18 @@
     "title": "Systemic Cognition",
     "section": "",
     "text": "Systemic cognition is the constructivist framework that combines the humanities and social sciences with systems science to support HSI in complex socio-technical systems (STSs). Systemic cognition aims to provide ontological support for discussing this sociotechnical evolution and to develop HSI not only based on a Human-Centered Design (HCD) approach, but also by focusing on society, which is becoming increasingly immersed in a world equipped with artificial resources (particularly with the growing incorporation of artificial intelligence), which separates us from nature. Systemic cognition cross-fertilizes and articulates logical (procedural) and teleological (declarative) representations, capturing domain experience from the bottom up and constructing STSs incrementally from the top down. As a dual procedural-declarative approach, systemic cognition supports the concrete development of the PRODEC method and platform. Four concrete real-world applications have been developed and should be expanded to other business cases to further construct the systemic cognition framework.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Systemic Cognition"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/systemic-cognition.html#in-class-activities",
+    "href": "2025-2026/content/systemic-cognition.html#in-class-activities",
+    "title": "Systemic Cognition",
+    "section": "",
+    "text": "Slides du cours\nLien vers le papier de Guy Boy sur Systemic Cognition",
     "crumbs": [
       "Home",
       "Classes & Sessions",
