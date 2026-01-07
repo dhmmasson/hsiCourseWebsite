@@ -1,99 +1,92 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HSI Course Website",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is the website for the module HSI at ESTIA."
+    "text": "About this site"
   },
   {
-    "objectID": "index.html#academic-years",
-    "href": "index.html#academic-years",
-    "title": "HSI Course Website",
-    "section": "Academic Years",
-    "text": "Academic Years"
-  },
-  {
-    "objectID": "2025-2026/syllabus.html",
-    "href": "2025-2026/syllabus.html",
-    "title": "Syllabus",
+    "objectID": "2025-2026/schedule.html",
+    "href": "2025-2026/schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Understand the principles of Human-System Integration (HSI) and its application in complex systems.\nAnalyze and evaluate sociotechnical systems using systemic User Centered Design approaches.\nDevelop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects.\nApply scenario-driven engineering techniques in system design.\nUtilize modeling and MBHSI methodologies to enhance human factors in system design.\n\n\n\n\n\nParticipation : 20%\n\nPrésence en cours (Présence obligatoire)\nParticipation aux reviews croisées (Review 1)\n\nQCM : 30 %\nFinal Review : 30%\nReport : 20%\n\n\n\n\n\nAcademic year: 2025-2026"
-  },
-  {
-    "objectID": "2025-2026/syllabus.html#learning-outcomes",
-    "href": "2025-2026/syllabus.html#learning-outcomes",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Understand the principles of Human-System Integration (HSI) and its application in complex systems.\nAnalyze and evaluate sociotechnical systems using systemic User Centered Design approaches.\nDevelop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects.\nApply scenario-driven engineering techniques in system design.\nUtilize modeling and MBHSI methodologies to enhance human factors in system design."
-  },
-  {
-    "objectID": "2025-2026/syllabus.html#evaluation-criteria",
-    "href": "2025-2026/syllabus.html#evaluation-criteria",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Participation : 20%\n\nPrésence en cours (Présence obligatoire)\nParticipation aux reviews croisées (Review 1)\n\nQCM : 30 %\nFinal Review : 30%\nReport : 20%"
-  },
-  {
-    "objectID": "2025-2026/syllabus.html#course-logistics",
-    "href": "2025-2026/syllabus.html#course-logistics",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Academic year: 2025-2026"
-  },
-  {
-    "objectID": "2025-2026/resources.html",
-    "href": "2025-2026/resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "HSI Primer: An Brief introduction to Human-System Integration principles and practices from the INCOSE HSI Working Group.\nNasa HSI Handbook: The NASA Human Systems Integration Handbook (2021) provides guidelines and best practices for integrating human factors into system design and development.",
+    "text": "Schedule\nThe schedule below lists all course sessions. Each item links to a dedicated class or project page in the content folder.\n\n\n\nCourse Schedule\n\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        date - Oldest\n      \n      \n        date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\ndate\n\n\n\n#\n\n\n\nTitle\n\n\n\nType\n\n\n\nDuration\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\n \n\n\nHSI Introduction & Project Presentation\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHistory of HCI-Aero toward HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHSI Handbook & HSIP\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nIntroduction of Projects\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSociotechnical Systems\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nComplexity and systemic modeling for Human-Centered Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSystemic Cognition\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nEthnographic Tools\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nProjet (HSI Plan)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nScenario-Driven Engineering\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nPRODEC & Robot Fleet Management\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nProjet (CONOPS)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nIngescape, a platform for Human-Systems Integration\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nProjet (Scenario)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nSystem Context and Air Traffic Control\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nHF Evaluation & HITLS\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nProjet (Interim Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nConcept of Operations (CONOPS)\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nFinal Review (Soutenance 2)\n\n\nreview\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nNASA HSI Handbook & HSI Plan\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Final Design and Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design - 2)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nQCM\n\n\nassessment\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nRisk-Taking Prevention & Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nTraining in HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
-      "Resources"
+      "Schedule"
     ]
   },
   {
-    "objectID": "2025-2026/resources.html#core-readings",
-    "href": "2025-2026/resources.html#core-readings",
-    "title": "Resources",
+    "objectID": "2025-2026/project.html",
+    "href": "2025-2026/project.html",
+    "title": "Course Project: Distributed Control and Command Center (CCC)",
     "section": "",
-    "text": "HSI Primer: An Brief introduction to Human-System Integration principles and practices from the INCOSE HSI Working Group.\nNasa HSI Handbook: The NASA Human Systems Integration Handbook (2021) provides guidelines and best practices for integrating human factors into system design and development.",
+    "text": "The client wants to operate a nanosatellite as part of an educational and scientific program, while ensuring a professional level of reliability, traceability, and long-term sustainability.\nBeyond simply flying a satellite, the ambition is to:\n\nTrain students to real space operations,\nEnable scientific missions led by different payload teams,\nEnsure continuity of operations over the full mission lifetime,\nPreserve all operational and scientific knowledge generated by the mission.\n\nTo achieve this, the client expresses the need for a complete ground segment, organized around three complementary and cooperating subsystems:\n\nA Command Center to operate the satellite,\nOne or several Mission Centers to manage payloads and scientific exploitation,\nA Ground Station to physically communicate with the satellite.\n\nThe client insists that this ground segment must be distributed across multiple schools, accessible to both staff and students, and robust enough to operate for years.\n\n\n\n\n\n\nARAGNOUET Nathan\nHOARAU John\nDIA Yaye Aminata Niang\nZHUANG Dengbo\n\n\n\n\n\nVELLUET Alix\nHASTOY Clara\nRIVERA ESQUIVEL Darzee Alejandra\nCANN Yanis\nZHANG Yuhao\n\n\n\n\n\nBESSÉ M’bouké\nGUIOL Noa\nPINON Lorenzo\nCANI Clément\nZHANG Chenggong\n\n\n\n\n\nDOUGNAC Amaya\nMESSAOUDI Bilel\nBRINTET Augustin\nEL ALAOUI Ahd Acharif\n\n\n\n\n\nBÉDRUNE Pierre\nLAFITTE Titouan\nAMADORI Bastien\nCEN Yongxin\n\n\n\n\n\n\n\n\n\n\nThe Command Center is the place from which the satellite is actually flown. It represents the operational brain of the mission, where decisions are taken, actions are coordinated, and the overall behavior of the spacecraft is monitored over time. From the point of view of the organization operating the satellite, the Command Center is responsible for ensuring that the satellite remains functional, safe, and useful throughout its entire lifetime.\nInside the Command Center, operators prepare the activities that will be carried out by the satellite. These activities are not improvised: they are defined through procedures that describe, step by step, how the satellite should be commanded in a given situation. Before being used in real operations, these procedures are tested in a simulated environment that reproduces the behavior of the satellite as faithfully as possible. This allows operators and students to rehearse operations, validate their understanding, and detect potential issues without risking the spacecraft.\nOnce operations are executed, everything that happens is carefully recorded. Telemetry received from the satellite, commands sent to it, operational decisions, and configuration changes are stored and preserved. This long-term memory of the mission is essential both for technical reasons, such as anomaly investigation, and for educational purposes, since it allows future teams to learn from past operations. To protect this knowledge, the data is duplicated and secured so that a technical failure does not result in an irreversible loss of mission history.\nThe Command Center is also where the overall health of the satellite is assessed. Operators monitor its subsystems, follow the evolution of its orbit, and manage aspects related to flight dynamics. When maintenance actions are required, or when unexpected behavior occurs, the Command Center acts as the focal point for analysis and coordination. It concentrates the operational expertise of the satellite and ensures coherence between all ongoing activities.\nIn the NAASC context, the Command Center is not limited to a single physical location. Several schools may host rooms that replicate the Command Center environment. These rooms can be used either for real operations, for training, or remain inactive depending on the situation. This distributed approach allows students from different institutions to participate in realistic space operations while sharing the same tools, data, and documentation. Accessibility is therefore a key aspect: the Command Center must be usable by both experienced staff and students, while still preserving operational discipline and safety.\n\n\n\nWhile the Command Center focuses on the satellite as a whole, the Mission Center is centered on what the satellite is meant to accomplish. Each Mission Center is associated with a specific payload or scientific objective, and its role is to transform raw satellite data into meaningful results.\nTeams working in a Mission Center are typically composed of experts, scientists, or advanced students who deeply understand the payload they are responsible for. Their work starts well before data is received, by defining how the payload should be used, under which conditions, and for which scientific goals. Based on this preparation, they propose operational plans that describe what the payload should do and when. These plans are then transmitted to the Command Center, which integrates them into the global satellite operations.\nOnce data is collected, the Mission Center takes charge of processing and analyzing it. This often involves complex data processing chains, calibration steps, and the management of evolving parameters that change over the course of the mission. Maintaining consistency over time is crucial, as scientific results depend on knowing exactly how the data was produced and under which conditions.\nThe Mission Center also plays an important role in monitoring the health of the payload. Regular assessments are performed, and reports are produced to track performance and detect degradations. When anomalies occur, the Mission Center contributes its expertise to diagnose issues and propose corrective actions, in coordination with the Command Center.\nBeyond internal use, the Mission Center is responsible for sharing results. This includes distributing data to authorized users, producing summaries of scientific outcomes, and contributing to public communication and educational outreach. At the same time, access to sensitive tools and data remains controlled, as the integrity of scientific processing must be preserved.\nLike the Command Center, the Mission Center is expected to remain active for as long as the satellite exists, even if operations slow down over time. It represents the continuity of the scientific mission, ensuring that knowledge, data, and expertise are not lost.\n\n\n\nThe Ground Station is the physical interface between the satellite in orbit and the teams on Earth. It is through the Ground Station that signals are exchanged, making it an indispensable element of the ground segment.\nDuring each pass of the satellite over the station, the Ground Station receives telemetry data that describes the state of the spacecraft and its payloads. At the same time, it transmits commands prepared by the Command Center, allowing operators to control the satellite remotely. These exchanges only occur during limited visibility windows, which makes their preparation and execution particularly important.\nIn addition to communications, the Ground Station contributes to knowing where the satellite is and how it moves. By measuring signals and timing information, it provides data that can be used to reconstruct the satellite’s orbit and support flight dynamics activities. This information feeds back into mission planning and helps anticipate future passes and operations.\nAccurate time and frequency references are essential for these tasks. The Ground Station must therefore maintain synchronization with universal time and ensure that its equipment operates coherently. Stability and precision are key, as even small discrepancies can affect communication quality or orbital calculations.\nBecause it is exposed to the terrestrial environment, the Ground Station must be designed to withstand weather conditions, remain reliable over long periods, and be maintainable directly on site. It must also comply with local regulations and operate autonomously from an energy point of view when necessary. From the client’s perspective, the Ground Station is expected to be a robust, long-term infrastructure rather than a temporary or fragile installation.\n\n\n\n\n\nKnowledge continuity under high turnover\nSupport for shift transitions and training\nDistributed control and governance\n\n\n\n\n\nHSI Plan\nConcept of Operations (CONOPS)\nScenario-driven designs\nFinal report and presentation",
     "crumbs": [
       "Home",
-      "Resources"
+      "Project Sessions",
+      "2025-2026 subject and teams"
     ]
   },
   {
-    "objectID": "2025-2026/resources.html#tools-and-platforms",
-    "href": "2025-2026/resources.html#tools-and-platforms",
-    "title": "Resources",
-    "section": "Tools and Platforms",
-    "text": "Tools and Platforms\n\nIngescape Circle: is an intuitive environment enabling developers and non-developers to work together in a collaborative and constructive way, using the best practices in agile, iterative and creative methodologies in software projects, digital twins and simulations.",
+    "objectID": "2025-2026/project.html#project-overview",
+    "href": "2025-2026/project.html#project-overview",
+    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "section": "",
+    "text": "The client wants to operate a nanosatellite as part of an educational and scientific program, while ensuring a professional level of reliability, traceability, and long-term sustainability.\nBeyond simply flying a satellite, the ambition is to:\n\nTrain students to real space operations,\nEnable scientific missions led by different payload teams,\nEnsure continuity of operations over the full mission lifetime,\nPreserve all operational and scientific knowledge generated by the mission.\n\nTo achieve this, the client expresses the need for a complete ground segment, organized around three complementary and cooperating subsystems:\n\nA Command Center to operate the satellite,\nOne or several Mission Centers to manage payloads and scientific exploitation,\nA Ground Station to physically communicate with the satellite.\n\nThe client insists that this ground segment must be distributed across multiple schools, accessible to both staff and students, and robust enough to operate for years.",
     "crumbs": [
       "Home",
-      "Resources"
+      "Project Sessions",
+      "2025-2026 subject and teams"
     ]
   },
   {
-    "objectID": "2025-2026/resources.html#additional-references",
-    "href": "2025-2026/resources.html#additional-references",
-    "title": "Resources",
-    "section": "Additional References",
-    "text": "Additional References\n\nHRL: Standard on Human Readiness Levels (HRL) for assessing human factors integration in system development.",
+    "objectID": "2025-2026/project.html#teams",
+    "href": "2025-2026/project.html#teams",
+    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "section": "",
+    "text": "ARAGNOUET Nathan\nHOARAU John\nDIA Yaye Aminata Niang\nZHUANG Dengbo\n\n\n\n\n\nVELLUET Alix\nHASTOY Clara\nRIVERA ESQUIVEL Darzee Alejandra\nCANN Yanis\nZHANG Yuhao\n\n\n\n\n\nBESSÉ M’bouké\nGUIOL Noa\nPINON Lorenzo\nCANI Clément\nZHANG Chenggong\n\n\n\n\n\nDOUGNAC Amaya\nMESSAOUDI Bilel\nBRINTET Augustin\nEL ALAOUI Ahd Acharif\n\n\n\n\n\nBÉDRUNE Pierre\nLAFITTE Titouan\nAMADORI Bastien\nCEN Yongxin",
     "crumbs": [
       "Home",
-      "Resources"
+      "Project Sessions",
+      "2025-2026 subject and teams"
     ]
   },
   {
-    "objectID": "2025-2026/resources.html#project-resources",
-    "href": "2025-2026/resources.html#project-resources",
-    "title": "Resources",
-    "section": "Project Resources",
-    "text": "Project Resources\n\nConfidential Information about the project on moodle: Access restricted to enrolled students. You’ll find the STB (Specification Technique du Besoin) and the DD (Detailed Definition) documents for the payloads and the ground segment there.\nGreen Book Mission Planning a comprehensive guide on mission planning for satellite systems by the CCSDS (Consultative Committee for Space Data Systems). This resource provides detailed methodologies and best practices for effective mission planning.\nECSS Ground Systems a standard from the European Cooperation for Space Standardization (ECSS) that outlines the requirements and guidelines for designing and operating ground systems for space missions. This document is essential for understanding the technical and operational aspects of ground systems in the context of space exploration.",
+    "objectID": "2025-2026/project.html#problem-statement",
+    "href": "2025-2026/project.html#problem-statement",
+    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "section": "",
+    "text": "The Command Center is the place from which the satellite is actually flown. It represents the operational brain of the mission, where decisions are taken, actions are coordinated, and the overall behavior of the spacecraft is monitored over time. From the point of view of the organization operating the satellite, the Command Center is responsible for ensuring that the satellite remains functional, safe, and useful throughout its entire lifetime.\nInside the Command Center, operators prepare the activities that will be carried out by the satellite. These activities are not improvised: they are defined through procedures that describe, step by step, how the satellite should be commanded in a given situation. Before being used in real operations, these procedures are tested in a simulated environment that reproduces the behavior of the satellite as faithfully as possible. This allows operators and students to rehearse operations, validate their understanding, and detect potential issues without risking the spacecraft.\nOnce operations are executed, everything that happens is carefully recorded. Telemetry received from the satellite, commands sent to it, operational decisions, and configuration changes are stored and preserved. This long-term memory of the mission is essential both for technical reasons, such as anomaly investigation, and for educational purposes, since it allows future teams to learn from past operations. To protect this knowledge, the data is duplicated and secured so that a technical failure does not result in an irreversible loss of mission history.\nThe Command Center is also where the overall health of the satellite is assessed. Operators monitor its subsystems, follow the evolution of its orbit, and manage aspects related to flight dynamics. When maintenance actions are required, or when unexpected behavior occurs, the Command Center acts as the focal point for analysis and coordination. It concentrates the operational expertise of the satellite and ensures coherence between all ongoing activities.\nIn the NAASC context, the Command Center is not limited to a single physical location. Several schools may host rooms that replicate the Command Center environment. These rooms can be used either for real operations, for training, or remain inactive depending on the situation. This distributed approach allows students from different institutions to participate in realistic space operations while sharing the same tools, data, and documentation. Accessibility is therefore a key aspect: the Command Center must be usable by both experienced staff and students, while still preserving operational discipline and safety.\n\n\n\nWhile the Command Center focuses on the satellite as a whole, the Mission Center is centered on what the satellite is meant to accomplish. Each Mission Center is associated with a specific payload or scientific objective, and its role is to transform raw satellite data into meaningful results.\nTeams working in a Mission Center are typically composed of experts, scientists, or advanced students who deeply understand the payload they are responsible for. Their work starts well before data is received, by defining how the payload should be used, under which conditions, and for which scientific goals. Based on this preparation, they propose operational plans that describe what the payload should do and when. These plans are then transmitted to the Command Center, which integrates them into the global satellite operations.\nOnce data is collected, the Mission Center takes charge of processing and analyzing it. This often involves complex data processing chains, calibration steps, and the management of evolving parameters that change over the course of the mission. Maintaining consistency over time is crucial, as scientific results depend on knowing exactly how the data was produced and under which conditions.\nThe Mission Center also plays an important role in monitoring the health of the payload. Regular assessments are performed, and reports are produced to track performance and detect degradations. When anomalies occur, the Mission Center contributes its expertise to diagnose issues and propose corrective actions, in coordination with the Command Center.\nBeyond internal use, the Mission Center is responsible for sharing results. This includes distributing data to authorized users, producing summaries of scientific outcomes, and contributing to public communication and educational outreach. At the same time, access to sensitive tools and data remains controlled, as the integrity of scientific processing must be preserved.\nLike the Command Center, the Mission Center is expected to remain active for as long as the satellite exists, even if operations slow down over time. It represents the continuity of the scientific mission, ensuring that knowledge, data, and expertise are not lost.\n\n\n\nThe Ground Station is the physical interface between the satellite in orbit and the teams on Earth. It is through the Ground Station that signals are exchanged, making it an indispensable element of the ground segment.\nDuring each pass of the satellite over the station, the Ground Station receives telemetry data that describes the state of the spacecraft and its payloads. At the same time, it transmits commands prepared by the Command Center, allowing operators to control the satellite remotely. These exchanges only occur during limited visibility windows, which makes their preparation and execution particularly important.\nIn addition to communications, the Ground Station contributes to knowing where the satellite is and how it moves. By measuring signals and timing information, it provides data that can be used to reconstruct the satellite’s orbit and support flight dynamics activities. This information feeds back into mission planning and helps anticipate future passes and operations.\nAccurate time and frequency references are essential for these tasks. The Ground Station must therefore maintain synchronization with universal time and ensure that its equipment operates coherently. Stability and precision are key, as even small discrepancies can affect communication quality or orbital calculations.\nBecause it is exposed to the terrestrial environment, the Ground Station must be designed to withstand weather conditions, remain reliable over long periods, and be maintainable directly on site. It must also comply with local regulations and operate autonomously from an energy point of view when necessary. From the client’s perspective, the Ground Station is expected to be a robust, long-term infrastructure rather than a temporary or fragile installation.",
     "crumbs": [
       "Home",
-      "Resources"
+      "Project Sessions",
+      "2025-2026 subject and teams"
+    ]
+  },
+  {
+    "objectID": "2025-2026/project.html#key-hsi-challenges",
+    "href": "2025-2026/project.html#key-hsi-challenges",
+    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "section": "",
+    "text": "Knowledge continuity under high turnover\nSupport for shift transitions and training\nDistributed control and governance",
+    "crumbs": [
+      "Home",
+      "Project Sessions",
+      "2025-2026 subject and teams"
+    ]
+  },
+  {
+    "objectID": "2025-2026/project.html#deliverables",
+    "href": "2025-2026/project.html#deliverables",
+    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "section": "",
+    "text": "HSI Plan\nConcept of Operations (CONOPS)\nScenario-driven designs\nFinal report and presentation",
+    "crumbs": [
+      "Home",
+      "Project Sessions",
+      "2025-2026 subject and teams"
     ]
   },
   {
@@ -141,123 +134,291 @@
     ]
   },
   {
-    "objectID": "2025-2026/content/system-modeling-complexity.html",
-    "href": "2025-2026/content/system-modeling-complexity.html",
-    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "objectID": "2025-2026/content/ethnographic-tools.html",
+    "href": "2025-2026/content/ethnographic-tools.html",
+    "title": "Ethnographic Tools",
     "section": "",
-    "text": "Is engineering a science or an applied science? What does “putting people first” mean? Designing leads to building an operational perspective on the desired reality, but how can this be achieved? The course will introduce two key concepts that are useful in design: complexity and systemic modeling. This will require us to pay particular attention to familiar words such as intention, context, and project. It will also undoubtedly lead us to take a step back, question ourselves, and reconsider our expectations regarding “truth.”\n\n\n\n\n\n\n\n\n\n\nSlides du cours",
+    "text": "his course provides an introduction to ergonomic methods and their use in technical and organizational system design projects. After a brief presentation of some fundamental concepts of ergonomics, such as activity, prescribed and actual tasks, and user-centered design, we will discuss methods of activity analysis: observation, semi-structured interviews, and questionnaires. Each method will be illustrated with concrete examples from design projects. The aim is to show how these methods can be used to understand human activity in a particular context and how the knowledge generated can be used to guide design choices towards solutions that are tailored to users.",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "System Modeling & Complexity"
+      "Ethnographic tools"
     ]
   },
   {
-    "objectID": "2025-2026/content/system-modeling-complexity.html#synopsis",
-    "href": "2025-2026/content/system-modeling-complexity.html#synopsis",
-    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "objectID": "2025-2026/content/ethnographic-tools.html#synopsis",
+    "href": "2025-2026/content/ethnographic-tools.html#synopsis",
+    "title": "Ethnographic Tools",
     "section": "",
-    "text": "Is engineering a science or an applied science? What does “putting people first” mean? Designing leads to building an operational perspective on the desired reality, but how can this be achieved? The course will introduce two key concepts that are useful in design: complexity and systemic modeling. This will require us to pay particular attention to familiar words such as intention, context, and project. It will also undoubtedly lead us to take a step back, question ourselves, and reconsider our expectations regarding “truth.”",
+    "text": "his course provides an introduction to ergonomic methods and their use in technical and organizational system design projects. After a brief presentation of some fundamental concepts of ergonomics, such as activity, prescribed and actual tasks, and user-centered design, we will discuss methods of activity analysis: observation, semi-structured interviews, and questionnaires. Each method will be illustrated with concrete examples from design projects. The aim is to show how these methods can be used to understand human activity in a particular context and how the knowledge generated can be used to guide design choices towards solutions that are tailored to users.",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "System Modeling & Complexity"
+      "Ethnographic tools"
     ]
   },
   {
-    "objectID": "2025-2026/content/system-modeling-complexity.html#in-class-activities",
-    "href": "2025-2026/content/system-modeling-complexity.html#in-class-activities",
-    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html",
+    "href": "2025-2026/content/hsi-handbook-hsip.html",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "This session introduces the core principles of HSI through the lens of the NASA HSI Handbook (2021). The idea is to provide an overview of the different HSI Domains and motivate through real-life aerospace case studies how HSI can improve system performance while reducing costs and risks.\n\n\n\nGet an overview of HSI principles from the point of view of NASA.\n\n\n\n\nHSI Handbook\nHSI Plan\n\n\n\n\n\n\n\n\n\n\n\nBefore project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html#synopsis",
+    "href": "2025-2026/content/hsi-handbook-hsip.html#synopsis",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "This session introduces the core principles of HSI through the lens of the NASA HSI Handbook (2021). The idea is to provide an overview of the different HSI Domains and motivate through real-life aerospace case studies how HSI can improve system performance while reducing costs and risks.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html#session-objectives",
+    "href": "2025-2026/content/hsi-handbook-hsip.html#session-objectives",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "Get an overview of HSI principles from the point of view of NASA.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html#key-concepts",
+    "href": "2025-2026/content/hsi-handbook-hsip.html#key-concepts",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "HSI Handbook\nHSI Plan",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
+    "href": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
+    "title": "HSI Handbook & HSIP",
+    "section": "",
+    "text": "Before project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "HSI Handbook & HSIP"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hci-aero-history.html",
+    "href": "2025-2026/content/hci-aero-history.html",
+    "title": "History of HCI-Aero toward HSI",
+    "section": "",
+    "text": "A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented.\n\n\n\nIntroduction to HSI in the aerospace domain.\n\n\n\n\nHSI\nComplex System Engineering\n\n\n\n\n\nSlides du cours",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "History of HCI-Aero toward HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hci-aero-history.html#synopsis",
+    "href": "2025-2026/content/hci-aero-history.html#synopsis",
+    "title": "History of HCI-Aero toward HSI",
+    "section": "",
+    "text": "A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "History of HCI-Aero toward HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hci-aero-history.html#session-objectives",
+    "href": "2025-2026/content/hci-aero-history.html#session-objectives",
+    "title": "History of HCI-Aero toward HSI",
+    "section": "",
+    "text": "Introduction to HSI in the aerospace domain.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "History of HCI-Aero toward HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hci-aero-history.html#key-concepts",
+    "href": "2025-2026/content/hci-aero-history.html#key-concepts",
+    "title": "History of HCI-Aero toward HSI",
+    "section": "",
+    "text": "HSI\nComplex System Engineering",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "History of HCI-Aero toward HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/hci-aero-history.html#in-class-activities",
+    "href": "2025-2026/content/hci-aero-history.html#in-class-activities",
+    "title": "History of HCI-Aero toward HSI",
     "section": "",
     "text": "Slides du cours",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "System Modeling & Complexity"
+      "History of HCI-Aero toward HSI"
     ]
   },
   {
-    "objectID": "2025-2026/content/sociotechnical-systems.html",
-    "href": "2025-2026/content/sociotechnical-systems.html",
-    "title": "Sociotechnical Systems",
+    "objectID": "2025-2026/content/projet-final-design-report.html",
+    "href": "2025-2026/content/projet-final-design-report.html",
+    "title": "Projet (Final Design and Report)",
     "section": "",
-    "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.\n\n\n\n\n\n\n\n\n\n\nSlides du cours",
+    "text": "The MDR examines the proposed requirements, the mission architecture, and the flow down to all functional elements of the mission to ensure that the overall concept is complete, feasible, and consistent with available resources\n\nArchitecture organique de la solution (les éléments abstrait ordinateur, serveur, logiciel)\nLes scenarios opérationnels\n\n\n\n\n\nTask analysis ()\nLes logiciels retenus ou à developper.\nLe matériel a acheter\nle plan de la salle\nles feuilles de postes\nL’évaluation",
+    "crumbs": [
+      "Home",
+      "Evaluations",
+      "Project (Final Design and Report)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/projet-final-design-report.html#session-objectives",
+    "href": "2025-2026/content/projet-final-design-report.html#session-objectives",
+    "title": "Projet (Final Design and Report)",
+    "section": "",
+    "text": "The MDR examines the proposed requirements, the mission architecture, and the flow down to all functional elements of the mission to ensure that the overall concept is complete, feasible, and consistent with available resources\n\nArchitecture organique de la solution (les éléments abstrait ordinateur, serveur, logiciel)\nLes scenarios opérationnels\n\n\n\n\n\nTask analysis ()\nLes logiciels retenus ou à developper.\nLe matériel a acheter\nle plan de la salle\nles feuilles de postes\nL’évaluation",
+    "crumbs": [
+      "Home",
+      "Evaluations",
+      "Project (Final Design and Report)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html",
+    "href": "2025-2026/content/concept-of-operations-conops.html",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "",
+    "text": "This session introduces the Concept of Operations (ConOps) as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the user’s perspective: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.\n\n\n\nBy the end of the session, students should be able to:\n\nExplain what a ConOps is and why it exists, beyond formal definitions.\nIdentify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination).\nSituate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement).\nCompare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them.\nCritically assess whether a given ConOps format effectively serves its intended users.\n\n\n\n\n\nConcept of Operations vs. Operational Concept (ConOps / OpsCon)\nUser-centered viewpoint and stakeholder diversity\nNarrative vs. formalized representations\nLife-cycle evolution of ConOps\nConOps as a communication and alignment artifact\nRelationships between ConOps, requirements, and architecture\nStandards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)\nConsistency, congruence, and traceability without over-specification",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Sociotechnical Systems"
+      "Concept of Operations (CONOPS)"
     ]
   },
   {
-    "objectID": "2025-2026/content/sociotechnical-systems.html#synopsis",
-    "href": "2025-2026/content/sociotechnical-systems.html#synopsis",
-    "title": "Sociotechnical Systems",
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#synopsis",
+    "href": "2025-2026/content/concept-of-operations-conops.html#synopsis",
+    "title": "Concept of Operations (CONOPS)",
     "section": "",
-    "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.",
+    "text": "This session introduces the Concept of Operations (ConOps) as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the user’s perspective: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Sociotechnical Systems"
+      "Concept of Operations (CONOPS)"
     ]
   },
   {
-    "objectID": "2025-2026/content/sociotechnical-systems.html#in-class-activities",
-    "href": "2025-2026/content/sociotechnical-systems.html#in-class-activities",
-    "title": "Sociotechnical Systems",
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#session-objectives",
+    "href": "2025-2026/content/concept-of-operations-conops.html#session-objectives",
+    "title": "Concept of Operations (CONOPS)",
     "section": "",
-    "text": "Slides du cours",
+    "text": "By the end of the session, students should be able to:\n\nExplain what a ConOps is and why it exists, beyond formal definitions.\nIdentify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination).\nSituate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement).\nCompare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them.\nCritically assess whether a given ConOps format effectively serves its intended users.",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Sociotechnical Systems"
+      "Concept of Operations (CONOPS)"
     ]
   },
   {
-    "objectID": "2025-2026/content/projet-hsi-plan.html",
-    "href": "2025-2026/content/projet-hsi-plan.html",
-    "title": "Projet (HSI Plan)",
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#key-concepts",
+    "href": "2025-2026/content/concept-of-operations-conops.html#key-concepts",
+    "title": "Concept of Operations (CONOPS)",
     "section": "",
-    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
-    "crumbs": [
-      "Home",
-      "Project Sessions",
-      "Projet (HSI Plan)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/projet-hsi-plan.html#team-activities",
-    "href": "2025-2026/content/projet-hsi-plan.html#team-activities",
-    "title": "Projet (HSI Plan)",
-    "section": "",
-    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
-    "crumbs": [
-      "Home",
-      "Project Sessions",
-      "Projet (HSI Plan)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/modeling-mbhsi.html",
-    "href": "2025-2026/content/modeling-mbhsi.html",
-    "title": "Ingescape, a platform for Human-Systems Integration",
-    "section": "",
-    "text": "Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.",
+    "text": "Concept of Operations vs. Operational Concept (ConOps / OpsCon)\nUser-centered viewpoint and stakeholder diversity\nNarrative vs. formalized representations\nLife-cycle evolution of ConOps\nConOps as a communication and alignment artifact\nRelationships between ConOps, requirements, and architecture\nStandards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)\nConsistency, congruence, and traceability without over-specification",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Modeling & MBHSI"
+      "Concept of Operations (CONOPS)"
     ]
   },
   {
-    "objectID": "2025-2026/content/modeling-mbhsi.html#session-objectives",
-    "href": "2025-2026/content/modeling-mbhsi.html#session-objectives",
-    "title": "Ingescape, a platform for Human-Systems Integration",
-    "section": "",
-    "text": "Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.",
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#opening-exposure-industrial-perspective-20-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#opening-exposure-industrial-perspective-20-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "1. Opening Exposure – Industrial Perspective (≈20 min)",
+    "text": "1. Opening Exposure – Industrial Perspective (≈20 min)\nActivity\n\nWatch a ~20-minute video presenting how ConOps is used in an industrial / defense context.\nVideo link: Case Study Video\n\nQuick debrief (5 min)\n\nFirst reactions: What surprised you?\nWhat seemed implicit rather than explicitly stated?\nWhere does ConOps appear in the life cycle?\nWhat other artifacts are mentioned alongside ConOps?",
     "crumbs": [
       "Home",
       "Classes & Sessions",
-      "Modeling & MBHSI"
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#concept-exploration-definitions-conceptual-landscape-3545-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#concept-exploration-definitions-conceptual-landscape-3545-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "2. Concept Exploration – Definitions & Conceptual Landscape (≈35–45 min)",
+    "text": "2. Concept Exploration – Definitions & Conceptual Landscape (≈35–45 min)\n\nObjective\nStudents independently explore how ConOps is defined, framed, and related to other concepts across domains and standards.\n\n\nActivity\n\nTeams perform web-based exploration (standards, academic sources, industry blogs, military doctrine, systems engineering communities).\nEach team builds a mind map on MIRO board:\n\nCore concept: Concept of Operations (ConOps)\nRelated concepts\nSource-backed definitions (each node must reference its source)\n\n\n\n\nMIRO Board – Guiding Questions (to seed exploration)\nWrite these questions directly on the MIRO board as prompts:\n\nCore Definition\n\nHow is ConOps defined?\nWho defines it (standard, military, industry, academia)? Add the source (url, document).\nIs ConOps defined as a document, a description, a model, or a process?\n\n\n\nRelated Concepts\n\nWhat is the relationship between:\n\nConOps and OpsCon?\nConOps and requirements?\nConOps and architecture?\nConOps and scenarios / use cases?\n\nWhere do boundaries become unclear or overlap?\n\n\n\nPerspective & Intent\n\nFrom whose point of view is ConOps written?\nWho is not the intended reader?\nWhat assumptions about the system or its context are embedded?\n\n\n\nLife-Cycle Positioning\n\nAt which stages of the life cycle is ConOps mentioned or emphasized?\nDoes its role change between:\n\nEarly concept / R&D\nAcquisition\nOperations\nEvolution / retirement?\n\n\n\n\nForm & Representation\n\nIn what forms does ConOps appear?\n\nNarrative text\nGraphics / diagrams\nModels (e.g., SysML)\n\nWhat seems to drive the choice of form?\n\n\n\n\nShort Wrap-Up & Synthesis (10 min)\n\nEach team briefly presents one unexpected insight from their map.\nInstructor synthesizes:\n\nCommonalities\nTensions\nContradictions across definitions",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#analysis-of-existing-conops-research-papers-4560-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#analysis-of-existing-conops-research-papers-4560-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "3. Analysis of Existing ConOps & Research Papers (≈45–60 min)",
+    "text": "3. Analysis of Existing ConOps & Research Papers (≈45–60 min)\n\nObjective\nMove from definition to usage, focusing on ConOps as a mutable artefact shaped by users, needs, and life-cycle context.\n\n\nActivity\n\nTeams analyze provided research papers and real ConOps examples.\nEach team applies a shared analytical framework.\n\n\n\nAnalysis Framework (Questions to Answer)\n\nUSERS\n\nWho are the explicit users of this ConOps?\nWho are the implicit users?\nAre there multiple user perspectives coexisting?\nHow do user needs differ across the life cycle?\n\n\n\nPERSPECTIVES\n\nOperational\nManagerial / decision-making\nEngineering / design\nHuman-System Integration (HSI)\nRegulatory / certification\n\n\n\nLIFE CYCLE\n\nAt what life-cycle stage does this ConOps appear?\nDoes it anticipate future stages?\nIs it stable or clearly evolving?\n\n\n\nNEEDS\n\nWhat decisions does this ConOps support?\nWhat actions does it enable or constrain?\nAre HSI concerns explicit or implicit?\nWhich human roles are described, ignored, or abstracted away?\n\n\n\nPRODUCER / CONSUMER VIEW\n\nWho produced the ConOps?\nWho consumes it?\nIs there a mismatch between producer intent and consumer use?\n\n\n\nCONOPS AS AN ARTEFACT\n\nLevel of abstraction (high-level vision vs. operational detail)\nDegree of formalism\nIs it:\n\nDescriptive?\nPrescriptive?\nExploratory?\n\n\n\n\nFORM & REPRESENTATION\n\nNarrative text\nGraphics\nModels\nHybrid\nWhat does the chosen form emphasize or hide?\n\n\n\nWHY / HOW / WHAT\n\nWhy does this ConOps exist?\nHow is it meant to be used?\nWhat does it explicitly define—and what does it leave open?\n\n\n\nCONTINUUM\n\nWhere does this ConOps sit on a continuum between:\n\nVision ↔︎ Execution\nHuman-centered ↔︎ System-centered\nInformal ↔︎ Formal",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#wrap-up-collective-reflection-15-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#wrap-up-collective-reflection-15-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "4. Wrap-Up & Collective Reflection (≈15 min)",
+    "text": "4. Wrap-Up & Collective Reflection (≈15 min)\nClass discussion - What patterns emerge across different ConOps? - In what ways does ConOps “mutate” over time? - When does ConOps stop being useful—or become dangerous?\n\nFinal Integrative Question (HSI Focus)\nFrom your perspective: &gt; What should be explicitly present in a ConOps to properly address Human-System Integration (HSI)?\nPrompt dimensions: - Human roles and responsibilities - Cognitive workload and decision authority - Coordination and communication - Evolution of human involvement across the life cycle\nStudents answer briefly in teams, then share highlights.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#preparation-readings",
+    "href": "2025-2026/content/concept-of-operations-conops.html#preparation-readings",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "Preparation & Readings",
+    "text": "Preparation & Readings\n\nDOD Definition\nSEBOK\nJoint Publication 5-0: Joint Planning\nNASA Systems Engineering Handbook\nCase Study Video\n\nSome additional websites for exploration:\n\nhttps://specinnovations.com/blog/what-goes-into-a-conops\nhttps://argondigital.com/blog/general/conops-vs-opscon-guide\n\n\nConops Examples for Analysis\n\nPalAerospace\nEurocontrol Concept of Operations for the ADS-C Common Service found there : https://www.eurocontrol.int/event/operational-excellence-programme-ats-b2-workshop-ads-c-common-service-conops\nSesar USpace\nESA - Ground Operation Athena\nConcept of Operation for Increasingly Autonomous Space Operations",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#notes",
+    "href": "2025-2026/content/concept-of-operations-conops.html#notes",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "Notes",
+    "text": "Notes\n\nThere is no single “correct” ConOps format; effectiveness depends on context and audience.\nEarly-stage ConOps tend to be exploratory and narrative; later ones often stabilize but may lose accessibility.\nTreat ConOps as a living artifact that supports reasoning, communication, and learning—not merely compliance.\nTension between formalization (for rigor and simulation) and storytelling (for shared understanding) is intentional and productive.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
     ]
   },
   {
@@ -319,6 +480,51 @@
       "Classes & Sessions",
       "HSI Introduction & Project Presentation"
     ]
+  },
+  {
+    "objectID": "2025-2026/content/projet-hsi-plan.html",
+    "href": "2025-2026/content/projet-hsi-plan.html",
+    "title": "Projet (HSI Plan)",
+    "section": "",
+    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
+    "crumbs": [
+      "Home",
+      "Project Sessions",
+      "Projet (HSI Plan)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/projet-hsi-plan.html#team-activities",
+    "href": "2025-2026/content/projet-hsi-plan.html#team-activities",
+    "title": "Projet (HSI Plan)",
+    "section": "",
+    "text": "Each group downloads the HSI Plan Template (student-friendly version) and fill in the first page with group member names and assigned roles (HFE SME, Safety SME, etc.)",
+    "crumbs": [
+      "Home",
+      "Project Sessions",
+      "Projet (HSI Plan)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/CourseStructure.html",
+    "href": "2025-2026/CourseStructure.html",
+    "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
+    "section": "",
+    "text": "the website should have the following ; - a syllabus page with : - learning outcomes - evaluation criteria - Schedule page with listing that take from the content folder - a resources pages with the links to resources - One page with the project description - a content folder with one page per classes - HSI Introduction & Project Presentation D. Masson & A. Disdier, 5 décembre 2025, 2h - System Thinking & Complexity D. Masson & A. Disdier, 5 january 2026, 2h - HSI Handbook & HSIP D. Masson & A. Disdier, 5 january 2026, 2h - Systemic Cognitive Engineering G.A. Boy, 6 january 2026, 2h - Functional Cognitive Engineering G.A. Boy , 6 january 2026, 2h - Sociotechnical Systems G.A. Boy , 6 january 2026, 2h - Introduction of projects D. Masson & A. Disdier, 6 january 2026, 2h - Concept of Operations (CONOPS) D. Masson , 2h - Projet (HSI Plan), 7 january 2026, 2h - Ethnographic tools R. Duhamel, 7 january 2026 , 2h - Scenario-Driven Engineering D. Masson, 7 january 2026, 2h - PRODEC & Robot Fleet Management C. Morel & D. Masson, 8 january 2026, 2h - Projet (CONOPS), 8 january 2026, 2h - System Context and Air Traffic Control A. Disdier , 9 january 2026, 2h - Projet (Scenario) , 9 january 2026, 2h - Modeling & MBHSI S. Vales , 9 january 2026, 2h - HF Evaluation & HITLS C. Morel & D. Masson , 12 january 2026, 2h - Projet (Interim Report) , 12 january 2026, 2h - Training in HSI P. Palanque , 2h - Prelinary Review (Soutenance 1), 2h - QCM , 2h - Projet (Solution Design), 4h - Projet (Solution Design - 2), 4h - Risk-Taking Prevention & Design E. Quillerou & P. Badets, 2h - Projet (Final Design and Report), 2h - Final Review (Soutenance 2), 2h\n\n\nBy the end of this course, students will be able to: - Understand the principles of Human-System Integration (HSI) and its application in complex systems. - Analyze and evaluate sociotechnical systems using systemic User Centered Design approaches. - Develop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects. - Apply scenario-driven engineering techniques in system design. - Utilize modeling and MBHSI methodologies to enhance human factors in system design.\n\n\n\nThe course project involves the development of a comprehensive Human-System Integration (HSI) Design for a specified system. Students will work in teams to create an HSI plan, Concept of Operations (CONOPS), and scenario-driven designs.\nThe project will culminate in a final report and presentation, demonstrating the application of course concepts to real-world challenges in HSI.\nThe subject is the design of a Distributed Control and Command Center for a nano-satellite.\nThe New Aquitaine Academic Space Center (NAASC30) is engaging students in the design, launch, and operation of CubeSat-class nanosatellites as part of an inter-institutional program. A cornerstone of this program is the development of a Control and Command Center (CCC) distributed across four engineering schools. This sociotechnical system aims to enable students from multiple campuses to collaboratively operate real nanosatellite missions. The FlexTech Chair at ESTIA provides the research context, with a mission to integrate Human-System Integration (HSI) into modern systems engineering through new methodologies, demonstrators, and educational initiatives (notably via the PRODEC platform). HSI is defined as an essential transdisciplinary approach within systems engineering that ensures human, technical, and organizational elements are appropriately addressed across the system lifecycle and within its operational context. In practice, this means designing systems like the CCC with human users in mind from the outset, rather than merely adding a user interface onto an existing design. The FlexTech Chair promotes scenario-based design and human-in-the-loop experimentation as key strategies for HSI in complex domains such as rail, aviation, and now space systems.\nThe CCC under development serves as a real-world demonstrator for these HSI approaches in the space domain. It will use existing ground segment technology provided by partners: for example, the company U-Space (in collaboration with CNES) has developed a “Simple Control Center” (SCC) software tool that provides a user-friendly interface to command and control small satellites. Figure 1 below shows an example of this SCC interface, which connects to ground stations and offers dashboards for telemetry and telecommand. This tool provides a starting point for the academic CCC’s capabilities, ensuring students have a functional system for satellite operations from day one.\nFigure 1: The U-Space “Simple Control Center” (SCC) interface for satellite operations, which will be leveraged in the Academic Space Center’s distributed CCC.\nDespite this technical head-start, the distributed nature of the CCC and its educational context pose unique HSI challenges that motivate this research. High student turnover and a transient, voluntary workforce mean the system must accommodate continually changing operator populations. Knowledge and expertise cannot be assumed to accumulate in any one individual over time – instead, the CCC itself must be designed to be resilient to these human resource dynamics. Additionally, with the CCC spread across four locations, we anticipate scenarios where control authority and situational awareness might shift between sites. Effective governance models and coordination mechanisms are needed to ensure “seamless” control transitions across the distributed center. These challenges go beyond pure technical design; they require a socio-technical approach addressing human roles, training, procedures, and supporting tools – all underpinned by scenario-driven design to capture the richness of real operations.\nProblem Statement Complex Sociotechnical System: The academic CCC is a prime example of a complex sociotechnical system. It involves multiple human operators (students, supervisors) distributed geographically, interacting with software tools (like the SCC) and hardware (ground stations, satellite subsystems) to carry out mission operations. Such systems are characterized by emergent behaviors and strong coupling between technical and human elements. In the CCC, emergent situations could arise from unpredictable combinations of human actions (or inactions), environmental events, and system states – especially given the operators’ varied experience levels. A major cause of unexpected outcomes in sociotechnical systems is sensitivity to operational context, i.e. the changing conditions and situations in which the system operates. A guiding premise is that to design effectively for the CCC, we must model and understand it in context – capturing how different scenarios (nominal missions, anomalies, handovers between operators, etc.) play out and what resources (human or technical) are needed. We need to anticipate emergent properties by “maximizing description of emergent properties in scenarios and mission definitions”, echoing complexity management advice from INCOSE. In short, the problem is how to design a resilient, user-centered CCC that functions robustly despite high operator turnover and distributed operations.\nKey HSI Challenges: Three intertwined HSI challenges define our problem space:\n\nKnowledge Continuity under High Turnover: Students may participate for limited durations (a semester or a year), after which new students take over. Without special design measures, important operational knowledge can be lost at each handover. The CCC must somehow “embed” memory of past operations and lessons, or provide mechanisms to transfer knowledge between outgoing and incoming operators. This includes shift-to-shift handovers (daily or weekly shifts) and generation-to-generation handovers (yearly student cohorts). The open question is how to achieve resilience to turnover – ensuring continuity of mission situational awareness, safety, and efficiency as people rotate.\nSupport for Shift Transitions and Training: Linked to the above is the need for effective knowledge transfer during shifts. In professional settings, this might be handled with standardized shift briefings or long overlap times, but in a student context the process must be intuitive and reliable even for novices. We envision an “AI butler” concept – an intelligent assistant that could, for example, observe and log key events during an operator’s session and then brief the next operator on what happened and what to watch for. This could also serve as a training aid, prompting users with relevant information or checklists. The research must determine what form such an AI assistant should take (chatbot, smart dashboard, etc.), and how it can integrate into operations without causing distraction or complacency.\nDistributed Control and Governance: In a distributed control center, responsibilities might shift between sites (e.g., one school handles communication passes in the morning, another in the afternoon), or different sites might oversee different subsystems concurrently. We must explore governance models that define how decisions are made and authority is delegated across the four locations. For instance, do we designate a “lead site” at any given time, or do all sites operate peer-to-peer with a consensus protocol? What procedures ensure that all operators maintain a coherent picture of the mission? This aspect involves organizational design as much as technical design – clarifying roles, communication protocols, and fallback plans (for example, if one node drops offline unexpectedly). The goal is to avoid confusion or conflicts in control that could jeopardize the mission, while leveraging the distributed nature for greater resilience (e.g., another site can take over if one site’s hardware fails or if their students are unavailable). In summary, the research problem centers on designing the CCC to be a flexible, scenario-resilient system that gracefully handles the dynamic context of student-led operations. It is insufficient to treat this as a standard engineering project; instead, it requires an HSI-driven approach that explicitly factors in human operators, their learning curves and turnover, and the complex interactions between multiple human teams and technical systems."
+  },
+  {
+    "objectID": "2025-2026/CourseStructure.html#learning-outcomes",
+    "href": "2025-2026/CourseStructure.html#learning-outcomes",
+    "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
+    "section": "",
+    "text": "By the end of this course, students will be able to: - Understand the principles of Human-System Integration (HSI) and its application in complex systems. - Analyze and evaluate sociotechnical systems using systemic User Centered Design approaches. - Develop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects. - Apply scenario-driven engineering techniques in system design. - Utilize modeling and MBHSI methodologies to enhance human factors in system design."
+  },
+  {
+    "objectID": "2025-2026/CourseStructure.html#project-description",
+    "href": "2025-2026/CourseStructure.html#project-description",
+    "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
+    "section": "",
+    "text": "The course project involves the development of a comprehensive Human-System Integration (HSI) Design for a specified system. Students will work in teams to create an HSI plan, Concept of Operations (CONOPS), and scenario-driven designs.\nThe project will culminate in a final report and presentation, demonstrating the application of course concepts to real-world challenges in HSI.\nThe subject is the design of a Distributed Control and Command Center for a nano-satellite.\nThe New Aquitaine Academic Space Center (NAASC30) is engaging students in the design, launch, and operation of CubeSat-class nanosatellites as part of an inter-institutional program. A cornerstone of this program is the development of a Control and Command Center (CCC) distributed across four engineering schools. This sociotechnical system aims to enable students from multiple campuses to collaboratively operate real nanosatellite missions. The FlexTech Chair at ESTIA provides the research context, with a mission to integrate Human-System Integration (HSI) into modern systems engineering through new methodologies, demonstrators, and educational initiatives (notably via the PRODEC platform). HSI is defined as an essential transdisciplinary approach within systems engineering that ensures human, technical, and organizational elements are appropriately addressed across the system lifecycle and within its operational context. In practice, this means designing systems like the CCC with human users in mind from the outset, rather than merely adding a user interface onto an existing design. The FlexTech Chair promotes scenario-based design and human-in-the-loop experimentation as key strategies for HSI in complex domains such as rail, aviation, and now space systems.\nThe CCC under development serves as a real-world demonstrator for these HSI approaches in the space domain. It will use existing ground segment technology provided by partners: for example, the company U-Space (in collaboration with CNES) has developed a “Simple Control Center” (SCC) software tool that provides a user-friendly interface to command and control small satellites. Figure 1 below shows an example of this SCC interface, which connects to ground stations and offers dashboards for telemetry and telecommand. This tool provides a starting point for the academic CCC’s capabilities, ensuring students have a functional system for satellite operations from day one.\nFigure 1: The U-Space “Simple Control Center” (SCC) interface for satellite operations, which will be leveraged in the Academic Space Center’s distributed CCC.\nDespite this technical head-start, the distributed nature of the CCC and its educational context pose unique HSI challenges that motivate this research. High student turnover and a transient, voluntary workforce mean the system must accommodate continually changing operator populations. Knowledge and expertise cannot be assumed to accumulate in any one individual over time – instead, the CCC itself must be designed to be resilient to these human resource dynamics. Additionally, with the CCC spread across four locations, we anticipate scenarios where control authority and situational awareness might shift between sites. Effective governance models and coordination mechanisms are needed to ensure “seamless” control transitions across the distributed center. These challenges go beyond pure technical design; they require a socio-technical approach addressing human roles, training, procedures, and supporting tools – all underpinned by scenario-driven design to capture the richness of real operations.\nProblem Statement Complex Sociotechnical System: The academic CCC is a prime example of a complex sociotechnical system. It involves multiple human operators (students, supervisors) distributed geographically, interacting with software tools (like the SCC) and hardware (ground stations, satellite subsystems) to carry out mission operations. Such systems are characterized by emergent behaviors and strong coupling between technical and human elements. In the CCC, emergent situations could arise from unpredictable combinations of human actions (or inactions), environmental events, and system states – especially given the operators’ varied experience levels. A major cause of unexpected outcomes in sociotechnical systems is sensitivity to operational context, i.e. the changing conditions and situations in which the system operates. A guiding premise is that to design effectively for the CCC, we must model and understand it in context – capturing how different scenarios (nominal missions, anomalies, handovers between operators, etc.) play out and what resources (human or technical) are needed. We need to anticipate emergent properties by “maximizing description of emergent properties in scenarios and mission definitions”, echoing complexity management advice from INCOSE. In short, the problem is how to design a resilient, user-centered CCC that functions robustly despite high operator turnover and distributed operations.\nKey HSI Challenges: Three intertwined HSI challenges define our problem space:\n\nKnowledge Continuity under High Turnover: Students may participate for limited durations (a semester or a year), after which new students take over. Without special design measures, important operational knowledge can be lost at each handover. The CCC must somehow “embed” memory of past operations and lessons, or provide mechanisms to transfer knowledge between outgoing and incoming operators. This includes shift-to-shift handovers (daily or weekly shifts) and generation-to-generation handovers (yearly student cohorts). The open question is how to achieve resilience to turnover – ensuring continuity of mission situational awareness, safety, and efficiency as people rotate.\nSupport for Shift Transitions and Training: Linked to the above is the need for effective knowledge transfer during shifts. In professional settings, this might be handled with standardized shift briefings or long overlap times, but in a student context the process must be intuitive and reliable even for novices. We envision an “AI butler” concept – an intelligent assistant that could, for example, observe and log key events during an operator’s session and then brief the next operator on what happened and what to watch for. This could also serve as a training aid, prompting users with relevant information or checklists. The research must determine what form such an AI assistant should take (chatbot, smart dashboard, etc.), and how it can integrate into operations without causing distraction or complacency.\nDistributed Control and Governance: In a distributed control center, responsibilities might shift between sites (e.g., one school handles communication passes in the morning, another in the afternoon), or different sites might oversee different subsystems concurrently. We must explore governance models that define how decisions are made and authority is delegated across the four locations. For instance, do we designate a “lead site” at any given time, or do all sites operate peer-to-peer with a consensus protocol? What procedures ensure that all operators maintain a coherent picture of the mission? This aspect involves organizational design as much as technical design – clarifying roles, communication protocols, and fallback plans (for example, if one node drops offline unexpectedly). The goal is to avoid confusion or conflicts in control that could jeopardize the mission, while leveraging the distributed nature for greater resilience (e.g., another site can take over if one site’s hardware fails or if their students are unavailable). In summary, the research problem centers on designing the CCC to be a flexible, scenario-resilient system that gracefully handles the dynamic context of student-led operations. It is insufficient to treat this as a standard engineering project; instead, it requires an HSI-driven approach that explicitly factors in human operators, their learning curves and turnover, and the complex interactions between multiple human teams and technical systems."
   },
   {
     "objectID": "2025-2026/content/hsi-handbook-hsip-slides.html#what-does-the-nasa-hsi-handbook-look-like",
@@ -636,306 +842,6 @@
     "text": "HSI Plan - Student-friendly version\n\n\nIn this course, we will ask you to work on a lightweight version of the HSI Plan"
   },
   {
-    "objectID": "2025-2026/content/hci-aero-history.html",
-    "href": "2025-2026/content/hci-aero-history.html",
-    "title": "History of HCI-Aero toward HSI",
-    "section": "",
-    "text": "A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented.\n\n\n\nIntroduction to HSI in the aerospace domain.\n\n\n\n\nHSI\nComplex System Engineering\n\n\n\n\n\nSlides du cours",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "History of HCI-Aero toward HSI"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hci-aero-history.html#synopsis",
-    "href": "2025-2026/content/hci-aero-history.html#synopsis",
-    "title": "History of HCI-Aero toward HSI",
-    "section": "",
-    "text": "A long time ago, I co-founded the international conference ‘HCI-Aero’. The aim was to bring together aeronautical researchers and engineers around the emerging theme of human-machine interaction and artificial intelligence. The corresponding event was held every two years between 1986 and 2016. It gave rise to the field of Human Systems Integration (HSI). A new series of conferences was launched in 2019 and continues under the auspices of INCOSE. I will explain how HSI came about. We will examine the foundations and current prospects of this new discipline, using examples from aeronautics. We will see how complex systems engineering, human factors and ergonomics, as well as information technology, contribute to HSI. Numerous examples of applications will be presented.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "History of HCI-Aero toward HSI"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hci-aero-history.html#session-objectives",
-    "href": "2025-2026/content/hci-aero-history.html#session-objectives",
-    "title": "History of HCI-Aero toward HSI",
-    "section": "",
-    "text": "Introduction to HSI in the aerospace domain.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "History of HCI-Aero toward HSI"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hci-aero-history.html#key-concepts",
-    "href": "2025-2026/content/hci-aero-history.html#key-concepts",
-    "title": "History of HCI-Aero toward HSI",
-    "section": "",
-    "text": "HSI\nComplex System Engineering",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "History of HCI-Aero toward HSI"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hci-aero-history.html#in-class-activities",
-    "href": "2025-2026/content/hci-aero-history.html#in-class-activities",
-    "title": "History of HCI-Aero toward HSI",
-    "section": "",
-    "text": "Slides du cours",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "History of HCI-Aero toward HSI"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/ethnographic-tools.html",
-    "href": "2025-2026/content/ethnographic-tools.html",
-    "title": "Ethnographic Tools",
-    "section": "",
-    "text": "his course provides an introduction to ergonomic methods and their use in technical and organizational system design projects. After a brief presentation of some fundamental concepts of ergonomics, such as activity, prescribed and actual tasks, and user-centered design, we will discuss methods of activity analysis: observation, semi-structured interviews, and questionnaires. Each method will be illustrated with concrete examples from design projects. The aim is to show how these methods can be used to understand human activity in a particular context and how the knowledge generated can be used to guide design choices towards solutions that are tailored to users.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Ethnographic tools"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/ethnographic-tools.html#synopsis",
-    "href": "2025-2026/content/ethnographic-tools.html#synopsis",
-    "title": "Ethnographic Tools",
-    "section": "",
-    "text": "his course provides an introduction to ergonomic methods and their use in technical and organizational system design projects. After a brief presentation of some fundamental concepts of ergonomics, such as activity, prescribed and actual tasks, and user-centered design, we will discuss methods of activity analysis: observation, semi-structured interviews, and questionnaires. Each method will be illustrated with concrete examples from design projects. The aim is to show how these methods can be used to understand human activity in a particular context and how the knowledge generated can be used to guide design choices towards solutions that are tailored to users.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Ethnographic tools"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html",
-    "href": "2025-2026/content/concept-of-operations-conops.html",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "",
-    "text": "This session introduces the Concept of Operations (ConOps) as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the user’s perspective: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.\n\n\n\nBy the end of the session, students should be able to: - Explain what a ConOps is and why it exists, beyond formal definitions. - Identify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination). - Situate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement). - Compare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them. - Critically assess whether a given ConOps format effectively serves its intended users.\n\n\n\n\nConcept of Operations vs. Operational Concept (ConOps / OpsCon)\nUser-centered viewpoint and stakeholder diversity\nNarrative vs. formalized representations\nLife-cycle evolution of ConOps\nConOps as a communication and alignment artifact\nRelationships between ConOps, requirements, and architecture\nStandards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)\nConsistency, congruence, and traceability without over-specification",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#synopsis",
-    "href": "2025-2026/content/concept-of-operations-conops.html#synopsis",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "",
-    "text": "This session introduces the Concept of Operations (ConOps) as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the user’s perspective: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#session-objectives",
-    "href": "2025-2026/content/concept-of-operations-conops.html#session-objectives",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "",
-    "text": "By the end of the session, students should be able to: - Explain what a ConOps is and why it exists, beyond formal definitions. - Identify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination). - Situate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement). - Compare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them. - Critically assess whether a given ConOps format effectively serves its intended users.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#key-concepts",
-    "href": "2025-2026/content/concept-of-operations-conops.html#key-concepts",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "",
-    "text": "Concept of Operations vs. Operational Concept (ConOps / OpsCon)\nUser-centered viewpoint and stakeholder diversity\nNarrative vs. formalized representations\nLife-cycle evolution of ConOps\nConOps as a communication and alignment artifact\nRelationships between ConOps, requirements, and architecture\nStandards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)\nConsistency, congruence, and traceability without over-specification",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#opening-exposure-industrial-perspective-20-min",
-    "href": "2025-2026/content/concept-of-operations-conops.html#opening-exposure-industrial-perspective-20-min",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "1. Opening Exposure – Industrial Perspective (≈20 min)",
-    "text": "1. Opening Exposure – Industrial Perspective (≈20 min)\nActivity - Watch a ~20-minute video presenting how ConOps is used in an industrial / defense context. - Video link: Case Study Video Quick debrief (5 min) - First reactions: What surprised you? - What seemed implicit rather than explicitly stated? - Where does ConOps appear in the life cycle? - What other artifacts are mentioned alongside ConOps?",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#concept-exploration-definitions-conceptual-landscape-3545-min",
-    "href": "2025-2026/content/concept-of-operations-conops.html#concept-exploration-definitions-conceptual-landscape-3545-min",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "2. Concept Exploration – Definitions & Conceptual Landscape (≈35–45 min)",
-    "text": "2. Concept Exploration – Definitions & Conceptual Landscape (≈35–45 min)\n\nObjective\nStudents independently explore how ConOps is defined, framed, and related to other concepts across domains and standards.\n\n\nActivity\n\nTeams perform web-based exploration (standards, academic sources, industry blogs, military doctrine, systems engineering communities).\nEach team builds a mind map on MIRO board:\n\nCore concept: Concept of Operations (ConOps)\nRelated concepts\nSource-backed definitions (each node must reference its source)\n\n\n\n\nMIRO Board – Guiding Questions (to seed exploration)\nWrite these questions directly on the MIRO board as prompts:\n\nCore Definition\n\nHow is ConOps defined?\nWho defines it (standard, military, industry, academia)? Add the source (url, document).\nIs ConOps defined as a document, a description, a model, or a process?\n\n\n\nRelated Concepts\n\nWhat is the relationship between:\n\nConOps and OpsCon?\nConOps and requirements?\nConOps and architecture?\nConOps and scenarios / use cases?\n\nWhere do boundaries become unclear or overlap?\n\n\n\nPerspective & Intent\n\nFrom whose point of view is ConOps written?\nWho is not the intended reader?\nWhat assumptions about the system or its context are embedded?\n\n\n\nLife-Cycle Positioning\n\nAt which stages of the life cycle is ConOps mentioned or emphasized?\nDoes its role change between:\n\nEarly concept / R&D\nAcquisition\nOperations\nEvolution / retirement?\n\n\n\n\nForm & Representation\n\nIn what forms does ConOps appear?\n\nNarrative text\nGraphics / diagrams\nModels (e.g., SysML)\n\nWhat seems to drive the choice of form?\n\n\n\n\nShort Wrap-Up & Synthesis (10 min)\n\nEach team briefly presents one unexpected insight from their map.\nInstructor synthesizes:\n\nCommonalities\nTensions\nContradictions across definitions",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#analysis-of-existing-conops-research-papers-4560-min",
-    "href": "2025-2026/content/concept-of-operations-conops.html#analysis-of-existing-conops-research-papers-4560-min",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "3. Analysis of Existing ConOps & Research Papers (≈45–60 min)",
-    "text": "3. Analysis of Existing ConOps & Research Papers (≈45–60 min)\n\nObjective\nMove from definition to usage, focusing on ConOps as a mutable artefact shaped by users, needs, and life-cycle context.\n\n\nActivity\n\nTeams analyze provided research papers and real ConOps examples.\nEach team applies a shared analytical framework.\n\n\n\nAnalysis Framework (Questions to Answer)\n\nUSERS\n\nWho are the explicit users of this ConOps?\nWho are the implicit users?\nAre there multiple user perspectives coexisting?\nHow do user needs differ across the life cycle?\n\n\n\nPERSPECTIVES\n\nOperational\nManagerial / decision-making\nEngineering / design\nHuman-System Integration (HSI)\nRegulatory / certification\n\n\n\nLIFE CYCLE\n\nAt what life-cycle stage does this ConOps appear?\nDoes it anticipate future stages?\nIs it stable or clearly evolving?\n\n\n\nNEEDS\n\nWhat decisions does this ConOps support?\nWhat actions does it enable or constrain?\nAre HSI concerns explicit or implicit?\nWhich human roles are described, ignored, or abstracted away?\n\n\n\nPRODUCER / CONSUMER VIEW\n\nWho produced the ConOps?\nWho consumes it?\nIs there a mismatch between producer intent and consumer use?\n\n\n\nCONOPS AS AN ARTEFACT\n\nLevel of abstraction (high-level vision vs. operational detail)\nDegree of formalism\nIs it:\n\nDescriptive?\nPrescriptive?\nExploratory?\n\n\n\n\nFORM & REPRESENTATION\n\nNarrative text\nGraphics\nModels\nHybrid\nWhat does the chosen form emphasize or hide?\n\n\n\nWHY / HOW / WHAT\n\nWhy does this ConOps exist?\nHow is it meant to be used?\nWhat does it explicitly define—and what does it leave open?\n\n\n\nCONTINUUM\n\nWhere does this ConOps sit on a continuum between:\n\nVision ↔︎ Execution\nHuman-centered ↔︎ System-centered\nInformal ↔︎ Formal",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#wrap-up-collective-reflection-15-min",
-    "href": "2025-2026/content/concept-of-operations-conops.html#wrap-up-collective-reflection-15-min",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "4. Wrap-Up & Collective Reflection (≈15 min)",
-    "text": "4. Wrap-Up & Collective Reflection (≈15 min)\nClass discussion - What patterns emerge across different ConOps? - In what ways does ConOps “mutate” over time? - When does ConOps stop being useful—or become dangerous?\n\nFinal Integrative Question (HSI Focus)\nFrom your perspective: &gt; What should be explicitly present in a ConOps to properly address Human-System Integration (HSI)?\nPrompt dimensions: - Human roles and responsibilities - Cognitive workload and decision authority - Coordination and communication - Evolution of human involvement across the life cycle\nStudents answer briefly in teams, then share highlights.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#preparation-readings",
-    "href": "2025-2026/content/concept-of-operations-conops.html#preparation-readings",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "Preparation & Readings",
-    "text": "Preparation & Readings\n\nDOD Definition\nSEBOK\nJoint Publication 5-0: Joint Planning\nCase Study Video\n\nSome additional websites for exploration: - https://specinnovations.com/blog/what-goes-into-a-conops - https://argondigital.com/blog/general/conops-vs-opscon-guide\n\nConops Examples for Analysis\n\nPalAerospace\nEurocontrol Concept of Operations for the ADS-C Common Service found there : https://www.eurocontrol.int/event/operational-excellence-programme-ats-b2-workshop-ads-c-common-service-conops\nSesar USpace\nESA - Ground Operation Athena\nConcept of Operation for Increasingly Autonomous Space Operations",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#notes",
-    "href": "2025-2026/content/concept-of-operations-conops.html#notes",
-    "title": "Concept of Operations (CONOPS)",
-    "section": "Notes",
-    "text": "Notes\n\nThere is no single “correct” ConOps format; effectiveness depends on context and audience.\nEarly-stage ConOps tend to be exploratory and narrative; later ones often stabilize but may lose accessibility.\nTreat ConOps as a living artifact that supports reasoning, communication, and learning—not merely compliance.\nTension between formalization (for rigor and simulation) and storytelling (for shared understanding) is intentional and productive.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "Concept of Operations (CONOPS)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/final-review-soutenance-2.html",
-    "href": "2025-2026/content/final-review-soutenance-2.html",
-    "title": "Final Review (Soutenance 2)",
-    "section": "",
-    "text": "Present and defend your final project work, demonstrating the application of Human-System Integration principles and methodologies learned throughout the course to your project. This review will assess your ability to integrate theoretical knowledge with practical design solutions, as well as your communication and presentation skills.\n\n\n\n\n\n\n\nConcept of Operations (CONOPS) :\n\nClear and detailed CONOPS that aligns with the HSI plan.\n\nHSI Plan Presentation :\n\nComprehensive and well-structured HSI plan.\nHSI Perspective Integration\n\nSolution Presentation and Justification :\n\nAbility to justify design decisions with respect to user needs and system requirements.",
-    "crumbs": [
-      "Home",
-      "Evaluations",
-      "Final Review (Soutenance 2)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/final-review-soutenance-2.html#objectives",
-    "href": "2025-2026/content/final-review-soutenance-2.html#objectives",
-    "title": "Final Review (Soutenance 2)",
-    "section": "",
-    "text": "Present and defend your final project work, demonstrating the application of Human-System Integration principles and methodologies learned throughout the course to your project. This review will assess your ability to integrate theoretical knowledge with practical design solutions, as well as your communication and presentation skills.",
-    "crumbs": [
-      "Home",
-      "Evaluations",
-      "Final Review (Soutenance 2)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/final-review-soutenance-2.html#evaluation-criteria",
-    "href": "2025-2026/content/final-review-soutenance-2.html#evaluation-criteria",
-    "title": "Final Review (Soutenance 2)",
-    "section": "",
-    "text": "Concept of Operations (CONOPS) :\n\nClear and detailed CONOPS that aligns with the HSI plan.\n\nHSI Plan Presentation :\n\nComprehensive and well-structured HSI plan.\nHSI Perspective Integration\n\nSolution Presentation and Justification :\n\nAbility to justify design decisions with respect to user needs and system requirements.",
-    "crumbs": [
-      "Home",
-      "Evaluations",
-      "Final Review (Soutenance 2)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html",
-    "href": "2025-2026/content/hsi-handbook-hsip.html",
-    "title": "HSI Handbook & HSIP",
-    "section": "",
-    "text": "This session introduces the core principles of HSI through the lens of the NASA HSI Handbook (2021). The idea is to provide an overview of the different HSI Domains and motivate through real-life aerospace case studies how HSI can improve system performance while reducing costs and risks.\n\n\n\nGet an overview of HSI principles from the point of view of NASA.\n\n\n\n\nHSI Handbook\nHSI Plan\n\n\n\n\n\n\n\n\n\n\n\nBefore project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "HSI Handbook & HSIP"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html#synopsis",
-    "href": "2025-2026/content/hsi-handbook-hsip.html#synopsis",
-    "title": "HSI Handbook & HSIP",
-    "section": "",
-    "text": "This session introduces the core principles of HSI through the lens of the NASA HSI Handbook (2021). The idea is to provide an overview of the different HSI Domains and motivate through real-life aerospace case studies how HSI can improve system performance while reducing costs and risks.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "HSI Handbook & HSIP"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html#session-objectives",
-    "href": "2025-2026/content/hsi-handbook-hsip.html#session-objectives",
-    "title": "HSI Handbook & HSIP",
-    "section": "",
-    "text": "Get an overview of HSI principles from the point of view of NASA.",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "HSI Handbook & HSIP"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html#key-concepts",
-    "href": "2025-2026/content/hsi-handbook-hsip.html#key-concepts",
-    "title": "HSI Handbook & HSIP",
-    "section": "",
-    "text": "HSI Handbook\nHSI Plan",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "HSI Handbook & HSIP"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
-    "href": "2025-2026/content/hsi-handbook-hsip.html#preparation-readings",
-    "title": "HSI Handbook & HSIP",
-    "section": "",
-    "text": "Before project session on Wednesday: - Fetch the PDF file of the Handbook at https://ntrs.nasa.gov/citations/20210010952 and read Sections 2.1 and 2.3 (you can skim Section 2.2 about HSI Domains for now and refer to it later) - Take a look at the HSI Plan (student-friendly version) that you will need to fill in for the evaluation",
-    "crumbs": [
-      "Home",
-      "Classes & Sessions",
-      "HSI Handbook & HSIP"
-    ]
-  },
-  {
     "objectID": "2025-2026/content/introduction-of-projects.html",
     "href": "2025-2026/content/introduction-of-projects.html",
     "title": "Introduction of Projects",
@@ -984,30 +890,6 @@
     ]
   },
   {
-    "objectID": "2025-2026/content/projet-final-design-report.html",
-    "href": "2025-2026/content/projet-final-design-report.html",
-    "title": "Projet (Final Design and Report)",
-    "section": "",
-    "text": "The MDR examines the proposed requirements, the mission architecture, and the flow down to all functional elements of the mission to ensure that the overall concept is complete, feasible, and consistent with available resources\n\nArchitecture organique de la solution (les éléments abstrait ordinateur, serveur, logiciel)\nLes scenarios opérationnels\n\n\n\n\n\nTask analysis ()\nLes logiciels retenus ou à developper.\nLe matériel a acheter\nle plan de la salle\nles feuilles de postes\nL’évaluation",
-    "crumbs": [
-      "Home",
-      "Evaluations",
-      "Project (Final Design and Report)"
-    ]
-  },
-  {
-    "objectID": "2025-2026/content/projet-final-design-report.html#session-objectives",
-    "href": "2025-2026/content/projet-final-design-report.html#session-objectives",
-    "title": "Projet (Final Design and Report)",
-    "section": "",
-    "text": "The MDR examines the proposed requirements, the mission architecture, and the flow down to all functional elements of the mission to ensure that the overall concept is complete, feasible, and consistent with available resources\n\nArchitecture organique de la solution (les éléments abstrait ordinateur, serveur, logiciel)\nLes scenarios opérationnels\n\n\n\n\n\nTask analysis ()\nLes logiciels retenus ou à developper.\nLe matériel a acheter\nle plan de la salle\nles feuilles de postes\nL’évaluation",
-    "crumbs": [
-      "Home",
-      "Evaluations",
-      "Project (Final Design and Report)"
-    ]
-  },
-  {
     "objectID": "2025-2026/content/projet-interim-report.html",
     "href": "2025-2026/content/projet-interim-report.html",
     "title": "Projet (Interim Report)",
@@ -1029,6 +911,138 @@
       "Home",
       "Evaluations",
       "Project (Interim Report)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/modeling-mbhsi.html",
+    "href": "2025-2026/content/modeling-mbhsi.html",
+    "title": "Ingescape, a platform for Human-Systems Integration",
+    "section": "",
+    "text": "Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Modeling & MBHSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/modeling-mbhsi.html#session-objectives",
+    "href": "2025-2026/content/modeling-mbhsi.html#session-objectives",
+    "title": "Ingescape, a platform for Human-Systems Integration",
+    "section": "",
+    "text": "Human-Systems Integration is an intrinsically collaborative and iterative activity, which requires innovative sets of tools to be conducted properly, especially when aiming at digital continuity. This course positions HSI at the center of Model-based Systems Engineering, Human-Computer Interactions and Human-Factors, with related methodologies, expertises and needs. Across multiple industrial examples, we demonstrate how HSI is already relevant, achievable and profitable, when using proper methods and tools, organized around a consistent model-based approach.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Modeling & MBHSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/system-modeling-complexity.html",
+    "href": "2025-2026/content/system-modeling-complexity.html",
+    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "section": "",
+    "text": "Is engineering a science or an applied science? What does “putting people first” mean? Designing leads to building an operational perspective on the desired reality, but how can this be achieved? The course will introduce two key concepts that are useful in design: complexity and systemic modeling. This will require us to pay particular attention to familiar words such as intention, context, and project. It will also undoubtedly lead us to take a step back, question ourselves, and reconsider our expectations regarding “truth.”\n\n\n\n\n\n\n\n\n\n\nSlides du cours",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "System Modeling & Complexity"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/system-modeling-complexity.html#synopsis",
+    "href": "2025-2026/content/system-modeling-complexity.html#synopsis",
+    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "section": "",
+    "text": "Is engineering a science or an applied science? What does “putting people first” mean? Designing leads to building an operational perspective on the desired reality, but how can this be achieved? The course will introduce two key concepts that are useful in design: complexity and systemic modeling. This will require us to pay particular attention to familiar words such as intention, context, and project. It will also undoubtedly lead us to take a step back, question ourselves, and reconsider our expectations regarding “truth.”",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "System Modeling & Complexity"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/system-modeling-complexity.html#in-class-activities",
+    "href": "2025-2026/content/system-modeling-complexity.html#in-class-activities",
+    "title": "Complexity and systemic modeling for Human-Centered Design",
+    "section": "",
+    "text": "Slides du cours",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "System Modeling & Complexity"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/final-review-soutenance-2.html",
+    "href": "2025-2026/content/final-review-soutenance-2.html",
+    "title": "Final Review (Soutenance 2)",
+    "section": "",
+    "text": "Present and defend your final project work, demonstrating the application of Human-System Integration principles and methodologies learned throughout the course to your project. This review will assess your ability to integrate theoretical knowledge with practical design solutions, as well as your communication and presentation skills.\n\n\n\n\n\n\n\nConcept of Operations (CONOPS) :\n\nClear and detailed CONOPS that aligns with the HSI plan.\n\nHSI Plan Presentation :\n\nComprehensive and well-structured HSI plan.\nHSI Perspective Integration\n\nSolution Presentation and Justification :\n\nAbility to justify design decisions with respect to user needs and system requirements.",
+    "crumbs": [
+      "Home",
+      "Evaluations",
+      "Final Review (Soutenance 2)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/final-review-soutenance-2.html#objectives",
+    "href": "2025-2026/content/final-review-soutenance-2.html#objectives",
+    "title": "Final Review (Soutenance 2)",
+    "section": "",
+    "text": "Present and defend your final project work, demonstrating the application of Human-System Integration principles and methodologies learned throughout the course to your project. This review will assess your ability to integrate theoretical knowledge with practical design solutions, as well as your communication and presentation skills.",
+    "crumbs": [
+      "Home",
+      "Evaluations",
+      "Final Review (Soutenance 2)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/final-review-soutenance-2.html#evaluation-criteria",
+    "href": "2025-2026/content/final-review-soutenance-2.html#evaluation-criteria",
+    "title": "Final Review (Soutenance 2)",
+    "section": "",
+    "text": "Concept of Operations (CONOPS) :\n\nClear and detailed CONOPS that aligns with the HSI plan.\n\nHSI Plan Presentation :\n\nComprehensive and well-structured HSI plan.\nHSI Perspective Integration\n\nSolution Presentation and Justification :\n\nAbility to justify design decisions with respect to user needs and system requirements.",
+    "crumbs": [
+      "Home",
+      "Evaluations",
+      "Final Review (Soutenance 2)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/sociotechnical-systems.html",
+    "href": "2025-2026/content/sociotechnical-systems.html",
+    "title": "Sociotechnical Systems",
+    "section": "",
+    "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.\n\n\n\n\n\n\n\n\n\n\nSlides du cours",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Sociotechnical Systems"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/sociotechnical-systems.html#synopsis",
+    "href": "2025-2026/content/sociotechnical-systems.html#synopsis",
+    "title": "Sociotechnical Systems",
+    "section": "",
+    "text": "This lecture will focus on showing you how human factors and organisations play a crucial role in the design, development, and evaluation of sociotechnical systems, such as those found in aeronautics, nuclear engineering, space, hospital medicine and railways, for example. We will discuss systems of systems, functions and structures, roles, contexts, and resources. We will also explore the crucial importance of the concept of emergence as we begin to study and design complex systems that are also critical to safety. We will address risk-taking, contingency management, flexibility, human skills and knowledge, as well as the organisational structures needed to solve problems, particularly in crisis situations. All of this will be discussed in the current and future context of digital engineering, which will highlight issues of physical and figurative tangibility.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Sociotechnical Systems"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/sociotechnical-systems.html#in-class-activities",
+    "href": "2025-2026/content/sociotechnical-systems.html#in-class-activities",
+    "title": "Sociotechnical Systems",
+    "section": "",
+    "text": "Slides du cours",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Sociotechnical Systems"
     ]
   },
   {
@@ -1068,114 +1082,100 @@
     ]
   },
   {
-    "objectID": "2025-2026/CourseStructure.html",
-    "href": "2025-2026/CourseStructure.html",
-    "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
+    "objectID": "2025-2026/syllabus.html",
+    "href": "2025-2026/syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "the website should have the following ; - a syllabus page with : - learning outcomes - evaluation criteria - Schedule page with listing that take from the content folder - a resources pages with the links to resources - One page with the project description - a content folder with one page per classes - HSI Introduction & Project Presentation D. Masson & A. Disdier, 5 décembre 2025, 2h - System Thinking & Complexity D. Masson & A. Disdier, 5 january 2026, 2h - HSI Handbook & HSIP D. Masson & A. Disdier, 5 january 2026, 2h - Systemic Cognitive Engineering G.A. Boy, 6 january 2026, 2h - Functional Cognitive Engineering G.A. Boy , 6 january 2026, 2h - Sociotechnical Systems G.A. Boy , 6 january 2026, 2h - Introduction of projects D. Masson & A. Disdier, 6 january 2026, 2h - Concept of Operations (CONOPS) D. Masson , 2h - Projet (HSI Plan), 7 january 2026, 2h - Ethnographic tools R. Duhamel, 7 january 2026 , 2h - Scenario-Driven Engineering D. Masson, 7 january 2026, 2h - PRODEC & Robot Fleet Management C. Morel & D. Masson, 8 january 2026, 2h - Projet (CONOPS), 8 january 2026, 2h - System Context and Air Traffic Control A. Disdier , 9 january 2026, 2h - Projet (Scenario) , 9 january 2026, 2h - Modeling & MBHSI S. Vales , 9 january 2026, 2h - HF Evaluation & HITLS C. Morel & D. Masson , 12 january 2026, 2h - Projet (Interim Report) , 12 january 2026, 2h - Training in HSI P. Palanque , 2h - Prelinary Review (Soutenance 1), 2h - QCM , 2h - Projet (Solution Design), 4h - Projet (Solution Design - 2), 4h - Risk-Taking Prevention & Design E. Quillerou & P. Badets, 2h - Projet (Final Design and Report), 2h - Final Review (Soutenance 2), 2h\n\n\nBy the end of this course, students will be able to: - Understand the principles of Human-System Integration (HSI) and its application in complex systems. - Analyze and evaluate sociotechnical systems using systemic User Centered Design approaches. - Develop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects. - Apply scenario-driven engineering techniques in system design. - Utilize modeling and MBHSI methodologies to enhance human factors in system design.\n\n\n\nThe course project involves the development of a comprehensive Human-System Integration (HSI) Design for a specified system. Students will work in teams to create an HSI plan, Concept of Operations (CONOPS), and scenario-driven designs.\nThe project will culminate in a final report and presentation, demonstrating the application of course concepts to real-world challenges in HSI.\nThe subject is the design of a Distributed Control and Command Center for a nano-satellite.\nThe New Aquitaine Academic Space Center (NAASC30) is engaging students in the design, launch, and operation of CubeSat-class nanosatellites as part of an inter-institutional program. A cornerstone of this program is the development of a Control and Command Center (CCC) distributed across four engineering schools. This sociotechnical system aims to enable students from multiple campuses to collaboratively operate real nanosatellite missions. The FlexTech Chair at ESTIA provides the research context, with a mission to integrate Human-System Integration (HSI) into modern systems engineering through new methodologies, demonstrators, and educational initiatives (notably via the PRODEC platform). HSI is defined as an essential transdisciplinary approach within systems engineering that ensures human, technical, and organizational elements are appropriately addressed across the system lifecycle and within its operational context. In practice, this means designing systems like the CCC with human users in mind from the outset, rather than merely adding a user interface onto an existing design. The FlexTech Chair promotes scenario-based design and human-in-the-loop experimentation as key strategies for HSI in complex domains such as rail, aviation, and now space systems.\nThe CCC under development serves as a real-world demonstrator for these HSI approaches in the space domain. It will use existing ground segment technology provided by partners: for example, the company U-Space (in collaboration with CNES) has developed a “Simple Control Center” (SCC) software tool that provides a user-friendly interface to command and control small satellites. Figure 1 below shows an example of this SCC interface, which connects to ground stations and offers dashboards for telemetry and telecommand. This tool provides a starting point for the academic CCC’s capabilities, ensuring students have a functional system for satellite operations from day one.\nFigure 1: The U-Space “Simple Control Center” (SCC) interface for satellite operations, which will be leveraged in the Academic Space Center’s distributed CCC.\nDespite this technical head-start, the distributed nature of the CCC and its educational context pose unique HSI challenges that motivate this research. High student turnover and a transient, voluntary workforce mean the system must accommodate continually changing operator populations. Knowledge and expertise cannot be assumed to accumulate in any one individual over time – instead, the CCC itself must be designed to be resilient to these human resource dynamics. Additionally, with the CCC spread across four locations, we anticipate scenarios where control authority and situational awareness might shift between sites. Effective governance models and coordination mechanisms are needed to ensure “seamless” control transitions across the distributed center. These challenges go beyond pure technical design; they require a socio-technical approach addressing human roles, training, procedures, and supporting tools – all underpinned by scenario-driven design to capture the richness of real operations.\nProblem Statement Complex Sociotechnical System: The academic CCC is a prime example of a complex sociotechnical system. It involves multiple human operators (students, supervisors) distributed geographically, interacting with software tools (like the SCC) and hardware (ground stations, satellite subsystems) to carry out mission operations. Such systems are characterized by emergent behaviors and strong coupling between technical and human elements. In the CCC, emergent situations could arise from unpredictable combinations of human actions (or inactions), environmental events, and system states – especially given the operators’ varied experience levels. A major cause of unexpected outcomes in sociotechnical systems is sensitivity to operational context, i.e. the changing conditions and situations in which the system operates. A guiding premise is that to design effectively for the CCC, we must model and understand it in context – capturing how different scenarios (nominal missions, anomalies, handovers between operators, etc.) play out and what resources (human or technical) are needed. We need to anticipate emergent properties by “maximizing description of emergent properties in scenarios and mission definitions”, echoing complexity management advice from INCOSE. In short, the problem is how to design a resilient, user-centered CCC that functions robustly despite high operator turnover and distributed operations.\nKey HSI Challenges: Three intertwined HSI challenges define our problem space:\n\nKnowledge Continuity under High Turnover: Students may participate for limited durations (a semester or a year), after which new students take over. Without special design measures, important operational knowledge can be lost at each handover. The CCC must somehow “embed” memory of past operations and lessons, or provide mechanisms to transfer knowledge between outgoing and incoming operators. This includes shift-to-shift handovers (daily or weekly shifts) and generation-to-generation handovers (yearly student cohorts). The open question is how to achieve resilience to turnover – ensuring continuity of mission situational awareness, safety, and efficiency as people rotate.\nSupport for Shift Transitions and Training: Linked to the above is the need for effective knowledge transfer during shifts. In professional settings, this might be handled with standardized shift briefings or long overlap times, but in a student context the process must be intuitive and reliable even for novices. We envision an “AI butler” concept – an intelligent assistant that could, for example, observe and log key events during an operator’s session and then brief the next operator on what happened and what to watch for. This could also serve as a training aid, prompting users with relevant information or checklists. The research must determine what form such an AI assistant should take (chatbot, smart dashboard, etc.), and how it can integrate into operations without causing distraction or complacency.\nDistributed Control and Governance: In a distributed control center, responsibilities might shift between sites (e.g., one school handles communication passes in the morning, another in the afternoon), or different sites might oversee different subsystems concurrently. We must explore governance models that define how decisions are made and authority is delegated across the four locations. For instance, do we designate a “lead site” at any given time, or do all sites operate peer-to-peer with a consensus protocol? What procedures ensure that all operators maintain a coherent picture of the mission? This aspect involves organizational design as much as technical design – clarifying roles, communication protocols, and fallback plans (for example, if one node drops offline unexpectedly). The goal is to avoid confusion or conflicts in control that could jeopardize the mission, while leveraging the distributed nature for greater resilience (e.g., another site can take over if one site’s hardware fails or if their students are unavailable). In summary, the research problem centers on designing the CCC to be a flexible, scenario-resilient system that gracefully handles the dynamic context of student-led operations. It is insufficient to treat this as a standard engineering project; instead, it requires an HSI-driven approach that explicitly factors in human operators, their learning curves and turnover, and the complex interactions between multiple human teams and technical systems."
+    "text": "Understand the principles of Human-System Integration (HSI) and its application in complex systems.\nAnalyze and evaluate sociotechnical systems using systemic User Centered Design approaches.\nDevelop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects.\nApply scenario-driven engineering techniques in system design.\nUtilize modeling and MBHSI methodologies to enhance human factors in system design.\n\n\n\n\n\nParticipation : 20%\n\nPrésence en cours (Présence obligatoire)\nParticipation aux reviews croisées (Review 1)\n\nQCM : 30 %\nFinal Review : 30%\nReport : 20%\n\n\n\n\n\nAcademic year: 2025-2026"
   },
   {
-    "objectID": "2025-2026/CourseStructure.html#learning-outcomes",
-    "href": "2025-2026/CourseStructure.html#learning-outcomes",
-    "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
+    "objectID": "2025-2026/syllabus.html#learning-outcomes",
+    "href": "2025-2026/syllabus.html#learning-outcomes",
+    "title": "Syllabus",
     "section": "",
-    "text": "By the end of this course, students will be able to: - Understand the principles of Human-System Integration (HSI) and its application in complex systems. - Analyze and evaluate sociotechnical systems using systemic User Centered Design approaches. - Develop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects. - Apply scenario-driven engineering techniques in system design. - Utilize modeling and MBHSI methodologies to enhance human factors in system design."
+    "text": "Understand the principles of Human-System Integration (HSI) and its application in complex systems.\nAnalyze and evaluate sociotechnical systems using systemic User Centered Design approaches.\nDevelop comprehensive HSI plans and Concept of Operations (CONOPS) for various projects.\nApply scenario-driven engineering techniques in system design.\nUtilize modeling and MBHSI methodologies to enhance human factors in system design."
   },
   {
-    "objectID": "2025-2026/CourseStructure.html#project-description",
-    "href": "2025-2026/CourseStructure.html#project-description",
-    "title": "this is for the AI to generate a course structure document for the academic year 2025-2026",
+    "objectID": "2025-2026/syllabus.html#evaluation-criteria",
+    "href": "2025-2026/syllabus.html#evaluation-criteria",
+    "title": "Syllabus",
     "section": "",
-    "text": "The course project involves the development of a comprehensive Human-System Integration (HSI) Design for a specified system. Students will work in teams to create an HSI plan, Concept of Operations (CONOPS), and scenario-driven designs.\nThe project will culminate in a final report and presentation, demonstrating the application of course concepts to real-world challenges in HSI.\nThe subject is the design of a Distributed Control and Command Center for a nano-satellite.\nThe New Aquitaine Academic Space Center (NAASC30) is engaging students in the design, launch, and operation of CubeSat-class nanosatellites as part of an inter-institutional program. A cornerstone of this program is the development of a Control and Command Center (CCC) distributed across four engineering schools. This sociotechnical system aims to enable students from multiple campuses to collaboratively operate real nanosatellite missions. The FlexTech Chair at ESTIA provides the research context, with a mission to integrate Human-System Integration (HSI) into modern systems engineering through new methodologies, demonstrators, and educational initiatives (notably via the PRODEC platform). HSI is defined as an essential transdisciplinary approach within systems engineering that ensures human, technical, and organizational elements are appropriately addressed across the system lifecycle and within its operational context. In practice, this means designing systems like the CCC with human users in mind from the outset, rather than merely adding a user interface onto an existing design. The FlexTech Chair promotes scenario-based design and human-in-the-loop experimentation as key strategies for HSI in complex domains such as rail, aviation, and now space systems.\nThe CCC under development serves as a real-world demonstrator for these HSI approaches in the space domain. It will use existing ground segment technology provided by partners: for example, the company U-Space (in collaboration with CNES) has developed a “Simple Control Center” (SCC) software tool that provides a user-friendly interface to command and control small satellites. Figure 1 below shows an example of this SCC interface, which connects to ground stations and offers dashboards for telemetry and telecommand. This tool provides a starting point for the academic CCC’s capabilities, ensuring students have a functional system for satellite operations from day one.\nFigure 1: The U-Space “Simple Control Center” (SCC) interface for satellite operations, which will be leveraged in the Academic Space Center’s distributed CCC.\nDespite this technical head-start, the distributed nature of the CCC and its educational context pose unique HSI challenges that motivate this research. High student turnover and a transient, voluntary workforce mean the system must accommodate continually changing operator populations. Knowledge and expertise cannot be assumed to accumulate in any one individual over time – instead, the CCC itself must be designed to be resilient to these human resource dynamics. Additionally, with the CCC spread across four locations, we anticipate scenarios where control authority and situational awareness might shift between sites. Effective governance models and coordination mechanisms are needed to ensure “seamless” control transitions across the distributed center. These challenges go beyond pure technical design; they require a socio-technical approach addressing human roles, training, procedures, and supporting tools – all underpinned by scenario-driven design to capture the richness of real operations.\nProblem Statement Complex Sociotechnical System: The academic CCC is a prime example of a complex sociotechnical system. It involves multiple human operators (students, supervisors) distributed geographically, interacting with software tools (like the SCC) and hardware (ground stations, satellite subsystems) to carry out mission operations. Such systems are characterized by emergent behaviors and strong coupling between technical and human elements. In the CCC, emergent situations could arise from unpredictable combinations of human actions (or inactions), environmental events, and system states – especially given the operators’ varied experience levels. A major cause of unexpected outcomes in sociotechnical systems is sensitivity to operational context, i.e. the changing conditions and situations in which the system operates. A guiding premise is that to design effectively for the CCC, we must model and understand it in context – capturing how different scenarios (nominal missions, anomalies, handovers between operators, etc.) play out and what resources (human or technical) are needed. We need to anticipate emergent properties by “maximizing description of emergent properties in scenarios and mission definitions”, echoing complexity management advice from INCOSE. In short, the problem is how to design a resilient, user-centered CCC that functions robustly despite high operator turnover and distributed operations.\nKey HSI Challenges: Three intertwined HSI challenges define our problem space:\n\nKnowledge Continuity under High Turnover: Students may participate for limited durations (a semester or a year), after which new students take over. Without special design measures, important operational knowledge can be lost at each handover. The CCC must somehow “embed” memory of past operations and lessons, or provide mechanisms to transfer knowledge between outgoing and incoming operators. This includes shift-to-shift handovers (daily or weekly shifts) and generation-to-generation handovers (yearly student cohorts). The open question is how to achieve resilience to turnover – ensuring continuity of mission situational awareness, safety, and efficiency as people rotate.\nSupport for Shift Transitions and Training: Linked to the above is the need for effective knowledge transfer during shifts. In professional settings, this might be handled with standardized shift briefings or long overlap times, but in a student context the process must be intuitive and reliable even for novices. We envision an “AI butler” concept – an intelligent assistant that could, for example, observe and log key events during an operator’s session and then brief the next operator on what happened and what to watch for. This could also serve as a training aid, prompting users with relevant information or checklists. The research must determine what form such an AI assistant should take (chatbot, smart dashboard, etc.), and how it can integrate into operations without causing distraction or complacency.\nDistributed Control and Governance: In a distributed control center, responsibilities might shift between sites (e.g., one school handles communication passes in the morning, another in the afternoon), or different sites might oversee different subsystems concurrently. We must explore governance models that define how decisions are made and authority is delegated across the four locations. For instance, do we designate a “lead site” at any given time, or do all sites operate peer-to-peer with a consensus protocol? What procedures ensure that all operators maintain a coherent picture of the mission? This aspect involves organizational design as much as technical design – clarifying roles, communication protocols, and fallback plans (for example, if one node drops offline unexpectedly). The goal is to avoid confusion or conflicts in control that could jeopardize the mission, while leveraging the distributed nature for greater resilience (e.g., another site can take over if one site’s hardware fails or if their students are unavailable). In summary, the research problem centers on designing the CCC to be a flexible, scenario-resilient system that gracefully handles the dynamic context of student-led operations. It is insufficient to treat this as a standard engineering project; instead, it requires an HSI-driven approach that explicitly factors in human operators, their learning curves and turnover, and the complex interactions between multiple human teams and technical systems."
+    "text": "Participation : 20%\n\nPrésence en cours (Présence obligatoire)\nParticipation aux reviews croisées (Review 1)\n\nQCM : 30 %\nFinal Review : 30%\nReport : 20%"
   },
   {
-    "objectID": "2025-2026/project.html",
-    "href": "2025-2026/project.html",
-    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "objectID": "2025-2026/syllabus.html#course-logistics",
+    "href": "2025-2026/syllabus.html#course-logistics",
+    "title": "Syllabus",
     "section": "",
-    "text": "The client wants to operate a nanosatellite as part of an educational and scientific program, while ensuring a professional level of reliability, traceability, and long-term sustainability.\nBeyond simply flying a satellite, the ambition is to:\n\nTrain students to real space operations,\nEnable scientific missions led by different payload teams,\nEnsure continuity of operations over the full mission lifetime,\nPreserve all operational and scientific knowledge generated by the mission.\n\nTo achieve this, the client expresses the need for a complete ground segment, organized around three complementary and cooperating subsystems:\n\nA Command Center to operate the satellite,\nOne or several Mission Centers to manage payloads and scientific exploitation,\nA Ground Station to physically communicate with the satellite.\n\nThe client insists that this ground segment must be distributed across multiple schools, accessible to both staff and students, and robust enough to operate for years.\n\n\n\n\n\n\nARAGNOUET Nathan\nHOARAU John\nDIA Yaye Aminata Niang\nZHUANG Dengbo\n\n\n\n\n\nVELLUET Alix\nHASTOY Clara\nRIVERA ESQUIVEL Darzee Alejandra\nCANN Yanis\nZHANG Yuhao\n\n\n\n\n\nBESSÉ M’bouké\nGUIOL Noa\nPINON Lorenzo\nCANI Clément\nZHANG Chenggong\n\n\n\n\n\nDOUGNAC Amaya\nMESSAOUDI Bilel\nBRINTET Augustin\nEL ALAOUI Ahd Acharif\n\n\n\n\n\nBÉDRUNE Pierre\nLAFITTE Titouan\nAMADORI Bastien\nCEN Yongxin\n\n\n\n\n\n\n\n\n\n\nThe Command Center is the place from which the satellite is actually flown. It represents the operational brain of the mission, where decisions are taken, actions are coordinated, and the overall behavior of the spacecraft is monitored over time. From the point of view of the organization operating the satellite, the Command Center is responsible for ensuring that the satellite remains functional, safe, and useful throughout its entire lifetime.\nInside the Command Center, operators prepare the activities that will be carried out by the satellite. These activities are not improvised: they are defined through procedures that describe, step by step, how the satellite should be commanded in a given situation. Before being used in real operations, these procedures are tested in a simulated environment that reproduces the behavior of the satellite as faithfully as possible. This allows operators and students to rehearse operations, validate their understanding, and detect potential issues without risking the spacecraft.\nOnce operations are executed, everything that happens is carefully recorded. Telemetry received from the satellite, commands sent to it, operational decisions, and configuration changes are stored and preserved. This long-term memory of the mission is essential both for technical reasons, such as anomaly investigation, and for educational purposes, since it allows future teams to learn from past operations. To protect this knowledge, the data is duplicated and secured so that a technical failure does not result in an irreversible loss of mission history.\nThe Command Center is also where the overall health of the satellite is assessed. Operators monitor its subsystems, follow the evolution of its orbit, and manage aspects related to flight dynamics. When maintenance actions are required, or when unexpected behavior occurs, the Command Center acts as the focal point for analysis and coordination. It concentrates the operational expertise of the satellite and ensures coherence between all ongoing activities.\nIn the NAASC context, the Command Center is not limited to a single physical location. Several schools may host rooms that replicate the Command Center environment. These rooms can be used either for real operations, for training, or remain inactive depending on the situation. This distributed approach allows students from different institutions to participate in realistic space operations while sharing the same tools, data, and documentation. Accessibility is therefore a key aspect: the Command Center must be usable by both experienced staff and students, while still preserving operational discipline and safety.\n\n\n\nWhile the Command Center focuses on the satellite as a whole, the Mission Center is centered on what the satellite is meant to accomplish. Each Mission Center is associated with a specific payload or scientific objective, and its role is to transform raw satellite data into meaningful results.\nTeams working in a Mission Center are typically composed of experts, scientists, or advanced students who deeply understand the payload they are responsible for. Their work starts well before data is received, by defining how the payload should be used, under which conditions, and for which scientific goals. Based on this preparation, they propose operational plans that describe what the payload should do and when. These plans are then transmitted to the Command Center, which integrates them into the global satellite operations.\nOnce data is collected, the Mission Center takes charge of processing and analyzing it. This often involves complex data processing chains, calibration steps, and the management of evolving parameters that change over the course of the mission. Maintaining consistency over time is crucial, as scientific results depend on knowing exactly how the data was produced and under which conditions.\nThe Mission Center also plays an important role in monitoring the health of the payload. Regular assessments are performed, and reports are produced to track performance and detect degradations. When anomalies occur, the Mission Center contributes its expertise to diagnose issues and propose corrective actions, in coordination with the Command Center.\nBeyond internal use, the Mission Center is responsible for sharing results. This includes distributing data to authorized users, producing summaries of scientific outcomes, and contributing to public communication and educational outreach. At the same time, access to sensitive tools and data remains controlled, as the integrity of scientific processing must be preserved.\nLike the Command Center, the Mission Center is expected to remain active for as long as the satellite exists, even if operations slow down over time. It represents the continuity of the scientific mission, ensuring that knowledge, data, and expertise are not lost.\n\n\n\nThe Ground Station is the physical interface between the satellite in orbit and the teams on Earth. It is through the Ground Station that signals are exchanged, making it an indispensable element of the ground segment.\nDuring each pass of the satellite over the station, the Ground Station receives telemetry data that describes the state of the spacecraft and its payloads. At the same time, it transmits commands prepared by the Command Center, allowing operators to control the satellite remotely. These exchanges only occur during limited visibility windows, which makes their preparation and execution particularly important.\nIn addition to communications, the Ground Station contributes to knowing where the satellite is and how it moves. By measuring signals and timing information, it provides data that can be used to reconstruct the satellite’s orbit and support flight dynamics activities. This information feeds back into mission planning and helps anticipate future passes and operations.\nAccurate time and frequency references are essential for these tasks. The Ground Station must therefore maintain synchronization with universal time and ensure that its equipment operates coherently. Stability and precision are key, as even small discrepancies can affect communication quality or orbital calculations.\nBecause it is exposed to the terrestrial environment, the Ground Station must be designed to withstand weather conditions, remain reliable over long periods, and be maintainable directly on site. It must also comply with local regulations and operate autonomously from an energy point of view when necessary. From the client’s perspective, the Ground Station is expected to be a robust, long-term infrastructure rather than a temporary or fragile installation.\n\n\n\n\n\nKnowledge continuity under high turnover\nSupport for shift transitions and training\nDistributed control and governance\n\n\n\n\n\nHSI Plan\nConcept of Operations (CONOPS)\nScenario-driven designs\nFinal report and presentation",
+    "text": "Academic year: 2025-2026"
+  },
+  {
+    "objectID": "2025-2026/resources.html",
+    "href": "2025-2026/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "HSI Primer: An Brief introduction to Human-System Integration principles and practices from the INCOSE HSI Working Group.\nNasa HSI Handbook: The NASA Human Systems Integration Handbook (2021) provides guidelines and best practices for integrating human factors into system design and development.",
     "crumbs": [
       "Home",
-      "Project Sessions",
-      "2025-2026 subject and teams"
+      "Resources"
     ]
   },
   {
-    "objectID": "2025-2026/project.html#project-overview",
-    "href": "2025-2026/project.html#project-overview",
-    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "objectID": "2025-2026/resources.html#core-readings",
+    "href": "2025-2026/resources.html#core-readings",
+    "title": "Resources",
     "section": "",
-    "text": "The client wants to operate a nanosatellite as part of an educational and scientific program, while ensuring a professional level of reliability, traceability, and long-term sustainability.\nBeyond simply flying a satellite, the ambition is to:\n\nTrain students to real space operations,\nEnable scientific missions led by different payload teams,\nEnsure continuity of operations over the full mission lifetime,\nPreserve all operational and scientific knowledge generated by the mission.\n\nTo achieve this, the client expresses the need for a complete ground segment, organized around three complementary and cooperating subsystems:\n\nA Command Center to operate the satellite,\nOne or several Mission Centers to manage payloads and scientific exploitation,\nA Ground Station to physically communicate with the satellite.\n\nThe client insists that this ground segment must be distributed across multiple schools, accessible to both staff and students, and robust enough to operate for years.",
+    "text": "HSI Primer: An Brief introduction to Human-System Integration principles and practices from the INCOSE HSI Working Group.\nNasa HSI Handbook: The NASA Human Systems Integration Handbook (2021) provides guidelines and best practices for integrating human factors into system design and development.",
     "crumbs": [
       "Home",
-      "Project Sessions",
-      "2025-2026 subject and teams"
+      "Resources"
     ]
   },
   {
-    "objectID": "2025-2026/project.html#teams",
-    "href": "2025-2026/project.html#teams",
-    "title": "Course Project: Distributed Control and Command Center (CCC)",
-    "section": "",
-    "text": "ARAGNOUET Nathan\nHOARAU John\nDIA Yaye Aminata Niang\nZHUANG Dengbo\n\n\n\n\n\nVELLUET Alix\nHASTOY Clara\nRIVERA ESQUIVEL Darzee Alejandra\nCANN Yanis\nZHANG Yuhao\n\n\n\n\n\nBESSÉ M’bouké\nGUIOL Noa\nPINON Lorenzo\nCANI Clément\nZHANG Chenggong\n\n\n\n\n\nDOUGNAC Amaya\nMESSAOUDI Bilel\nBRINTET Augustin\nEL ALAOUI Ahd Acharif\n\n\n\n\n\nBÉDRUNE Pierre\nLAFITTE Titouan\nAMADORI Bastien\nCEN Yongxin",
+    "objectID": "2025-2026/resources.html#tools-and-platforms",
+    "href": "2025-2026/resources.html#tools-and-platforms",
+    "title": "Resources",
+    "section": "Tools and Platforms",
+    "text": "Tools and Platforms\n\nIngescape Circle: is an intuitive environment enabling developers and non-developers to work together in a collaborative and constructive way, using the best practices in agile, iterative and creative methodologies in software projects, digital twins and simulations.",
     "crumbs": [
       "Home",
-      "Project Sessions",
-      "2025-2026 subject and teams"
+      "Resources"
     ]
   },
   {
-    "objectID": "2025-2026/project.html#problem-statement",
-    "href": "2025-2026/project.html#problem-statement",
-    "title": "Course Project: Distributed Control and Command Center (CCC)",
-    "section": "",
-    "text": "The Command Center is the place from which the satellite is actually flown. It represents the operational brain of the mission, where decisions are taken, actions are coordinated, and the overall behavior of the spacecraft is monitored over time. From the point of view of the organization operating the satellite, the Command Center is responsible for ensuring that the satellite remains functional, safe, and useful throughout its entire lifetime.\nInside the Command Center, operators prepare the activities that will be carried out by the satellite. These activities are not improvised: they are defined through procedures that describe, step by step, how the satellite should be commanded in a given situation. Before being used in real operations, these procedures are tested in a simulated environment that reproduces the behavior of the satellite as faithfully as possible. This allows operators and students to rehearse operations, validate their understanding, and detect potential issues without risking the spacecraft.\nOnce operations are executed, everything that happens is carefully recorded. Telemetry received from the satellite, commands sent to it, operational decisions, and configuration changes are stored and preserved. This long-term memory of the mission is essential both for technical reasons, such as anomaly investigation, and for educational purposes, since it allows future teams to learn from past operations. To protect this knowledge, the data is duplicated and secured so that a technical failure does not result in an irreversible loss of mission history.\nThe Command Center is also where the overall health of the satellite is assessed. Operators monitor its subsystems, follow the evolution of its orbit, and manage aspects related to flight dynamics. When maintenance actions are required, or when unexpected behavior occurs, the Command Center acts as the focal point for analysis and coordination. It concentrates the operational expertise of the satellite and ensures coherence between all ongoing activities.\nIn the NAASC context, the Command Center is not limited to a single physical location. Several schools may host rooms that replicate the Command Center environment. These rooms can be used either for real operations, for training, or remain inactive depending on the situation. This distributed approach allows students from different institutions to participate in realistic space operations while sharing the same tools, data, and documentation. Accessibility is therefore a key aspect: the Command Center must be usable by both experienced staff and students, while still preserving operational discipline and safety.\n\n\n\nWhile the Command Center focuses on the satellite as a whole, the Mission Center is centered on what the satellite is meant to accomplish. Each Mission Center is associated with a specific payload or scientific objective, and its role is to transform raw satellite data into meaningful results.\nTeams working in a Mission Center are typically composed of experts, scientists, or advanced students who deeply understand the payload they are responsible for. Their work starts well before data is received, by defining how the payload should be used, under which conditions, and for which scientific goals. Based on this preparation, they propose operational plans that describe what the payload should do and when. These plans are then transmitted to the Command Center, which integrates them into the global satellite operations.\nOnce data is collected, the Mission Center takes charge of processing and analyzing it. This often involves complex data processing chains, calibration steps, and the management of evolving parameters that change over the course of the mission. Maintaining consistency over time is crucial, as scientific results depend on knowing exactly how the data was produced and under which conditions.\nThe Mission Center also plays an important role in monitoring the health of the payload. Regular assessments are performed, and reports are produced to track performance and detect degradations. When anomalies occur, the Mission Center contributes its expertise to diagnose issues and propose corrective actions, in coordination with the Command Center.\nBeyond internal use, the Mission Center is responsible for sharing results. This includes distributing data to authorized users, producing summaries of scientific outcomes, and contributing to public communication and educational outreach. At the same time, access to sensitive tools and data remains controlled, as the integrity of scientific processing must be preserved.\nLike the Command Center, the Mission Center is expected to remain active for as long as the satellite exists, even if operations slow down over time. It represents the continuity of the scientific mission, ensuring that knowledge, data, and expertise are not lost.\n\n\n\nThe Ground Station is the physical interface between the satellite in orbit and the teams on Earth. It is through the Ground Station that signals are exchanged, making it an indispensable element of the ground segment.\nDuring each pass of the satellite over the station, the Ground Station receives telemetry data that describes the state of the spacecraft and its payloads. At the same time, it transmits commands prepared by the Command Center, allowing operators to control the satellite remotely. These exchanges only occur during limited visibility windows, which makes their preparation and execution particularly important.\nIn addition to communications, the Ground Station contributes to knowing where the satellite is and how it moves. By measuring signals and timing information, it provides data that can be used to reconstruct the satellite’s orbit and support flight dynamics activities. This information feeds back into mission planning and helps anticipate future passes and operations.\nAccurate time and frequency references are essential for these tasks. The Ground Station must therefore maintain synchronization with universal time and ensure that its equipment operates coherently. Stability and precision are key, as even small discrepancies can affect communication quality or orbital calculations.\nBecause it is exposed to the terrestrial environment, the Ground Station must be designed to withstand weather conditions, remain reliable over long periods, and be maintainable directly on site. It must also comply with local regulations and operate autonomously from an energy point of view when necessary. From the client’s perspective, the Ground Station is expected to be a robust, long-term infrastructure rather than a temporary or fragile installation.",
+    "objectID": "2025-2026/resources.html#additional-references",
+    "href": "2025-2026/resources.html#additional-references",
+    "title": "Resources",
+    "section": "Additional References",
+    "text": "Additional References\n\nHRL: Standard on Human Readiness Levels (HRL) for assessing human factors integration in system development.",
     "crumbs": [
       "Home",
-      "Project Sessions",
-      "2025-2026 subject and teams"
+      "Resources"
     ]
   },
   {
-    "objectID": "2025-2026/project.html#key-hsi-challenges",
-    "href": "2025-2026/project.html#key-hsi-challenges",
-    "title": "Course Project: Distributed Control and Command Center (CCC)",
-    "section": "",
-    "text": "Knowledge continuity under high turnover\nSupport for shift transitions and training\nDistributed control and governance",
+    "objectID": "2025-2026/resources.html#project-resources",
+    "href": "2025-2026/resources.html#project-resources",
+    "title": "Resources",
+    "section": "Project Resources",
+    "text": "Project Resources\n\nConfidential Information about the project on moodle: Access restricted to enrolled students. You’ll find the STB (Specification Technique du Besoin) and the DD (Detailed Definition) documents for the payloads and the ground segment there.\nGreen Book Mission Planning a comprehensive guide on mission planning for satellite systems by the CCSDS (Consultative Committee for Space Data Systems). This resource provides detailed methodologies and best practices for effective mission planning.\nECSS Ground Systems a standard from the European Cooperation for Space Standardization (ECSS) that outlines the requirements and guidelines for designing and operating ground systems for space missions. This document is essential for understanding the technical and operational aspects of ground systems in the context of space exploration.",
     "crumbs": [
       "Home",
-      "Project Sessions",
-      "2025-2026 subject and teams"
+      "Resources"
     ]
   },
   {
-    "objectID": "2025-2026/project.html#deliverables",
-    "href": "2025-2026/project.html#deliverables",
-    "title": "Course Project: Distributed Control and Command Center (CCC)",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HSI Course Website",
     "section": "",
-    "text": "HSI Plan\nConcept of Operations (CONOPS)\nScenario-driven designs\nFinal report and presentation",
-    "crumbs": [
-      "Home",
-      "Project Sessions",
-      "2025-2026 subject and teams"
-    ]
+    "text": "This is the website for the module HSI at ESTIA."
   },
   {
-    "objectID": "2025-2026/schedule.html",
-    "href": "2025-2026/schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Schedule\nThe schedule below lists all course sessions. Each item links to a dedicated class or project page in the content folder.\n\n\n\nCourse Schedule\n\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        date - Oldest\n      \n      \n        date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\ndate\n\n\n\n#\n\n\n\nTitle\n\n\n\nType\n\n\n\nDuration\n\n\n\nEvaluation\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\n \n\n\nHSI Introduction & Project Presentation\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHistory of HCI-Aero toward HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 5, 2026\n\n\n \n\n\nHSI Handbook & HSIP\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nIntroduction of Projects\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSociotechnical Systems\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nComplexity and systemic modeling for Human-Centered Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 6, 2026\n\n\n \n\n\nSystemic Cognition\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nEthnographic Tools\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nProjet (HSI Plan)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 7, 2026\n\n\n \n\n\nScenario-Driven Engineering\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nPRODEC & Robot Fleet Management\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 8, 2026\n\n\n \n\n\nProjet (CONOPS)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nIngescape, a platform for Human-Systems Integration\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nProjet (Scenario)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 9, 2026\n\n\n \n\n\nSystem Context and Air Traffic Control\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nHF Evaluation & HITLS\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nJan 12, 2026\n\n\n \n\n\nProjet (Interim Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nConcept of Operations (CONOPS)\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nFinal Review (Soutenance 2)\n\n\nreview\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nNASA HSI Handbook & HSI Plan\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Final Design and Report)\n\n\nproject-session\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design - 2)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nProjet (Solution Design)\n\n\nproject-session\n\n\n4h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nQCM\n\n\nassessment\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nRisk-Taking Prevention & Design\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\n \n\n\n \n\n\nTraining in HSI\n\n\nclass\n\n\n2h\n\n\n \n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Home",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#academic-years",
+    "href": "index.html#academic-years",
+    "title": "HSI Course Website",
+    "section": "Academic Years",
+    "text": "Academic Years"
   }
 ]
