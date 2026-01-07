@@ -17,6 +17,7 @@ Is engineering a science or an applied science? What does “putting people firs
 ## Key Concepts
 
 ## In-Class Activities
+- [Slides du cours](assets/complexity.pdf)
 
 ## Preparation & Readings
 
