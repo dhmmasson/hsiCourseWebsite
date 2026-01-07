@@ -27,7 +27,7 @@ The client insists that this ground segment must be distributed across multiple 
 
 ## Teams 
 
-### Team 1 
+### DiSC (Distributed Space Center) Team
 
 - ARAGNOUET	Nathan
 - HOARAU	John
