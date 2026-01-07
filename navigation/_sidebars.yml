@@ -12,78 +12,78 @@ website:
           href: 2025-2026/resources.qmd
         - section: "Project Sessions"
           contents:
-            - text: "2025-2026 subject"
+            - text: "2025-2026 subject and teams"
               href: 2025-2026/project.qmd
-            - href: 2025-2026/content/projet-hsi-plan.qmd
-              text: "Projet (HSI Plan)"
-            - href: 2025-2026/content/projet-conops.qmd
-              text: "Projet (CONOPS)"
-            - href: 2025-2026/content/projet-scenario.qmd
-              text: "Projet (Scenario)"
-            - href: 2025-2026/content/projet-solution-design.qmd
-              text: "Project (Solution Design)"
-            - href: 2025-2026/content/projet-solution-design-2.qmd
-              text: "Project (Solution Design - 2)"
+            - text: "Projet (HSI Plan)"
+              href: 2025-2026/content/projet-hsi-plan.qmd
+            - text: "Projet (CONOPS)"
+              href: 2025-2026/content/projet-conops.qmd
+            - text: "Projet (Scenario)"
+              href: 2025-2026/content/projet-scenario.qmd
+            - text: "Project (Solution Design)"
+              href: 2025-2026/content/projet-solution-design.qmd
+            - text: "Project (Solution Design - 2)"
+              href: 2025-2026/content/projet-solution-design-2.qmd
         
         - section: "Classes & Sessions"
           contents:
             - text: "---"
             - text: "<b>Jour 1</b>"  
-            - href: 2025-2026/content/hsi-introduction-project-presentation.qmd
-              text: "HSI Introduction & Project Presentation"
+            - text: "HSI Introduction & Project Presentation"
+              href: 2025-2026/content/hsi-introduction-project-presentation.qmd
             - text: "---"
             - text: "<b>Jour 2</b>"    
-            - href: 2025-2026/content/hsi-handbook-hsip.qmd
-              text: "HSI Handbook & HSIP"
-            - href: 2025-2026/content/hci-aero-history.qmd
-              text: "History of HCI-Aero toward HSI"
+            - text: "HSI Handbook & HSIP"
+              href: 2025-2026/content/hsi-handbook-hsip.qmd
+            - text: "History of HCI-Aero toward HSI"
+              href: 2025-2026/content/hci-aero-history.qmd
             - text: "---"
             - text: "<b>Jour 3</b>"    
-            - href: 2025-2026/content/sociotechnical-systems.qmd
-              text: "Sociotechnical Systems"
-            - href: 2025-2026/content/systemic-cognition.qmd
-              text: "Systemic Cognition"
-            - href: 2025-2026/content/system-modeling-complexity.qmd
-              text: "System Modeling & Complexity"
-            - href: 2025-2026/content/introduction-of-projects.qmd
-              text: "Introduction of projects"
+            - text: "Sociotechnical Systems"
+              href: 2025-2026/content/sociotechnical-systems.qmd
+            - text: "Systemic Cognition"
+              href: 2025-2026/content/systemic-cognition.qmd
+            - text: "System Modeling & Complexity"
+              href: 2025-2026/content/system-modeling-complexity.qmd
+            - text: "Introduction of projects"
+              href: 2025-2026/content/introduction-of-projects.qmd
             - text: "---"
             - text: "<b>Jour 4</b>"               
-            - href: 2025-2026/content/concept-of-operations-conops.qmd
-              text: "Concept of Operations (CONOPS)"
-            - href: 2025-2026/content/ethnographic-tools.qmd
-              text: "Ethnographic tools"
-            - href: 2025-2026/content/scenario-driven-engineering.qmd
-              text: "Scenario-Driven Engineering"
+            - text: "Concept of Operations (CONOPS)"
+              href: 2025-2026/content/concept-of-operations-conops.qmd
+            - text: "Ethnographic tools"
+              href: 2025-2026/content/ethnographic-tools.qmd
+            - text: "Scenario-Driven Engineering"
+              href: 2025-2026/content/scenario-driven-engineering.qmd
             - text: "---"
             - text: "<b>Jour 5</b>" 
-            - href: 2025-2026/content/system-context-air-traffic-control.qmd
-              text: "System Context and Air Traffic Control"
+            - text: "System Context and Air Traffic Control"
+              href: 2025-2026/content/system-context-air-traffic-control.qmd
             - text: "---"
             - text: "<b>Jour 6</b>" 
-            - href: 2025-2026/content/prodec-robot-fleet-management.qmd
-              text: "PRODEC & Robot Fleet Management"
-            - href: 2025-2026/content/modeling-mbhsi.qmd
-              text: "Modeling & MBHSI"
+            - text: "PRODEC & Robot Fleet Management"
+              href: 2025-2026/content/prodec-robot-fleet-management.qmd
+            - text: "Modeling & MBHSI"
+              href: 2025-2026/content/modeling-mbhsi.qmd
             - text: "---"
             - text: "<b>Jour 7</b>"            
-            - href: 2025-2026/content/hf-evaluation-hitls.qmd
-              text: "HF Evaluation & HITLS"
+            - text: "HF Evaluation & HITLS"
+              href: 2025-2026/content/hf-evaluation-hitls.qmd
             - text: "---"
             - text: "<b>Jour 8</b>"            
-            - href: 2025-2026/content/training-in-hsi.qmd
-              text: "Training in HSI"
+            - text: "Training in HSI"
+              href: 2025-2026/content/training-in-hsi.qmd
     
-            - href: 2025-2026/content/risk-taking-prevention-design.qmd
-              text: "Risk-Taking Prevention & Design"
+            - text: "Risk-Taking Prevention & Design"
+              href: 2025-2026/content/risk-taking-prevention-design.qmd
         - section: "Evaluations"
           contents:
-            - href: 2025-2026/content/qcm.qmd
-              text: "QCM"             
-            - href: 2025-2026/content/projet-interim-report.qmd            
-              text: "Project (Interim Report)"                
-            - href: 2025-2026/content/final-review-soutenance-2.qmd
-              text: "Final Review (Soutenance 2)"
-            - href: 2025-2026/content/projet-final-design-report.qmd
-              text: "Project (Final Design and Report)"              
+            - text: "QCM"             
+              href: 2025-2026/content/qcm.qmd
+            - text: "Project (Interim Report)"                
+              href: 2025-2026/content/projet-interim-report.qmd            
+            - text: "Final Review (Soutenance 2)"
+              href: 2025-2026/content/final-review-soutenance-2.qmd
+            - text: "Project (Final Design and Report)"              
+              href: 2025-2026/content/projet-final-design-report.qmd
             

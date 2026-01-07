@@ -25,9 +25,46 @@ To achieve this, the client expresses the need for a complete ground segment, or
 
 The client insists that this ground segment must be distributed across multiple schools, accessible to both staff and students, and robust enough to operate for years.
 
+## Teams 
+
+### DiSC (Distributed Space Center) Team
+
+- ARAGNOUET	Nathan
+- HOARAU	John
+- DIA	Yaye Aminata Niang
+- ZHUANG	Dengbo
+
+### Team 2 
+
+- VELLUET	Alix
+- HASTOY	Clara
+- RIVERA ESQUIVEL	Darzee Alejandra
+- CANN	Yanis
+- ZHANG	Yuhao
+
+### Team 3 
+
+- BESSÉ	M'bouké
+- GUIOL	Noa
+- PINON	Lorenzo
+- CANI	Clément
+- ZHANG	Chenggong
+
+### Team 4 
+
+- DOUGNAC	Amaya
+- MESSAOUDI	Bilel
+- BRINTET	Augustin
+- EL ALAOUI	Ahd Acharif
+
+### Team 5
+
+- BÉDRUNE	Pierre
+- LAFITTE	Titouan
+- AMADORI	Bastien
+- CEN	Yongxin
+
 ## Context
-
-
 
 ## Problem Statement
 
@@ -77,11 +114,10 @@ Because it is exposed to the terrestrial environment, the Ground Station must be
 
 ## Deliverables
 
-- HSI Plan
+- [HSI Plan](content/assets/hsi-plan.docx)
 - Concept of Operations (CONOPS)
 - Scenario-driven designs
 - Final report and presentation
 
 ## Evaluation
 
-<!-- Describe how the project will be evaluated (alignment with HSI principles, quality of scenarios, etc.). -->

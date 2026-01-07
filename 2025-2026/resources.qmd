@@ -3,16 +3,21 @@ title: "Resources"
 description: "Key references, readings, and tools for the HSI course (2025-2026)."
 ---
 
-# Resources
-
 ## Core Readings
 
-<!-- Add references to books, articles, and standards here. -->
+- [HSI Primer](resources/HSIPrimerVol.1v4.pdf): An Brief introduction to Human-System Integration principles and practices from the INCOSE HSI Working Group.
+- [Nasa HSI Handbook](https://ntrs.nasa.gov/citations/20210010952): The NASA Human Systems Integration Handbook (2021) provides guidelines and best practices for integrating human factors into system design and development.
 
 ## Tools and Platforms
 
-<!-- Add links to software tools (e.g., SCC, PRODEC, modeling tools) and platforms used in the course. -->
+- [Ingescape Circle](https://ingescape.com/circle/): is an intuitive environment enabling developers and non-developers to work together in a collaborative and constructive way, using the best practices in agile, iterative and creative methodologies in software projects, digital twins and simulations.
 
 ## Additional References
 
-<!-- Add optional readings, videos, and external resources here. -->
+- [HRL](resources/HRL.pdf): Standard on Human Readiness Levels (HRL) for assessing human factors integration in system development.
+
+## Project Resources
+
+- [Confidential Information about the project on moodle](https://ingenieurs.estia.fr/mod/folder/view.php?id=6455): Access restricted to enrolled students. You'll find the STB (Specification Technique du Besoin) and the  DD (Detailed Definition) documents for the payloads and the ground segment there.
+- [Green Book Mission Planning](resources/greenBookMissionPlanning.pdf) a comprehensive guide on mission planning for satellite systems by the CCSDS (Consultative Committee for Space Data Systems). This resource provides detailed methodologies and best practices for effective mission planning.
+- [ECSS Ground Systems](resources/ECSS-E-ST-70C-GroundSystems.pdf) a standard from the European Cooperation for Space Standardization (ECSS) that outlines the requirements and guidelines for designing and operating ground systems for space missions. This document is essential for understanding the technical and operational aspects of ground systems in the context of space exploration.
