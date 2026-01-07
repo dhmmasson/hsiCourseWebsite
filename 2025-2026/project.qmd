@@ -114,7 +114,7 @@ Because it is exposed to the terrestrial environment, the Ground Station must be
 
 ## Deliverables
 
-- [HSI Plan](assets/hsi-plan.docx)
+- [HSI Plan](content/assets/hsi-plan.docx)
 - Concept of Operations (CONOPS)
 - Scenario-driven designs
 - Final report and presentation
