@@ -134,6 +134,78 @@
     ]
   },
   {
+    "objectID": "2025-2026/content/scenario-driven-engineering.html",
+    "href": "2025-2026/content/scenario-driven-engineering.html",
+    "title": "Scenario-Driven Engineering",
+    "section": "",
+    "text": "Scenario-Driven Engineering introduces scenario-based design as a practical way to tackle ill-defined problems in Human-Computer Interaction (HCI) and Human-System Integration (HSI). Instead of jumping straight to solutions (and risking functional fixation), we make future use concrete early through scenarios, then progressively refine requirements, interactions, and system behaviors—often supported by rapid prototyping and human-in-the-loop simulation (Wizard of Oz).\nThis session connects user-centered analysis (who/why/what/how) with actionable design artifacts: personas, scenarios (as-is / to-be / error), claim analysis, and lightweight modeling tools (e.g., UML, task models) that help teams communicate and iterate.\n\n\n\nBy the end of the session, you should be able to: - Explain why scenarios are effective for complex, ill-defined design problems. - Produce clear AS-IS (problem) and TO-BE (future) scenarios from user and context insights. - Create error/abnormal scenarios to reveal failure modes and safety/UX risks. - Use claim analysis to compare design alternatives (pros/cons, assumptions, constraints). - Select appropriate representations (narrative, storyboard, journey map, UML, task model) for different audiences.\n\n\n\n\nScenario-Based Design\n\nA “family of techniques” describing future use concretely early in development.\nScenario structure:\n\nDeclarative: initial situation, context, actors, goals, resources\nProcedural: sequence of actions/events leading to a final situation\n\nTypes:\n\nAS-IS (problem scenario): current reality, workarounds, pain points\nTO-BE: intended future interaction with the proposed system\nError scenarios: what can go wrong (abnormal/critical/urgent situations)\n\n\nClaim Analysis\n\nEvaluate scenario variants by listing trade-offs, constraints, and assumptions (what improves vs. what new risks appear).\n\nScenario building methods\n\nEthnographic field study, participatory design, reuse of existing materials, theory-based approaches, creative sessions (“what if?”), and technology-driven exploration.\n\nRepresentations & modeling tools\n\nNarrative text, storyboard, flowcharts, journey maps\nModel-based: UML Use Case, Sequence, Activity diagrams; task models (hierarchical tasks, temporal operators, task allocation)\n\n\n\n\n\n\nJohn M. Carroll, Making Use: Scenario-based Design of Human-Computer Interactions (MIT Press, 2000).\nCarroll, “Five Reasons for Scenario-Based Design” (1999).\nRosson & Carroll, “Scenario-Based Design” (HCI Handbook chapter, 2002).\nKelley, “Wizard of Oz (WoZ): a yellow brick journey” (2018).\nNASA Human Systems Integration Handbook (2021) for an HSI framing.\n\n\n\n\n\nKeep scenarios short, concrete, and testable—they should be easy to share and revise.\nA good TO-BE scenario includes:\n\nactor goals, system feedback, decision points, and realistic context constraints (time, environment, devices).\n\nError scenarios are not “edge cases”; they are where safety, trust, and real-world usability often show up first.\nTreat diagrams as communication tools: choose the lightest representation that still aligns stakeholders.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Scenario-Driven Engineering"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/scenario-driven-engineering.html#synopsis",
+    "href": "2025-2026/content/scenario-driven-engineering.html#synopsis",
+    "title": "Scenario-Driven Engineering",
+    "section": "",
+    "text": "Scenario-Driven Engineering introduces scenario-based design as a practical way to tackle ill-defined problems in Human-Computer Interaction (HCI) and Human-System Integration (HSI). Instead of jumping straight to solutions (and risking functional fixation), we make future use concrete early through scenarios, then progressively refine requirements, interactions, and system behaviors—often supported by rapid prototyping and human-in-the-loop simulation (Wizard of Oz).\nThis session connects user-centered analysis (who/why/what/how) with actionable design artifacts: personas, scenarios (as-is / to-be / error), claim analysis, and lightweight modeling tools (e.g., UML, task models) that help teams communicate and iterate.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Scenario-Driven Engineering"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/scenario-driven-engineering.html#session-objectives",
+    "href": "2025-2026/content/scenario-driven-engineering.html#session-objectives",
+    "title": "Scenario-Driven Engineering",
+    "section": "",
+    "text": "By the end of the session, you should be able to: - Explain why scenarios are effective for complex, ill-defined design problems. - Produce clear AS-IS (problem) and TO-BE (future) scenarios from user and context insights. - Create error/abnormal scenarios to reveal failure modes and safety/UX risks. - Use claim analysis to compare design alternatives (pros/cons, assumptions, constraints). - Select appropriate representations (narrative, storyboard, journey map, UML, task model) for different audiences.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Scenario-Driven Engineering"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/scenario-driven-engineering.html#key-concepts",
+    "href": "2025-2026/content/scenario-driven-engineering.html#key-concepts",
+    "title": "Scenario-Driven Engineering",
+    "section": "",
+    "text": "Scenario-Based Design\n\nA “family of techniques” describing future use concretely early in development.\nScenario structure:\n\nDeclarative: initial situation, context, actors, goals, resources\nProcedural: sequence of actions/events leading to a final situation\n\nTypes:\n\nAS-IS (problem scenario): current reality, workarounds, pain points\nTO-BE: intended future interaction with the proposed system\nError scenarios: what can go wrong (abnormal/critical/urgent situations)\n\n\nClaim Analysis\n\nEvaluate scenario variants by listing trade-offs, constraints, and assumptions (what improves vs. what new risks appear).\n\nScenario building methods\n\nEthnographic field study, participatory design, reuse of existing materials, theory-based approaches, creative sessions (“what if?”), and technology-driven exploration.\n\nRepresentations & modeling tools\n\nNarrative text, storyboard, flowcharts, journey maps\nModel-based: UML Use Case, Sequence, Activity diagrams; task models (hierarchical tasks, temporal operators, task allocation)",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Scenario-Driven Engineering"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/scenario-driven-engineering.html#preparation-readings",
+    "href": "2025-2026/content/scenario-driven-engineering.html#preparation-readings",
+    "title": "Scenario-Driven Engineering",
+    "section": "",
+    "text": "John M. Carroll, Making Use: Scenario-based Design of Human-Computer Interactions (MIT Press, 2000).\nCarroll, “Five Reasons for Scenario-Based Design” (1999).\nRosson & Carroll, “Scenario-Based Design” (HCI Handbook chapter, 2002).\nKelley, “Wizard of Oz (WoZ): a yellow brick journey” (2018).\nNASA Human Systems Integration Handbook (2021) for an HSI framing.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Scenario-Driven Engineering"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/scenario-driven-engineering.html#notes",
+    "href": "2025-2026/content/scenario-driven-engineering.html#notes",
+    "title": "Scenario-Driven Engineering",
+    "section": "",
+    "text": "Keep scenarios short, concrete, and testable—they should be easy to share and revise.\nA good TO-BE scenario includes:\n\nactor goals, system feedback, decision points, and realistic context constraints (time, environment, devices).\n\nError scenarios are not “edge cases”; they are where safety, trust, and real-world usability often show up first.\nTreat diagrams as communication tools: choose the lightest representation that still aligns stakeholders.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Scenario-Driven Engineering"
+    ]
+  },
+  {
     "objectID": "2025-2026/content/ethnographic-tools.html",
     "href": "2025-2026/content/ethnographic-tools.html",
     "title": "Ethnographic Tools",
