@@ -9,14 +9,55 @@ type: class
 
 # Scenario-Driven Engineering
 
+
+## Synopsis
+
+Scenario-Driven Engineering introduces **scenario-based design** as a practical way to tackle **ill-defined problems** in Human-Computer Interaction (HCI) and Human-System Integration (HSI). Instead of jumping straight to solutions (and risking *functional fixation*), we make future use **concrete early** through scenarios, then progressively refine requirements, interactions, and system behaviors—often supported by **rapid prototyping** and **human-in-the-loop simulation** (Wizard of Oz).
+
+This session connects user-centered analysis (who/why/what/how) with actionable design artifacts: **personas, scenarios (as-is / to-be / error), claim analysis**, and lightweight modeling tools (e.g., UML, task models) that help teams communicate and iterate.
+
+
 ## Session Objectives
 
-## Agenda
+By the end of the session, you should be able to:
+- Explain why scenarios are effective for **complex, ill-defined** design problems.
+- Produce clear **AS-IS** (problem) and **TO-BE** (future) scenarios from user and context insights.
+- Create **error/abnormal scenarios** to reveal failure modes and safety/UX risks.
+- Use **claim analysis** to compare design alternatives (pros/cons, assumptions, constraints).
+- Select appropriate representations (narrative, storyboard, journey map, UML, task model) for different audiences.
 
 ## Key Concepts
 
-## In-Class Activities
+- **Scenario-Based Design**
+  - A “family of techniques” describing *future use* concretely early in development.
+  - Scenario structure:
+    - Declarative: initial situation, context, actors, goals, resources
+    - Procedural: sequence of actions/events leading to a final situation
+  - Types:
+    - **AS-IS** (problem scenario): current reality, workarounds, pain points
+    - **TO-BE**: intended future interaction with the proposed system
+    - **Error scenarios**: what can go wrong (abnormal/critical/urgent situations)
+- **Claim Analysis**
+  - Evaluate scenario variants by listing trade-offs, constraints, and assumptions (what improves vs. what new risks appear).
+- **Scenario building methods**
+  - Ethnographic field study, participatory design, reuse of existing materials, theory-based approaches, creative sessions (“what if?”), and technology-driven exploration.
+- **Representations & modeling tools**
+  - Narrative text, storyboard, flowcharts, journey maps
+  - Model-based: UML Use Case, Sequence, Activity diagrams; task models (hierarchical tasks, temporal operators, task allocation)
+
 
 ## Preparation & Readings
 
+  - John M. Carroll, *Making Use: Scenario-based Design of Human-Computer Interactions* (MIT Press, 2000).
+  - Carroll, “Five Reasons for Scenario-Based Design” (1999).
+  - Rosson & Carroll, “Scenario-Based Design” (HCI Handbook chapter, 2002).
+  - Kelley, “Wizard of Oz (WoZ): a yellow brick journey” (2018).
+  - NASA Human Systems Integration Handbook (2021) for an HSI framing.
+
 ## Notes
+
+- Keep scenarios **short, concrete, and testable**—they should be easy to share and revise.
+- A good TO-BE scenario includes:
+  - actor goals, system feedback, decision points, and realistic context constraints (time, environment, devices).
+- Error scenarios are not “edge cases”; they are where **safety, trust, and real-world usability** often show up first.
+- Treat diagrams as communication tools: choose the lightest representation that still aligns stakeholders.
