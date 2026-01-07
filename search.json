@@ -306,7 +306,7 @@
     "href": "2025-2026/content/concept-of-operations-conops.html",
     "title": "Concept of Operations (CONOPS)",
     "section": "",
-    "text": "This session introduces the Concept of Operations (ConOps) as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the user’s perspective: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.\n\n\n\nBy the end of the session, students should be able to: - Explain what a ConOps is and why it exists, beyond formal definitions. - Identify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination). - Situate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement). - Compare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them. - Critically assess whether a given ConOps format effectively serves its intended users.\n\n\n\n\nConcept of Operations vs. Operational Concept (ConOps / OpsCon)\nUser-centered viewpoint and stakeholder diversity\nNarrative vs. formalized representations\nLife-cycle evolution of ConOps\nConOps as a communication and alignment artifact\nRelationships between ConOps, requirements, and architecture\nStandards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)\nConsistency, congruence, and traceability without over-specification\n\n\n\n\n\nGroup analysis: Students examine short excerpts from different ConOps (military, civil, space, information systems) and identify the implied users and decisions supported.\nPerspective shift exercise: Each group rewrites a small portion of a ConOps from a different stakeholder viewpoint (operator, program manager, regulator, maintainer).\nDebrief discussion: Is ConOps a document, a process, or a shared understanding?\n\n\n\n\n\nDOD Definition\nSEBOK\nJoint Publication 5-0: Joint Planning\nCase Study Video ## Notes\nThere is no single “correct” ConOps format; effectiveness depends on context and audience.\nEarly-stage ConOps tend to be exploratory and narrative; later ones often stabilize but may lose accessibility.\nTreat ConOps as a living artifact that supports reasoning, communication, and learning—not merely compliance.\nTension between formalization (for rigor and simulation) and storytelling (for shared understanding) is intentional and productive.",
+    "text": "This session introduces the Concept of Operations (ConOps) as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the user’s perspective: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.\n\n\n\nBy the end of the session, students should be able to: - Explain what a ConOps is and why it exists, beyond formal definitions. - Identify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination). - Situate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement). - Compare multiple ConOps artifacts and recognize how perspective, maturity, and purpose shape them. - Critically assess whether a given ConOps format effectively serves its intended users.\n\n\n\n\nConcept of Operations vs. Operational Concept (ConOps / OpsCon)\nUser-centered viewpoint and stakeholder diversity\nNarrative vs. formalized representations\nLife-cycle evolution of ConOps\nConOps as a communication and alignment artifact\nRelationships between ConOps, requirements, and architecture\nStandards and guidance (e.g. IEEE, ISO/IEC/IEEE 15288, AIAA)\nConsistency, congruence, and traceability without over-specification",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -350,11 +350,47 @@
     ]
   },
   {
-    "objectID": "2025-2026/content/concept-of-operations-conops.html#in-class-activities",
-    "href": "2025-2026/content/concept-of-operations-conops.html#in-class-activities",
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#opening-exposure-industrial-perspective-20-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#opening-exposure-industrial-perspective-20-min",
     "title": "Concept of Operations (CONOPS)",
-    "section": "",
-    "text": "Group analysis: Students examine short excerpts from different ConOps (military, civil, space, information systems) and identify the implied users and decisions supported.\nPerspective shift exercise: Each group rewrites a small portion of a ConOps from a different stakeholder viewpoint (operator, program manager, regulator, maintainer).\nDebrief discussion: Is ConOps a document, a process, or a shared understanding?",
+    "section": "1. Opening Exposure – Industrial Perspective (≈20 min)",
+    "text": "1. Opening Exposure – Industrial Perspective (≈20 min)\nActivity - Watch a ~20-minute video presenting how ConOps is used in an industrial / defense context. - Video link: Case Study Video Quick debrief (5 min) - First reactions: What surprised you? - What seemed implicit rather than explicitly stated? - Where does ConOps appear in the life cycle? - What other artifacts are mentioned alongside ConOps?",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#concept-exploration-definitions-conceptual-landscape-3545-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#concept-exploration-definitions-conceptual-landscape-3545-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "2. Concept Exploration – Definitions & Conceptual Landscape (≈35–45 min)",
+    "text": "2. Concept Exploration – Definitions & Conceptual Landscape (≈35–45 min)\n\nObjective\nStudents independently explore how ConOps is defined, framed, and related to other concepts across domains and standards.\n\n\nActivity\n\nTeams perform web-based exploration (standards, academic sources, industry blogs, military doctrine, systems engineering communities).\nEach team builds a mind map on MIRO board:\n\nCore concept: Concept of Operations (ConOps)\nRelated concepts\nSource-backed definitions (each node must reference its source)\n\n\n\n\nMIRO Board – Guiding Questions (to seed exploration)\nWrite these questions directly on the MIRO board as prompts:\n\nCore Definition\n\nHow is ConOps defined?\nWho defines it (standard, military, industry, academia)? Add the source (url, document).\nIs ConOps defined as a document, a description, a model, or a process?\n\n\n\nRelated Concepts\n\nWhat is the relationship between:\n\nConOps and OpsCon?\nConOps and requirements?\nConOps and architecture?\nConOps and scenarios / use cases?\n\nWhere do boundaries become unclear or overlap?\n\n\n\nPerspective & Intent\n\nFrom whose point of view is ConOps written?\nWho is not the intended reader?\nWhat assumptions about the system or its context are embedded?\n\n\n\nLife-Cycle Positioning\n\nAt which stages of the life cycle is ConOps mentioned or emphasized?\nDoes its role change between:\n\nEarly concept / R&D\nAcquisition\nOperations\nEvolution / retirement?\n\n\n\n\nForm & Representation\n\nIn what forms does ConOps appear?\n\nNarrative text\nGraphics / diagrams\nModels (e.g., SysML)\n\nWhat seems to drive the choice of form?\n\n\n\n\nShort Wrap-Up & Synthesis (10 min)\n\nEach team briefly presents one unexpected insight from their map.\nInstructor synthesizes:\n\nCommonalities\nTensions\nContradictions across definitions",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#analysis-of-existing-conops-research-papers-4560-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#analysis-of-existing-conops-research-papers-4560-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "3. Analysis of Existing ConOps & Research Papers (≈45–60 min)",
+    "text": "3. Analysis of Existing ConOps & Research Papers (≈45–60 min)\n\nObjective\nMove from definition to usage, focusing on ConOps as a mutable artefact shaped by users, needs, and life-cycle context.\n\n\nActivity\n\nTeams analyze provided research papers and real ConOps examples.\nEach team applies a shared analytical framework.\n\n\n\nAnalysis Framework (Questions to Answer)\n\nUSERS\n\nWho are the explicit users of this ConOps?\nWho are the implicit users?\nAre there multiple user perspectives coexisting?\nHow do user needs differ across the life cycle?\n\n\n\nPERSPECTIVES\n\nOperational\nManagerial / decision-making\nEngineering / design\nHuman-System Integration (HSI)\nRegulatory / certification\n\n\n\nLIFE CYCLE\n\nAt what life-cycle stage does this ConOps appear?\nDoes it anticipate future stages?\nIs it stable or clearly evolving?\n\n\n\nNEEDS\n\nWhat decisions does this ConOps support?\nWhat actions does it enable or constrain?\nAre HSI concerns explicit or implicit?\nWhich human roles are described, ignored, or abstracted away?\n\n\n\nPRODUCER / CONSUMER VIEW\n\nWho produced the ConOps?\nWho consumes it?\nIs there a mismatch between producer intent and consumer use?\n\n\n\nCONOPS AS AN ARTEFACT\n\nLevel of abstraction (high-level vision vs. operational detail)\nDegree of formalism\nIs it:\n\nDescriptive?\nPrescriptive?\nExploratory?\n\n\n\n\nFORM & REPRESENTATION\n\nNarrative text\nGraphics\nModels\nHybrid\nWhat does the chosen form emphasize or hide?\n\n\n\nWHY / HOW / WHAT\n\nWhy does this ConOps exist?\nHow is it meant to be used?\nWhat does it explicitly define—and what does it leave open?\n\n\n\nCONTINUUM\n\nWhere does this ConOps sit on a continuum between:\n\nVision ↔︎ Execution\nHuman-centered ↔︎ System-centered\nInformal ↔︎ Formal",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Concept of Operations (CONOPS)"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/concept-of-operations-conops.html#wrap-up-collective-reflection-15-min",
+    "href": "2025-2026/content/concept-of-operations-conops.html#wrap-up-collective-reflection-15-min",
+    "title": "Concept of Operations (CONOPS)",
+    "section": "4. Wrap-Up & Collective Reflection (≈15 min)",
+    "text": "4. Wrap-Up & Collective Reflection (≈15 min)\nClass discussion - What patterns emerge across different ConOps? - In what ways does ConOps “mutate” over time? - When does ConOps stop being useful—or become dangerous?\n\nFinal Integrative Question (HSI Focus)\nFrom your perspective: &gt; What should be explicitly present in a ConOps to properly address Human-System Integration (HSI)?\nPrompt dimensions: - Human roles and responsibilities - Cognitive workload and decision authority - Coordination and communication - Evolution of human involvement across the life cycle\nStudents answer briefly in teams, then share highlights.",
     "crumbs": [
       "Home",
       "Classes & Sessions",
@@ -365,8 +401,8 @@
     "objectID": "2025-2026/content/concept-of-operations-conops.html#preparation-readings",
     "href": "2025-2026/content/concept-of-operations-conops.html#preparation-readings",
     "title": "Concept of Operations (CONOPS)",
-    "section": "",
-    "text": "DOD Definition\nSEBOK\nJoint Publication 5-0: Joint Planning\nCase Study Video ## Notes\nThere is no single “correct” ConOps format; effectiveness depends on context and audience.\nEarly-stage ConOps tend to be exploratory and narrative; later ones often stabilize but may lose accessibility.\nTreat ConOps as a living artifact that supports reasoning, communication, and learning—not merely compliance.\nTension between formalization (for rigor and simulation) and storytelling (for shared understanding) is intentional and productive.",
+    "section": "Preparation & Readings",
+    "text": "Preparation & Readings\n\nDOD Definition\nSEBOK\nJoint Publication 5-0: Joint Planning\nCase Study Video ## Notes\nThere is no single “correct” ConOps format; effectiveness depends on context and audience.\nEarly-stage ConOps tend to be exploratory and narrative; later ones often stabilize but may lose accessibility.\nTreat ConOps as a living artifact that supports reasoning, communication, and learning—not merely compliance.\nTension between formalization (for rigor and simulation) and storytelling (for shared understanding) is intentional and productive.",
     "crumbs": [
       "Home",
       "Classes & Sessions",
