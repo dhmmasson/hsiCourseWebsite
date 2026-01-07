@@ -9,10 +9,13 @@ type: class
 # Concept of Operations (CONOPS)
 
 ## Synopsis
+
 This session introduces the **Concept of Operations (ConOps)** as a central yet evolving artifact in systems engineering. Students explore ConOps primarily from the *user’s perspective*: who uses it, for what purposes, and how its form and content change across the system life-cycle. Rather than treating ConOps as a fixed document, the class frames it as a mutable boundary object that mediates understanding between stakeholders, decision-makers, engineers, and operators. Emphasis is placed on narrative intent, operational meaning, and context, rather than on prescriptive templates.
 
 ## Session Objectives
+
 By the end of the session, students should be able to:
+
 - Explain what a ConOps is and why it exists, beyond formal definitions.
 - Identify different ConOps/OpsCon users and articulate their needs (decisions, actions, coordination).
 - Situate a ConOps along the life-cycle continuum (early concept, acquisition, operations, evolution, retirement).
@@ -20,6 +23,7 @@ By the end of the session, students should be able to:
 - Critically assess whether a given ConOps format effectively serves its intended users.
 
 ## Key Concepts
+
 - Concept of Operations vs. Operational Concept (ConOps / OpsCon)
 - User-centered viewpoint and stakeholder diversity
 - Narrative vs. formalized representations
@@ -34,9 +38,12 @@ By the end of the session, students should be able to:
 ## 1. Opening Exposure – Industrial Perspective (≈20 min)
 
 **Activity**
+
 - Watch a ~20-minute video presenting how ConOps is used in an industrial / defense context.
 - Video link: [Case Study Video](https://incose2-my.sharepoint.com/:v:/g/personal/dimitri_masson_incose_net/IQCco2nmtJxNS7TLUay_G0pMAS1P0_iCYUSeC-8mmS_tqs0?e=Zgd2Lw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Quick debrief (5 min)**
+
 - First reactions: What surprised you?
 - What seemed *implicit* rather than explicitly stated?
 - Where does ConOps appear in the life cycle?
@@ -50,6 +57,7 @@ By the end of the session, students should be able to:
 Students independently explore how ConOps is defined, framed, and related to other concepts across domains and standards.
 
 ### Activity
+
 - Teams perform **web-based exploration** (standards, academic sources, industry blogs, military doctrine, systems engineering communities).
 - Each team builds a **mind map on [MIRO board](https://miro.com/app/board/uXjVGUNpaLI=/?share_link_id=853735028284)**:
   - Core concept: *Concept of Operations (ConOps)*
@@ -61,11 +69,13 @@ Students independently explore how ConOps is defined, framed, and related to oth
 Write these questions directly on the [MIRO board](https://miro.com/app/board/uXjVGUNpaLI=/?share_link_id=853735028284) as prompts:
 
 #### Core Definition
+
 - How is *ConOps* defined?
 - Who defines it (standard, military, industry, academia)? Add the source (url, document).
 - Is ConOps defined as a **document**, a **description**, a **model**, or a **process**?
 
 #### Related Concepts
+
 - What is the relationship between:
   - ConOps and OpsCon?
   - ConOps and requirements?
@@ -74,11 +84,13 @@ Write these questions directly on the [MIRO board](https://miro.com/app/board/uX
 - Where do boundaries become unclear or overlap?
 
 #### Perspective & Intent
+
 - From whose point of view is ConOps written?
 - Who is *not* the intended reader?
 - What assumptions about the system or its context are embedded?
 
 #### Life-Cycle Positioning
+
 - At which stages of the life cycle is ConOps mentioned or emphasized?
 - Does its role change between:
   - Early concept / R&D
@@ -87,6 +99,7 @@ Write these questions directly on the [MIRO board](https://miro.com/app/board/uX
   - Evolution / retirement?
 
 #### Form & Representation
+
 - In what forms does ConOps appear?
   - Narrative text
   - Graphics / diagrams
@@ -94,6 +107,7 @@ Write these questions directly on the [MIRO board](https://miro.com/app/board/uX
 - What seems to drive the choice of form?
 
 ### Short Wrap-Up & Synthesis (10 min)
+
 - Each team briefly presents one *unexpected insight* from their map.
 - Instructor synthesizes:
   - Commonalities
@@ -191,16 +205,20 @@ Students answer briefly in teams, then share highlights.
 
 
 ## Preparation & Readings
+
 - [DOD Definition](https://www.dau.edu/acquipedia-article/concept-operations-conops)
 - [SEBOK](https://sebokwiki.org/wiki/Concept_of_Operations_(ConOps)_(glossary))
 - [Joint Publication 5-0: Joint Planning](https://www.airforcespecialtactics.af.mil/Portals/80/prototype/assets/joint-pub-jpub-5-0-joint-planning.pdf)
+- [NASA Systems Engineering Handbook](https://www.nasa.gov/reference/4-0-system-design-processes/)
 - [Case Study Video](https://incose2-my.sharepoint.com/:v:/g/personal/dimitri_masson_incose_net/IQCco2nmtJxNS7TLUay_G0pMAS1P0_iCYUSeC-8mmS_tqs0?e=Zgd2Lw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Some additional websites for exploration:
+
 - [https://specinnovations.com/blog/what-goes-into-a-conops](https://specinnovations.com/blog/what-goes-into-a-conops)
 - [https://argondigital.com/blog/general/conops-vs-opscon-guide](https://argondigital.com/blog/general/conops-vs-opscon-guide/)
 
 ### Conops Examples for Analysis
+
 - [PalAerospace](https://palaerospace.com/wp-content/uploads/2024/08/CONOPS-Guide-Checklist-V3-1.pdf)
 - [Eurocontrol Concept of Operations for the ADS-C Common Service](assets/eurocontrol-del-21-oep-wst-12-2-conops-edition-1-0.pdf) found there : https://www.eurocontrol.int/event/operational-excellence-programme-ats-b2-workshop-ads-c-common-service-conops
 - [Sesar USpace](https://www.sesarju.eu/sites/default/files/documents/reports/U-space%20CONOPS%204th%20edition.pdf)
