@@ -184,25 +184,11 @@ Move from *definition* to *usage*, focusing on ConOps as a **mutable artefact** 
 
 ---
 
-## 4. Wrap-Up & Collective Reflection (≈15 min)
-
-**Class discussion**
-- What patterns emerge across different ConOps?
-- In what ways does ConOps “mutate” over time?
-- When does ConOps stop being useful—or become dangerous?
-
 ### Final Integrative Question (HSI Focus)
 **From your perspective:**
 > *What should be explicitly present in a ConOps to properly address Human-System Integration (HSI)?*
 
-Prompt dimensions:
-- Human roles and responsibilities
-- Cognitive workload and decision authority
-- Coordination and communication
-- Evolution of human involvement across the life cycle
-
-Students answer briefly in teams, then share highlights.
-
+What HSI perspectives appears in the analyzed ConOps? What is missing?
 
 ## Preparation & Readings
 
