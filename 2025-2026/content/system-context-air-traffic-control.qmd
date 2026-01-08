@@ -9,13 +9,16 @@ type: class
 
 # System Context and Air Traffic Control
 
-## Session Objectives
+## Synopsis
+La complexité des systèmes sociotechniques se traduit en opération par l'émergence de propriétés et de fonctions qui sont difficiles à anticiper durant la phase de conception. Les principes de l'intégration humains-systèmes (HSI) préconisent l'utilisation de nouvelles méthodes pour acquérir un maximum de connaissances sur le système d'intérêt au plus tôt du cycle de vie afin de détecter ces propriétés émergentes et d'être en mesure d'adapter l'architecture du système en conséquence. L'existence de ces propriétés est en partie due à la difficulté d'identifier en amont les éléments caractéristiques et pertinents du contexte opérationnel du système, lequel peut différer sensiblement de l'environnement de conception, de tests et d'intégration de celui-ci. Ce cours s'intéresse à examplifier la complexité sociotechnique à travers l'exemple des tours de contrôle aérien et en particulier des tours distantes.
 
-## Agenda
+## Session Objectives
+- See an example of a typical complex sociotechnical system and relate it to HSI principles seen in earlier classes
 
 ## Key Concepts
 
 ## In-Class Activities
+- [Slides du cours](assets/atc.pdf)
 
 ## Preparation & Readings
 
