@@ -8,9 +8,10 @@ type: class
 
 # Training in HSI
 
-## Session Objectives
+## Synopsis
 
-## Agenda
+
+## Session Objectives
 
 ## Key Concepts
 

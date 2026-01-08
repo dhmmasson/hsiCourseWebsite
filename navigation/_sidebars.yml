@@ -69,11 +69,11 @@ website:
             - text: "<b>Jour 7</b>"            
             - text: "HF Evaluation & HITLS"
               href: 2025-2026/content/hf-evaluation-hitls.qmd
-            - text: "---"
-            - text: "<b>Jour 8</b>"            
             - text: "Training in HSI"
               href: 2025-2026/content/training-in-hsi.qmd
     
+            - text: "---"
+            - text: "<b>Jour 8</b>"            
             - text: "Risk-Taking Prevention & Design"
               href: 2025-2026/content/risk-taking-prevention-design.qmd
         - section: "Evaluations"
