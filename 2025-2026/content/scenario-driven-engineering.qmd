@@ -26,6 +26,10 @@ By the end of the session, you should be able to:
 - Use **claim analysis** to compare design alternatives (pros/cons, assumptions, constraints).
 - Select appropriate representations (narrative, storyboard, journey map, UML, task model) for different audiences.
 
+## Slides
+
+![Scenario-Driven Engineering Slides (PDF)](assets/Scenario-Driven-Engineering_20260107.pdf){width=100% height="600px" toolbar=0 navpanes=0 scrollbar=0 statusbar=0 messages=0 scrollbar=0}
+
 ## Key Concepts
 
 - **Scenario-Based Design**
