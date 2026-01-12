@@ -9,14 +9,31 @@ type: class
 
 # PRODEC & Robot Fleet Management
 
+## Synopsis
+
+This session present the PRODEC method through two case studies : the Mohican Air Combat System and a Robot Fleet Management system for an Oil and Gas platform inspection application. 
+
+The purpose of the PRODEC [scenario-based design method](scenario-driven-engineering.qmd) is the incremental crossfertilization and refinement of procedural scenarios and declarative configurations. It uses virtual prototypes of the developed systems (mainly life-critical systems) to conduct human-in-the-loop simulations (HITLSs). Based on human systems integration (HSI) principles and criteria, as well as expertise and experience in the domain  at stake, this HSI approach grounded in virtual environments requires a clear definition of physical and cognitive tangibility metrics to assess the distance between virtual and tangible (grasp) dimensions of the system being developed when it is put to work. PRODEC considers human and machine systems described in terms of structures and functions incrementally designed using procedural scenarios (i.e., stories) in task and activity networks, which provide life to declarative configurations (i.e., system’s functions and structures). This active modeling and simulation process enables the discovery of emergent structures and functions of the system being developed when it is virtually operated. 
 ## Session Objectives
 
-## Agenda
+
+
+By the end of the session, you should be able to:
+- Explain the PRODEC method and its main principles.
+- Understand how PRODEC can be applied to the design of complex systems.
+
 
 ## Key Concepts
 
-## In-Class Activities
+- PRODEC method
+- Scenario-based design
+- Human-in-the-loop simulation (HITLS)
+- Human Systems Integration (HSI)
 
 ## Preparation & Readings
+
+- [Slides Prodec - Mohican - Air Combat System]
+- [Slides Prodec Robot Fleet Management](assets/HSI-CaseStudy_OilRig-20250114.pdf)
+- [Boy 2024 Prodec](https://dhmmasson.github.io/publications/_files/boy2024_PRODECHuman.pdf) Research paper that present the Prodec Method
 
 ## Notes
