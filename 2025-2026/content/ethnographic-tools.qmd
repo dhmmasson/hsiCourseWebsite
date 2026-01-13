@@ -17,7 +17,7 @@ This course provides an introduction to ergonomic methods and their use in techn
 ## Key Concepts
 
 ## In-Class Activities
-![Slides du cours](assets/ethnographic.pdf){width=100% height="600px" toolbar=0 navpanes=0 scrollbar=0 statusbar=0 messages=0 scrollbar=0}
+![Slides du cours](assets/ethnographic.pdf){width=100% height="600px" toolbar=0 navpanes=0 scrollbar=0 statusbar=0 messages=0 view=Fit}
 
 
 ## Preparation & Readings
