@@ -1034,6 +1034,66 @@
     ]
   },
   {
+    "objectID": "2025-2026/content/training-in-hsi.html",
+    "href": "2025-2026/content/training-in-hsi.html",
+    "title": "Training in HSI",
+    "section": "",
+    "text": "This class addresses training as a core property of Human–System Integration (HSI) rather than a secondary activity that follows system deployment. Starting from classical notions of usability and user experience (UX), the course progressively introduces learnability, acceptance, and training engineering as critical dimensions for complex interactive systems.\nThe lecture emphasizes that well-designed systems are not necessarily walk-up-and-use, especially in safety-critical and command-and-control contexts. Through industrial examples (aviation, space systems, cockpit procedures) and theoretical models (ISO standards, TAM, learnability curves), the session shows how training, interface design, and system similarity must be jointly engineered to support users over time, from novice to expert.\n\n\n\n\n\n\nSlides Training in HSI\n\n\n\n\n\nBy the end of this session, students should be able to:\n\nDistinguish clearly between usability, user experience (UX), acceptance, and learnability\nExplain why training cannot compensate for poor interactive system design\nIdentify learnability properties (predictability, consistency, familiarity, generalizability, etc.)\nAnalyze how training effectiveness, efficiency, and satisfaction can be assessed\nUnderstand the specific challenges of training in complex and safety-critical systems\nRecognize the importance of system similarity and differential training in industrial contexts\n\n\n\n\n\nHuman–System Integration (HSI)\nInteractive systems vs. reactive or transformational systems\nUsability (ISO 9241-11): effectiveness, efficiency, satisfaction\nUser Experience (UX) dimensions: aesthetics, emotion, meaning, stimulation, identification, social connectedness\nLearnability as a first-class system property\nLearning curves and forgetting curves\nTraining effectiveness, efficiency, and satisfaction\nTechnology Acceptance Model (TAM)\nDifferential training and cross-qualification\nCommand and control systems\nPOISE framework (People, Organization, Interactive System, Environment, System)",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Training in HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/training-in-hsi.html#synopsis",
+    "href": "2025-2026/content/training-in-hsi.html#synopsis",
+    "title": "Training in HSI",
+    "section": "",
+    "text": "This class addresses training as a core property of Human–System Integration (HSI) rather than a secondary activity that follows system deployment. Starting from classical notions of usability and user experience (UX), the course progressively introduces learnability, acceptance, and training engineering as critical dimensions for complex interactive systems.\nThe lecture emphasizes that well-designed systems are not necessarily walk-up-and-use, especially in safety-critical and command-and-control contexts. Through industrial examples (aviation, space systems, cockpit procedures) and theoretical models (ISO standards, TAM, learnability curves), the session shows how training, interface design, and system similarity must be jointly engineered to support users over time, from novice to expert.",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Training in HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/training-in-hsi.html#slides",
+    "href": "2025-2026/content/training-in-hsi.html#slides",
+    "title": "Training in HSI",
+    "section": "",
+    "text": "Slides Training in HSI",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Training in HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/training-in-hsi.html#session-objectives",
+    "href": "2025-2026/content/training-in-hsi.html#session-objectives",
+    "title": "Training in HSI",
+    "section": "",
+    "text": "By the end of this session, students should be able to:\n\nDistinguish clearly between usability, user experience (UX), acceptance, and learnability\nExplain why training cannot compensate for poor interactive system design\nIdentify learnability properties (predictability, consistency, familiarity, generalizability, etc.)\nAnalyze how training effectiveness, efficiency, and satisfaction can be assessed\nUnderstand the specific challenges of training in complex and safety-critical systems\nRecognize the importance of system similarity and differential training in industrial contexts",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Training in HSI"
+    ]
+  },
+  {
+    "objectID": "2025-2026/content/training-in-hsi.html#key-concepts",
+    "href": "2025-2026/content/training-in-hsi.html#key-concepts",
+    "title": "Training in HSI",
+    "section": "",
+    "text": "Human–System Integration (HSI)\nInteractive systems vs. reactive or transformational systems\nUsability (ISO 9241-11): effectiveness, efficiency, satisfaction\nUser Experience (UX) dimensions: aesthetics, emotion, meaning, stimulation, identification, social connectedness\nLearnability as a first-class system property\nLearning curves and forgetting curves\nTraining effectiveness, efficiency, and satisfaction\nTechnology Acceptance Model (TAM)\nDifferential training and cross-qualification\nCommand and control systems\nPOISE framework (People, Organization, Interactive System, Environment, System)",
+    "crumbs": [
+      "Home",
+      "Classes & Sessions",
+      "Training in HSI"
+    ]
+  },
+  {
     "objectID": "2025-2026/content/projet-interim-report.html",
     "href": "2025-2026/content/projet-interim-report.html",
     "title": "Projet (Interim Report)",
