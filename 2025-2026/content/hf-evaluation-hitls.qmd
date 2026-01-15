@@ -9,14 +9,22 @@ type: class
 
 # HF Evaluation & HITLS
 
-## Session Objectives
-
 ## Agenda
+- Introduction to Human Factors (HF) Evaluation
+- Overview of Human-In-The-Loop Simulations (HITLS) and Wizard of Oz (WoZ) techniques
+
+## Slides 
+
+![Slides HF Evaluation & HITLS](assets/CoursHSI-MethodeEval-MOREL.pdf){width=100% height="600px" toolbar=0 navpanes=0 scrollbar=0 statusbar=0 messages=0 view=Fit}
+![Slides Wizard of Oz](assets/WizardOfOz.pdf){width=100% height="600px" toolbar=0 navpanes=0 scrollbar=0 statusbar=0 messages=0 view=Fit}
 
 ## Key Concepts
 
-## In-Class Activities
+- Human Factors (HF) Evaluation
+- Wizard of Oz (WoZ) Technique
+
 
 ## Preparation & Readings
 
+- [Wizard of Oz Method](assets/p26-kelley.pdf) Seminal paper on the Wizard of Oz method for human-computer interaction research. 
 ## Notes
